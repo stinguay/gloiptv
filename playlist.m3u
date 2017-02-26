@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title=AFRICAN, tvg-logo="http://1.bp.blogspot.com/-EvnqNVeCgfM/U6PXd0JM-3I/AAAAAAAACPc/iEfYuMczTXI/w1200-h630-p-k-nu/sports-balls.png",[COLOR yellow] NEWS CHANNELS [/COLOR]
+#EXTINF:-1 group-title=NEWS CHANNELS,[COLOR blue] Aljazeera English [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://quicklink.tv/wp-content/uploads/2014/05/al-jazeera-logo.jpg", Aljazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
@@ -36,7 +36,7 @@ http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.52image.com/uploadfile/logo/C/C-SPAN2.jpg, C-SPAN 2 
 http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/cc/cspan3.png", C-SPAN 3
+#EXTINF:-1 tvg-logo="http://okteve.com/wp-content/uploads/media/f7036c2e6ac23c9e08e0a99338ad2636.jpeg", C-SPAN 3
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/DW_Logo_2012.png",Deutsche Welle
@@ -101,7 +101,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-EvnqNVeCgfM/U6PXd0JM-3I/AAAAAAAACPc/iEfYuMczTXI/w1200-h630-p-k-nu/sports-balls.png",[COLOR yellow] SPORTS CHANNELS [/COLOR]
+#EXTINF:-1 group-title=SPORTS CHANNELS
 ***********
 #EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2014/262193_dreambox-sat.com.png", AD Sport 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
