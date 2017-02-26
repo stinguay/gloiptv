@@ -1,7 +1,14 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title=NEWS CHANNELS, tvg-logo="http://quicklink.tv/wp-content/uploads/2014/05/al-jazeera-logo.jpg",Aljazeera English
+#EXTINF:-1 group-title=NEWS CHANNELS, tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/18/WeatherNation_icon.png/revision/latest/scale-to-width-down/200?cb=20160110193046",Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/18/WeatherNation_icon.png/revision/latest/scale-to-width-down/200?cb=20160110193046",Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 tvg-logo="http://quicklink.tv/wp-content/uploads/2014/05/al-jazeera-logo.jpg",Aljazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
 #EXTINF:-1 tvg-logo="http://img4.wikia.nocookie.net/__cb20130610165528/logopedia/images/c/cd/ABC_News_2013.png",ABC News
