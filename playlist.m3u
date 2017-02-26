@@ -1,8 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title=NEWS CHANNELS,[COLOR blue] Aljazeera English [/COLOR]
-***********
+#EXTINF:-1 group-title=NEWS CHANNELS, tvg-logo="http://quicklink.tv/wp-content/uploads/2014/05/al-jazeera-logo.jpg", Aljazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://quicklink.tv/wp-content/uploads/2014/05/al-jazeera-logo.jpg", Aljazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
@@ -101,8 +103,9 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 
-#EXTINF:-1 group-title=SPORTS CHANNELS
-***********
+#EXTINF:-1 group-title=SPORTS CHANNELS tvg-logo="http://quicklink.tv/wp-content/uploads/2014/05/al-jazeera-logo.jpg", Aljazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2014/262193_dreambox-sat.com.png", AD Sport 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
@@ -117,7 +120,6 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 
 #EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2013/6/174294.png",REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-https://www.lyngsat-logo.com/hires/cc/chelsea_tv.png
 
 #EXTINF:-1 tvg-logo="http://www.swstarone.com/wp-content/uploads/2016/11/Chelsea-TV.png",Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
@@ -307,7 +309,7 @@ http://xrxs.net/video/live-p12losa-2328.m3u8
 
 #EXTINF:1,Pac 12 WashINGTON
 http://xrxs.net/video/live-p12wash-2328.m3u8
-https://www.lyngsat-logo.com/hires/bb/bfm_fr_tv.png
+
 #EXTINF:1,BFMSPORT
 http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-4.m3u8
 
@@ -376,9 +378,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzjj_1300&tag=live&ext=m3u8&si
 
 
 
-
-
-#EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/united_arab_emirates/united_arab_emirates_640.png",[COLOR yellow] MOVIES CHANNELS [/COLOR]
+#EXTINF:-1 group-title=MOVIE CHANNELS,[COLOR blue] MOVIE CHANNELS [/COLOR]
 ***********
 
 
