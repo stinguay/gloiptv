@@ -1,24 +1,24 @@
 #EXTM3U
 
 
-#EXTINF:-1 roup-title=AFRICAN, tvg-logo="http://1.bp.blogspot.com/-EvnqNVeCgfM/U6PXd0JM-3I/AAAAAAAACPc/iEfYuMczTXI/w1200-h630-p-k-nu/sports-balls.png",[COLOR yellow] NEWS CHANNELS [/COLOR]
+#EXTINF:-1 group-title=AFRICAN, tvg-logo="http://1.bp.blogspot.com/-EvnqNVeCgfM/U6PXd0JM-3I/AAAAAAAACPc/iEfYuMczTXI/w1200-h630-p-k-nu/sports-balls.png",[COLOR yellow] NEWS CHANNELS [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/aa/al_jazeera_english.png", Aljazeera English
+#EXTINF:-1 tvg-logo="http://quicklink.tv/wp-content/uploads/2014/05/al-jazeera-logo.jpg", Aljazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/blog/wp-content/uploads/2015/03/ABC-News-logo.jpg",ABC News
+#EXTINF:-1 tvg-logo="http://img4.wikia.nocookie.net/__cb20130610165528/logopedia/images/c/cd/ABC_News_2013.png",ABC News
 http://abclive.abcnews.com/i/abc_live08@318690/index_1200_av-p.m3u8?sd=10&b=400,500-2500&rebase=on
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/aa/arirang_kr.png",Arirang
+#EXTINF:-1 tvg-logo="http://logonoid.com/images/arirang-logo.png",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/bb/bbc_persian.png",BBC PERSIAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/BBC_Persian_logo.svg/640px-BBC_Persian_logo.svg.png",BBC PERSIAN
 http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/index_800_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_arabic.png",BBC ARABIC
+#EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/wp-content/files_mf/01.bbc_arabic_logo.jpg",BBC ARABIC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png",Bloomberg
+#EXTINF:-1 tvg-logo="http://litmotors.com/wp-content/uploads/2014/01/BLOOMBERG-tv-LOGO.png",Bloomberg
 http://btvuk-i.akamaihd.net/hls/live/203321-b/btvuk_ios/P1/M24K.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.coxmediagroup.com/rw/Pub/Web/Corp/Special%20Contents/Properties/Images/JAX%20CBS47%20ACTION%20NEWS.png",CBS 47
@@ -30,16 +30,16 @@ http://184.173.179.163:1935/livenewson/livenewson/chunklist_w103255143.m3u8
 #EXTINF:-1 tvg-logo="http://www.cpac.ca/wp-content/themes/cpac/_resources/_images/structure/642x220_cpac_main_logo.png",CPAC
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/cc/cspan.png", C-SPAN NEWS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/442px-Logo_of_C-SPAN.svg.png", C-SPAN 
 http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/cc/cspan2.png", C-SPAN NEWS 2 
+#EXTINF:-1 tvg-logo="http://www.52image.com/uploadfile/logo/C/C-SPAN2.jpg, C-SPAN 2 
 http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/cc/cspan3.png", C-SPAN NEWS 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/cc/cspan3.png", C-SPAN 3
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/dd/deutsche_welle_tv_de.png",Deutsche Welle
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/DW_Logo_2012.png",Deutsche Welle
 http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/4351.jpg",DW Arabic
