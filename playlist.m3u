@@ -4,10 +4,6 @@
 #EXTINF:-1 group-title=NEWS CHANNELS, tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/18/WeatherNation_icon.png/revision/latest/scale-to-width-down/200?cb=20160110193046",Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/18/WeatherNation_icon.png/revision/latest/scale-to-width-down/200?cb=20160110193046",Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
 #EXTINF:-1 tvg-logo="http://quicklink.tv/wp-content/uploads/2014/05/al-jazeera-logo.jpg",Aljazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
@@ -101,14 +97,8 @@ http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m
 #EXTINF:-1 tvg-logo="http://www.trtarabic.tv/wp-content/uploads/2015/05/logo2.png",TRT Arabic
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/18/WeatherNation_icon.png/revision/latest/scale-to-width-down/200?cb=20160110193046",Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
-
-#EXTINF:-1 group-title=SPORTS CHANNELS, tvg-logo="http://quicklink.tv/wp-content/uploads/2014/05/al-jazeera-logo.jpg",Aljazeera English
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2014/262193_dreambox-sat.com.png", AD Sport 1 HD
+#EXTINF:-1 group-title=SPORTS CHANNELS, tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports1.png",AD sport 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports1.png",AD sport 1 HD link2
@@ -245,6 +235,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_xijia_1300&tag=live&ext=m3u
 
 #EXTINF:-1,letv Bundesliga
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_dejia_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
 #EXTINF:-1,letv Serie A
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_yijia_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
@@ -272,7 +263,7 @@ http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223
 
 #EXTINF:-1,FIGHT NETWORK
 http://87.255.53.72:9084
-https://www.lyngsat-logo.com/hires/dd/dubai_ae_sports.png
+
 #EXTINF:-1,Dubai Sports 
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 
@@ -281,7 +272,7 @@ http://dmivll.mangomolo.com/events/smil:events.smil/playlist.m3u8
 
 #EXTINF:-1,Dubai Racing 2
 http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-https://www.lyngsat-logo.com/hires/dd/dubai_ae_racing_3.png
+
 #EXTINF:-1,Dubai Sports 3
 http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/master.m3u8
 
@@ -379,12 +370,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsyx_1300&tag=live&ext=m3u8&si
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzjj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 
-
-#EXTINF:-1 group-title=MOVIE CHANNELS,[COLOR blue] MOVIE CHANNELS [/COLOR]
-***********
-
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271408",STAR Movies HD
+#EXTINF:-1 group-title=MOVIE CHANNELS,tvg-logo="http://gulf-up.com/do.php?img=271408",STAR Movies HD
 http://9898.akamai.live.selevision.com/live/9898/98988/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271415",OSN Movies Drama HD
@@ -452,10 +438,10 @@ http://selevision9894-i.akamaihd.net/hls/live/219366/98949/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcbollywood.png" ,MBC BOLLYWOOD link2
 http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_bollywood&t=ar
-https://www.lyngsat-logo.com/hires/bb/b4u_plus_ae.png
+
 #EXTINF:1,B4U+
 http://selevision9882-i.akamaihd.net/hls/live/219196/98823/master.m3u8
-https://www.lyngsat-logo.com/hires/bb/b4u_aflam_ae.png
+
 #EXTINF:1,B4U
 http://selevision9882-i.akamaihd.net/hls/live/219195/98822/1.m3u8
 
@@ -493,9 +479,7 @@ http://dlhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/united_arab_emirates/united_arab_emirates_640.png",[COLOR yellow] MUSIC CHANNELS [/COLOR]
-***********
-#EXTINF:-1,The Edge
+#EXTINF:-1 group-title=MUSIC CHANNELS,tvg-logo="http://gulf-up.com/do.php?img=271",The Edge
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master.m3u8
 
 #EXTINF:-1,Hit Tv
@@ -563,11 +547,8 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mv_1300&tag=live&ext=m3u8&sign
 
 
 
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/z1he9qtBTJ9fTQWMJZ5xR754mQvVCDK94Y7ac6pFxvMwwA6rJRHzEj4TTg2jI1dxBsHj=w300",[COLOR yellow] RELIGIOUS CHANNELS [/COLOR]
-***********
-
-#EXTINF:-1,CBN
-http://brightcove03-f.akamaihd.net/iptv1_1_900@50919?
+#EXTINF:-1 group-title=RELIGIOUS  CHANNELS,tvg-logo="http://www.tv14.net/wp-content/uploads/2010/01/CBN-News.jpg",CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
 #EXTINF:-1,DayStar 
 http://brightcove03-f.akamaihd.net/daystar_HD_720@112478?videoId=3794843439001&lineUpId=&pubId=1539097700001&playerId=3790151843001&affiliateId=&bandwidthEstimationTest=true&v=3.4.0&fp=WIN%2024,0,0,186&r=RFVIV&g=NLLBCBBEWBMI
@@ -598,7 +579,7 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
 
 #EXTINF:1, BYU Televisión
 http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/master.m3u8
-https://www.lyngsat-logo.com/hires/ff/faith_za_terrestrial.png
+
 #EXTINF:-1,Faith Africa 
 http://242419-lh.akamaihd.net/RiverGroup_iOS_1000@140036?bandwidthEstimationTest=true&v=3.3.0&fp=WIN%2024,0,0,186&r=EDLCI&g=DACHGLTLJNME
 
@@ -610,7 +591,7 @@ http://118965-lh.akamaihd.net/i/etv_live@74820/index_500_av-b.m3u8
 
 #EXTINF:0, TBN Enlace
 http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
-https://www.lyngsat-logo.com/logo/tv/num/3abn_kids_us.png
+
 #EXTINF:1, 3ABN Latino
 http://moiptvus-lh.akamaihd.net/i/latlive_1@328342/master.m3u8
 
@@ -618,11 +599,7 @@ http://moiptvus-lh.akamaihd.net/i/latlive_1@328342/master.m3u8
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png",[COLOR yellow] KIDS TV [/COLOR]
-***********
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon
+#EXTINF:-1 group-title=KIDS  CHANNELS,tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon
 http://selevision9884-i.akamaihd.net/hls/live/219261/98845/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png",Ajyal
@@ -692,10 +669,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zzx_1300&tag=live&ext=m3u8&sig
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dtez_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 
-
-#EXTINF:-1 tvg-logo="http://www.arabstoday.net/img/2015/05/exlarge/Arabstoday-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-MBC.jpg",[COLOR yellow] MBC CHANNELS [/COLOR]
-***********
-#EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/mbc_ae_1_hd_plus3.png", MBC 1 HD
+#EXTINF:-1 group-title=MBC CHANNELS,tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/mbc_ae_1_hd_plus3.png", MBC 1 HD
 http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc1hd.png" ,MBC 1 HD link2
@@ -771,11 +745,7 @@ http://selevision9886-i.akamaihd.net/hls/live/219285/98869/1.m3u8
 #EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271619",Alfa Cinema 1
 http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://kodeeresurrection.com/LILYSPORTStxts/pngs/OSN.png",[COLOR yellow] OSN CHANNELS [/COLOR]
-***********
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_sports_cricket_hd.png",OSN Sports CRICKET HD
+#EXTINF:-1 group-title=OSN CHANNELS, tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_sports_cricket_hd.png",OSN Sports CRICKET HD
 http://9893.akamai.live.selevision.com/live/9893/98934/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_sports1_hd.png",OSN Sports 1 HD
@@ -877,13 +847,9 @@ http://selevision9887-i.akamaihd.net/hls/live/219286/98870/1.m3u8
 #EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271619",Alfa Cinema 1
 http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/united_arab_emirates/united_arab_emirates_640.png",[COLOR yellow] GENERAL CHANNELS [/COLOR]
-***********
-
-#EXTINF:-1,London Live
+#EXTINF:-1 group-title=GENERAL CHANNELS,tvg-logo=http://www.speakoutchallenge.com/wp-content/uploads/2014/07/LondonLivelogo.jpg",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-https://www.lyngsat-logo.com/hires/aa/access_media_group_tv.png
+
 #EXTINF:-1,AMG TV
 http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist_2.m3u8
 
@@ -999,38 +965,34 @@ http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
 http://rtmp.infomaniak.ch/livecast/yveline1/playlist.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="http://kodeeresurrection.com/LILYSPORTStxts/pngs/OSN.png",AFRICAN CHANNELS [/COLOR]
-***********
-https://www.lyngsat-logo.com/hires/jj/joy_news_gh.png
-#EXTINF:-1,JoyNews
+#EXTINF:-1 group-title=AFRICAN CHANNELS,tvg-logo=http://www.multitvworld.com/newworld/_images/joynews_logo.jpg",JoyNews
 http://149.202.221.100:8081/live/joy/playlist.m3u8
-https://www.lyngsat-logo.com/hires/jj/joy_news_gh.png
+
 #EXTINF:-1,JoyNews backup
 rtmp://cdn.ghanatvon.com/GH-Live/ playpath=JoyNewse=1472638497&st=Oz3NLCDL1E_GbwlEFfjJigekIhLBJ_9FwdG3KZncQOCw swfUrl=http://tv.filmover.com/jwp6k/jwplayer.flash.swf pageUrl=http://www.ghanatvon.com/joy-news-tv-live.html
-https://www.lyngsat-logo.com/logo/tv/tt/tv3_gh.png
+
 #EXTINF:-1,TV3
 http://213.246.39.124:8081/live/tv3/chunks.m3u8
-https://www.lyngsat-logo.com/logo/tv/tt/tv3_gh.png
+
 #EXTINF:-1,TV3 backup
 rtmp://cdn.ghanatvon.com/live/ playpath=TV3GHe=1469093165&st=6xRyRRtJKsDLqbS-y7k3QwcE85qjt0-JVUgLYB25fJlw swfUrl=http://tv.filmover.com/jwp6k/jwplayer.flash.swf pageUrl=http://www.ghanatvon.com/tv3-ghana-live.html
-https://www.lyngsat-logo.com/hires/gg/ghana_tv.png
+
 #EXTINF:-1,GTV
 http://149.202.221.100:8081/live/gtv/playlist.m3u8
-https://www.lyngsat-logo.com/hires/gg/ghana_tv.png
+
 #EXTINF:-1,GTV Backup
 rtmp://cdn.ghanatvon.com/liveGTV/ playpath=GTVe=1472638420&st=IxsUqu0ghJdJhW1wC4dz7yD_wOzNLCDL1E_GbwlEFfjJig swfUrl=http://tv.filmover.com/jwp6k/jwplayer.flash.swf pageUrl=http://www.ghanatvon.com/gtv-live-ghana.html
+
 http://photos.myjoyonline.com/photos/news/201502/6436510124812_6247078572762.jpg
 #EXTINF:-1,Joy Prime
 http://213.246.39.124:8081/live/joyprime/chunks.m3u8
-https://www.lyngsat-logo.com/hires/gg/ghana_tv_sports_plus.png
+
 #EXTINF:-1,GTV Sports+
 http://149.202.221.100:8081/live/gtvs/playlist.m3u8
-https://www.lyngsat-logo.com/hires/uu/united_tv_gh.png
+
 #EXTINF:-1,UTV
 rtmp://cdn.ghanatvon.com/liveUTV/ playpath=UTVe=1472638242&st=sbpeXD53MVQdrohFhgofAIsUiqu0JhW1wC4dz7yD_w swfUrl=http://tv.filmover.com/jwp6k/jwplayer.flash.swf pageUrl=http://www.ghanatvon.com/utv-ghana.html
-https://www.lyngsat-logo.com/hires/aa/adom_tv_gh.png
+
 #EXTINF:-1,Adom TV
 http://144.217.69.90:8081/live/adm/playlist.m3u8
 
@@ -1042,7 +1004,7 @@ rtmp://cdn2.ghanatvon.com/live/ playpath=adomtv swfUrl=http://tv.filmover.com/jw
 
 #EXTINF:-1,Adom TV backup3
 rtmp://cdn2.ghanatvon.com/live/ playpath=adomtv swfUrl=http://tv.filmover.com/jwp5/jwplayer.flash.swf pageUrl=http://www.ghanatvon.com/
-https://www.lyngsat-logo.com/logo/tv/gg/ghana_entertainment_channel.png
+
 #EXTINF:-1,Ghana Entertainment Channel
 http://213.246.39.124:8081/live/gec/playlist.m3u8
 
@@ -1077,11 +1039,7 @@ rtmp://188.166.159.188:1935/live/nbs
 http://hls1.livestreamingcdn.com/livecdn858/livecdn858/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/united_arab_emirates/united_arab_emirates_640.png",[COLOR yellow] ARABIC CHANNELS [/COLOR]
-***********
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png", ABU DHABI
+#EXTINF:-1 group-title=ARABIC CHANNELS,tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png", ABU DHABI
 http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://up.1sw1r.com/upfiles2/cza40253.png", ABU DHABI Drama
