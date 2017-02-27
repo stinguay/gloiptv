@@ -22,7 +22,7 @@ http://btvuk-i.akamaihd.net/hls/live/203321-b/btvuk_ios/P1/M24K.m3u8
 http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/1280px-Cnn.svg.png", CNN
-http://184.173.179.163:1935/livenewson/livenewson/chunklist_w103255143.m3u8
+http://selevision9883-i.akamaihd.net/hls/live/219254/98838/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cpac.ca/wp-content/themes/cpac/_resources/_images/structure/642x220_cpac_main_logo.png",CPAC
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
@@ -115,6 +115,9 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.swstarone.com/wp-content/uploads/2016/11/Chelsea-TV.png",Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
+http://149.202.207.8:8080/kuLlieenuBEerr0Neemyou0T/Strm/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 1 HD
 http://alkass-i.akamaihd.net/hls/live/205534/1/live_38s8.m3u8
