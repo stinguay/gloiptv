@@ -832,6 +832,52 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zzx_1300&tag=live&ext=m3u8&sig
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dtez_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 
+#EXTINF:-1 type="stream", Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/BabyTV.png", BabyTV
+http://premium.exabytetv.info/HLSST/317/317-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/Boomerang.png", Boomerang
+http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL324/PROFILE03.m3u8?lg=g6
+
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/CartoonNetwork.png", CartoonNetwork
+http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL320/PROFILE03.m3u8?lg=g6
+
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/DiscoveryKids.png", DiscoveryKids
+http://premium.exabytetv.info/HLSST/309/309-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/DisneyChannel.png", DisneyChannel
+http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL312/PROFILE03.m3u8?lg=g6
+
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/DisneyChannel.png", DisneyJr.
+http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL308/PROFILE03.m3u8?lg=g6
+
+#EXTINF:-1 type="stream", DisneyXD
+http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL322/PROFILE03.m3u8?lg=g6
+
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/Nickelodeon.png", Nickelodeon
+http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL317/PROFILE03.m3u8?lg=g6
+
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/NickJr.png", NickJr
+http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL310/PROFILE03.m3u8?lg=g6
+
+#EXTINF:-1 type="stream", NickToons
+http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL314/PROFILE03.m3u8?lg=g6
+
+#EXTINF:-1 type="stream", Once Niños
+http://premium.exabytetv.info/HLSST/13432/13432-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/PakaPaka.png", PakaPaka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://tateti.tv/images/logo.png" , Tateti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title=MBC CHANNELS,tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/mbc_ae_1_hd_plus3.png", MBC 1 HD
 http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
 
