@@ -196,7 +196,7 @@ http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna3/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_4_aug2014.png",TSN SPORT 4
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna4/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png",TSN SPORT 5
+#EXTINF:-1 tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png",TSN SPORT 5
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna5/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 1
@@ -293,7 +293,7 @@ http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-3/index.m3u8
 
 
 
-EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1
 http://edge1.movcast.tv:1935/live3/mbc-pro1_source/chunklist_w209799898.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2
@@ -302,13 +302,6 @@ http://edge1.movcast.tv:1935/live3/mbc-pro2_source/chunklist_w1271109606.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 Link2
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer02/index.m3u8
 
-
-#EXTINF:-1,SUPERSPORTS
-http://46.105.161.243:8085/lighd
-#EXTINF:-1,Premium Sport HD
-http://37.46.192.238:10000/play/a007/index.m3u8
-#EXTINF:-1,Premium Sport 2 HD
-http://37.46.192.238:10000/play/a006/index.m3u8
 #EXTINF:-1,TyC Sports HD
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32-v1-a1.m3u8
 #EXTINF:-1,TyC Sports
@@ -317,19 +310,18 @@ http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXb
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s34-v1-a1.m3u8
 #EXTINF:-1,TyC Sports
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s33-v1-a1.m3u8
-#EXTINF:-1,Sports Stream HD (Stream Switches Channels)
-http://46.105.161.243:8085/lighd
+
+#EXTINF:-1,Premium Sport HD
+http://37.46.192.238:10000/play/a007/index.m3u8
+
+#EXTINF:-1,Premium Sport 2 HD
+http://37.46.192.238:10000/play/a006/index.m3u8
+
 
 
 #EXTINF:-1,GTV Sports +
 http://149.202.71.47:8081/live/gtvs/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/ff/fox_sports_1_cl.png",FOX SPORTS 1
-http://61.222.191.25/live/ch12/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/ff/fox_sports_2_africa.png",FOX SPORTS 2
-http://61.222.191.241/live/ch05/playlist.m3u8
 
 #EXTINF:-1,Dubai Sports 
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
@@ -391,6 +383,13 @@ http://125.88.92.166:30001/PLTV/88888956/224/3221227703/1.m3u8
 #EXTINF:-1 tvg-logo="http://a2.att.hudong.com/25/25/20300001024098139640257191556.jpg",GDTV SPORTS
 http://eshare.live.otvcloud.com/otv/nyz/live/channel32/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/ff/fox_sports_1_cl.png",FOX SPORTS 1
+http://61.222.191.25/live/ch12/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/ff/fox_sports_2_africa.png",FOX SPORTS 2
+http://61.222.191.241/live/ch05/playlist.m3u8
+
 #EXTINF:-1,CCTV5
 http://223.255.29.9/zhcs/live/cstv24_800k/live.m3u8
 
@@ -450,7 +449,6 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_fajia_1300&tag=live&ext=m3u
 
 #EXTINF:-1,letv F1
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_F1_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
 
 #EXTINF:-1,letv Cycling 
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zixingche_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -652,6 +650,9 @@ http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 #EXTINF:-1,Heartv 
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
+#EXTINF:0,Telehit
+http://159.203.63.115:8081/rstm/Telehit/playlist.m3u8
+
 #EXTINF:-1,M6
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
@@ -796,9 +797,6 @@ http://37.194.121.4:1234/udp/239.1.3.4:1234
 
 #EXTINF:0, Disney XD
 http://193.8.246.110:8880/play/10090
-
-#EXTINF:0,Nickelodeon
-http://37.194.121.4:1234/udp/239.1.3.4:1234 
 
 #EXTINF:0, TaTeTi
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
@@ -1624,58 +1622,161 @@ http://208.86.19.13:8080/live/103.stream/index.m3u8
 
 
 
-#EXTINF:3 group-title=”USA2”, 
+
+#EXTINF:3 group-title=”USA-XMTVPlayer”, 
 
 
-#EXTINF:0,ABC NEWS HD
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:-1,Newsmax TV HD
-http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
-#EXTINF:-1,Shift by msnbc
-http://msnbc2prod-lh.akamaihd.net/i/msnbc2_live01@9615/master.m3u8
-#EXTINF:-1,msnbc Live Event
-http://msnbclive-lh.akamaihd.net/i/msnbc_live11@183423/master.m3u8
-#EXTINF:-1,NBC News Live Event
-http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/master.m3u8
-#EXTINF:0,[USA]---WGN (CW)
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:0,[USA]---DW Asia
-http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
-#EXTINF:0,[USA]---NASA TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-#EXTINF:0,[USA]---RT HD
-http://rt-lh.akamaihd.net/i/ch_05@325609/master.m3u8
-#EXTINF:0,[USA]---Amazing Discoveries
-rtmp://amazingdrtmp.tulix.tv/amazingdiscoveries//mystream2
-#EXTINF:0,[USA]---Bloomberg TV
-http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M12K.m3u8
-#EXTINF:0,[USA]---Bloomberg TV
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:0,[USA]---Boston City TV
-http://streaming.cityofboston.gov/live/cable/playlist.m3u8
-#EXTINF:0,Eurosport 1 ENG
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+		
+#EXTINF:-1,USA: VirginTV Radio
+http://live.softiptv.com:9900/live/525/525/17366.ts
+#EXTINF:-1,USA: TVO KIDS
+http://live.softiptv.com:9900/live/525/525/17369.ts
+#EXTINF:-1,USA: TMN ACTION
+http://live.softiptv.com:9900/live/525/525/17370.ts
+#EXTINF:-1,USA: OMNI TORONTO
+http://live.softiptv.com:9900/live/525/525/17377.ts
+#EXTINF:-1,USA: NBC TORONTO
+http://live.softiptv.com:9900/live/525/525/17380.ts
+#EXTINF:-1,USA: NBC GOLF HD
+http://live.softiptv.com:9900/live/525/525/17361.ts
+#EXTINF:-1,USA: NBA
+http://live.softiptv.com:9900/live/525/525/17381.ts
+#EXTINF:-1,USA: LMN
+http://live.softiptv.com:9900/live/525/525/17384.ts
+#EXTINF:-1,USA: FMLY CHANNEL
+http://live.softiptv.com:9900/live/525/525/17391.ts
+#EXTINF:-1,USA: CRCOL HD
+http://live.softiptv.com:9900/live/525/525/17396.ts
+#EXTINF:-1,USA: CNN
+http://live.softiptv.com:9900/live/525/525/17399.ts
+#EXTINF:-1,USA: AMC
+http://live.softiptv.com:9900/live/525/525/17404.ts
+#EXTINF:-1,US-National-Geo
+http://live.softiptv.com:9900/live/525/525/5811.ts
+#EXTINF:-1,US-CNN HD
+http://live.softiptv.com:9900/live/525/525/5821.ts
+#EXTINF:-1,US: A&E
+http://live.softiptv.com:9900/live/525/525/24915.ts
+#EXTINF:-1,US: ABC HD
+http://live.softiptv.com:9900/live/525/525/24914.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://live.softiptv.com:9900/live/525/525/24918.ts
+#EXTINF:-1,US: AFN SPORTS 2
+http://live.softiptv.com:9900/live/525/525/24855.ts
+#EXTINF:-1,US: AMC
+http://live.softiptv.com:9900/live/525/525/24883.ts
+#EXTINF:-1,US: ANIMAL PLANET
+http://live.softiptv.com:9900/live/525/525/24913.ts
+#EXTINF:-1,US: ASTRO SUPERSPORT 1
+http://live.softiptv.com:9900/live/525/525/24874.ts
+#EXTINF:-1,US: ASTRO SUPERSPORT 2
+http://live.softiptv.com:9900/live/525/525/24875.ts
+#EXTINF:-1,US: ASTRO SUPERSPORT 3
+http://live.softiptv.com:9900/live/525/525/24876.ts
+#EXTINF:-1,US: BEIN SPORTS HD
+http://live.softiptv.com:9900/live/525/525/24858.ts
+#EXTINF:-1,US: BET
+http://live.softiptv.com:9900/live/525/525/24922.ts
+#EXTINF:-1,US: BRAVO HD
+http://live.softiptv.com:9900/live/525/525/24901.ts
+#EXTINF:-1,US: BYU SPORTS TV HD
+http://live.softiptv.com:9900/live/525/525/24879.ts
+#EXTINF:-1,US: C-SPAN3
+http://live.softiptv.com:9900/live/525/525/24854.ts
+#EXTINF:-1,US: CBS NEWS HD
+http://live.softiptv.com:9900/live/525/525/24917.ts
+#EXTINF:-1,US: CBS SPORT NETWORK
+http://live.softiptv.com:9900/live/525/525/24916.ts
+#EXTINF:-1,US: CNBC
+http://live.softiptv.com:9900/live/525/525/24897.ts
+#EXTINF:-1,US: CNN
+http://live.softiptv.com:9900/live/525/525/24899.ts
+#EXTINF:-1,US: CPAC
+http://live.softiptv.com:9900/live/525/525/24911.ts
+#EXTINF:-1,US: CW HD
+http://live.softiptv.com:9900/live/525/525/24909.ts
+#EXTINF:-1,US: DISCOVERY CHANNEL HD
+http://live.softiptv.com:9900/live/525/525/24904.ts
+#EXTINF:-1,US: DISCOVERY SCIENCE HD
+http://live.softiptv.com:9900/live/525/525/24903.ts
+#EXTINF:-1,US: ESPN
+http://live.softiptv.com:9900/live/525/525/24872.ts
+#EXTINF:-1,US: ESPN 2
+http://live.softiptv.com:9900/live/525/525/24873.ts
+#EXTINF:-1,US: FOX NEWS
+http://live.softiptv.com:9900/live/525/525/24893.ts
+#EXTINF:-1,US: FOX SPORT 1
+http://live.softiptv.com:9900/live/525/525/24848.ts
+#EXTINF:-1,US: FOX SPORT 2
+http://live.softiptv.com:9900/live/525/525/24850.ts
+#EXTINF:-1,US: FOX SPORT 506
+http://live.softiptv.com:9900/live/525/525/24851.ts
+#EXTINF:-1,US: FOX SPORTS 1 US HD
+http://live.softiptv.com:9900/live/525/525/24847.ts
+#EXTINF:-1,US: FOX SPORTS 2 US HD
+http://live.softiptv.com:9900/live/525/525/24849.ts
+#EXTINF:-1,US: FX HD
+http://live.softiptv.com:9900/live/525/525/24892.ts
+#EXTINF:-1,US: HBO
+http://live.softiptv.com:9900/live/525/525/24886.ts
+#EXTINF:-1,US: HBO COMEDY HD
+http://live.softiptv.com:9900/live/525/525/24889.ts
+#EXTINF:-1,US: HBO SIGNATURE HD
+http://live.softiptv.com:9900/live/525/525/24887.ts
+#EXTINF:-1,US: HBO ZONE
+http://live.softiptv.com:9900/live/525/525/24888.ts
+#EXTINF:-1,US: HISTORY HD
+http://live.softiptv.com:9900/live/525/525/24905.ts
+#EXTINF:-1,US: ID
+http://live.softiptv.com:9900/live/525/525/24885.ts
+#EXTINF:-1,US: LIFETIME HD
+http://live.softiptv.com:9900/live/525/525/24898.ts
+#EXTINF:-1,US: NASA TV HD
+http://live.softiptv.com:9900/live/525/525/24881.ts
+#EXTINF:-1,US: NAT GEO
+http://live.softiptv.com:9900/live/525/525/24908.ts
+#EXTINF:-1,US: NBA TV HD
+http://live.softiptv.com:9900/live/525/525/24846.ts
+#EXTINF:-1,US: NBC GOLF
+http://live.softiptv.com:9900/live/525/525/24861.ts
+#EXTINF:-1,US: NBC HD
+http://live.softiptv.com:9900/live/525/525/24862.ts
+#EXTINF:-1,US: NFL NETWORK
+http://live.softiptv.com:9900/live/525/525/24871.ts
+#EXTINF:-1,US: PAC 12 WASHINGTON HD
+http://live.softiptv.com:9900/live/525/525/24844.ts
+#EXTINF:-1,US: SPIKE HD
+http://live.softiptv.com:9900/live/525/525/24907.ts
+#EXTINF:-1,US: SPORT NET360
+http://live.softiptv.com:9900/live/525/525/24860.ts
+#EXTINF:-1,US: STARZ CINEMA
+http://live.softiptv.com:9900/live/525/525/24919.ts
+#EXTINF:-1,US: STARZ EAST
+http://live.softiptv.com:9900/live/525/525/24920.ts
+#EXTINF:-1,US: STARZ EDGE
+http://live.softiptv.com:9900/live/525/525/24921.ts
+#EXTINF:-1,US: SYFY HD
+http://live.softiptv.com:9900/live/525/525/24890.ts
+#EXTINF:-1,US: TBS
+http://live.softiptv.com:9900/live/525/525/24882.ts
+#EXTINF:-1,US: TSN 1
+http://live.softiptv.com:9900/live/525/525/24839.ts
+#EXTINF:-1,US: TSN 2
+http://live.softiptv.com:9900/live/525/525/24840.ts
+#EXTINF:-1,US: TSN 3
+http://live.softiptv.com:9900/live/525/525/24841.ts
+#EXTINF:-1,US: TSN 4
+http://live.softiptv.com:9900/live/525/525/24842.ts
+#EXTINF:-1,US: TSN 5
+http://live.softiptv.com:9900/live/525/525/24843.ts
+#EXTINF:-1,US: USA NETWORK HD
+http://live.softiptv.com:9900/live/525/525/24894.ts
+#EXTINF:-1,US: WILLOW CRICKET HD
+http://live.softiptv.com:9900/live/525/525/24857.ts
+#EXTINF:-1,US:  RT AMERICA
+http://live.softiptv.com:9900/live/525/525/24900.ts
 
-#EXTINF:-1 ,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1 ,Bloomberg
-http://btv-i.akamaihd.net/hls/live/202760-b/btvusa_ios/P1/M24K.m3u8
-#EXTINF:-1 ,CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-b.m3u8
-#EXTINF:-1 ,CNN International
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L720P/chunklist_b700000.m3u8
-#EXTINF:-1 ,Comedy Central
-http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/04.m3u8
-#EXTINF:-1 ,ESPN
-http://149.202.207.8:8080/chINNkkeeyPanduuu/eiisapn1yous/index.m3u8
-#EXTINF:-1 ,ESPN 2
-http://149.202.207.8:8080/chINNkkeeyPanduuu/eiisapn2yous/index.m3u8
-#EXTINF:-1 ,Fight Network
-http://149.202.207.8:8080/chINNkkeeyPanduuu/f8itenetUS/index.m3u8
-#EXTINF:-1 ,Golf Channel
-http://149.202.207.8:8080/chINNkkeeyPanduuu/enbeecYglf/index.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="",CBS 31.1 Peoria - IL Illinois
-http://wmbd-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
 
 
 
@@ -1791,6 +1892,278 @@ http://80.25.87.6:9981/stream/channelid/1237001161
 http://80.25.87.6:9981/stream/channelid/1500252112
 #EXTINF:-1,Sky News
 http://80.25.87.6:9981/stream/channelid/1867717695
+
+
+
+
+
+
+#EXTINF:3 group-title=”UK-XMTVPlayer”, 
+
+
+#EXTINF:-1,UK: BBC 1 HD
+http://live.softiptv.com:9900/live/525/525/26900.ts
+#EXTINF:-1,UK: BBC 2 HD
+http://live.softiptv.com:9900/live/525/525/26901.ts
+#EXTINF:-1,UK: BBC 3 HD
+http://live.softiptv.com:9900/live/525/525/26902.ts
+#EXTINF:-1,UK: BBC 4 HD
+http://live.softiptv.com:9900/live/525/525/26903.ts
+#EXTINF:-1,UK: BBC NEWS
+http://live.softiptv.com:9900/live/525/525/26904.ts
+#EXTINF:-1,UK: BOXNATION
+http://live.softiptv.com:9900/live/525/525/26923.ts
+#EXTINF:-1,UK: CNN NEWS
+http://live.softiptv.com:9900/live/525/525/26899.ts
+#EXTINF:-1,UK: Disney Channel
+http://live.softiptv.com:9900/live/525/525/26937.ts
+#EXTINF:-1,UK: Disney Junior
+http://live.softiptv.com:9900/live/525/525/26938.ts
+#EXTINF:-1,UK: MTV_HITS
+http://live.softiptv.com:9900/live/525/525/26920.ts
+#EXTINF:-1,UK: MTV_ROCKS
+http://live.softiptv.com:9900/live/525/525/26921.ts
+#EXTINF:-1,UK: MUTV
+http://live.softiptv.com:9900/live/525/525/26934.ts
+#EXTINF:-1,UK: NATGEO WILD
+http://live.softiptv.com:9900/live/525/525/26935.ts
+#EXTINF:-1,UK: National_Geographic
+http://live.softiptv.com:9900/live/525/525/26924.ts
+#EXTINF:-1,UK: Nickelodeon
+http://live.softiptv.com:9900/live/525/525/26905.ts
+#EXTINF:-1,UK: Nicktoons
+http://live.softiptv.com:9900/live/525/525/26925.ts
+#EXTINF:-1,UK: Premier Sport
+http://live.softiptv.com:9900/live/525/525/26906.ts
+#EXTINF:-1,UK: Quest
+http://live.softiptv.com:9900/live/525/525/26907.ts
+#EXTINF:-1,UK: RACING
+http://live.softiptv.com:9900/live/525/525/26936.ts
+#EXTINF:-1,UK: SKY ATLANTIC HD
+http://live.softiptv.com:9900/live/525/525/26922.ts
+#EXTINF:-1,UK: SKY LIVING
+http://live.softiptv.com:9900/live/525/525/26926.ts
+#EXTINF:-1,UK: SKY SPORT NEWS HQ
+http://live.softiptv.com:9900/live/525/525/26916.ts
+#EXTINF:-1,UK: SKY SPORTS 1HD
+http://live.softiptv.com:9900/live/525/525/26909.ts
+#EXTINF:-1,UK: SKY SPORTS 1SD
+http://live.softiptv.com:9900/live/525/525/26908.ts
+#EXTINF:-1,UK: SKY SPORTS 2HD
+http://live.softiptv.com:9900/live/525/525/26911.ts
+#EXTINF:-1,UK: SKY SPORTS 2SD
+http://live.softiptv.com:9900/live/525/525/26910.ts
+#EXTINF:-1,UK: SKY SPORTS 3HD
+http://live.softiptv.com:9900/live/525/525/26913.ts
+#EXTINF:-1,UK: SKY SPORTS 3SD
+http://live.softiptv.com:9900/live/525/525/26912.ts
+#EXTINF:-1,UK: SKY SPORTS 4HD
+http://live.softiptv.com:9900/live/525/525/26914.ts
+#EXTINF:-1,UK: SKY SPORTS 5HD
+http://live.softiptv.com:9900/live/525/525/26915.ts
+#EXTINF:-1,UK: Sky_Movies_Action&Adventure
+http://live.softiptv.com:9900/live/525/525/26927.ts
+#EXTINF:-1,UK: Sky_Movies_Comedy
+http://live.softiptv.com:9900/live/525/525/26928.ts
+#EXTINF:-1,UK: Sky_Movies_Modern_Greats
+http://live.softiptv.com:9900/live/525/525/26929.ts
+#EXTINF:-1,UK: Sky_Movies_Premiere
+http://live.softiptv.com:9900/live/525/525/26930.ts
+#EXTINF:-1,UK: Sky_Movies_ScFi-Horror
+http://live.softiptv.com:9900/live/525/525/26931.ts
+#EXTINF:-1,UK: Sky_Movies_Select
+http://live.softiptv.com:9900/live/525/525/26932.ts
+#EXTINF:-1,UK: Sky_Movies_Showcase
+http://live.softiptv.com:9900/live/525/525/26933.ts
+#EXTINF:-1,UK: Sky-movies-Thriller
+http://live.softiptv.com:9900/live/525/525/26917.ts
+#EXTINF:-1,UK: Sy-Fy
+http://live.softiptv.com:9900/live/525/525/26918.ts
+#EXTINF:-1,UK: TLC
+http://live.softiptv.com:9900/live/525/525/26919.ts
+#EXTINF:-1,UK: 4seven
+http://live.softiptv.com:9900/live/525/525/27020.ts
+#EXTINF:-1,UK: 5 usa
+http://live.softiptv.com:9900/live/525/525/27016.ts
+#EXTINF:-1,UK: 5star
+http://live.softiptv.com:9900/live/525/525/27017.ts
+#EXTINF:-1,UK: Al Jazerra
+http://live.softiptv.com:9900/live/525/525/26939.ts
+#EXTINF:-1,UK: Animal Planet
+http://live.softiptv.com:9900/live/525/525/26940.ts
+#EXTINF:-1,UK: At The Races
+http://live.softiptv.com:9900/live/525/525/26941.ts
+#EXTINF:-1,UK: Baby TV
+http://live.softiptv.com:9900/live/525/525/26942.ts
+#EXTINF:-1,UK: BBC 1 London
+http://live.softiptv.com:9900/live/525/525/27027.ts
+#EXTINF:-1,UK: BBC 2 Eng
+http://live.softiptv.com:9900/live/525/525/27026.ts
+#EXTINF:-1,UK: Bloomberg
+http://live.softiptv.com:9900/live/525/525/26943.ts
+#EXTINF:-1,UK: British Eurosport
+http://live.softiptv.com:9900/live/525/525/26945.ts
+#EXTINF:-1,UK: British Eurosport 2
+http://live.softiptv.com:9900/live/525/525/26944.ts
+#EXTINF:-1,UK: CBBC HD
+http://live.softiptv.com:9900/live/525/525/26946.ts
+#EXTINF:-1,UK: CBS Drama
+http://live.softiptv.com:9900/live/525/525/26947.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://live.softiptv.com:9900/live/525/525/27019.ts
+#EXTINF:-1,UK: Channel 5
+http://live.softiptv.com:9900/live/525/525/27018.ts
+#EXTINF:-1,UK: CHS TV
+http://live.softiptv.com:9900/live/525/525/26948.ts
+#EXTINF:-1,UK: Comedy Central
+http://live.softiptv.com:9900/live/525/525/26949.ts
+#EXTINF:-1,UK: Comedy Xtra
+http://live.softiptv.com:9900/live/525/525/26950.ts
+#EXTINF:-1,UK: Community
+http://live.softiptv.com:9900/live/525/525/26951.ts
+#EXTINF:-1,UK: Crime Investigation
+http://live.softiptv.com:9900/live/525/525/26952.ts
+#EXTINF:-1,UK: Dave
+http://live.softiptv.com:9900/live/525/525/27015.ts
+#EXTINF:-1,UK: Discovery
+http://live.softiptv.com:9900/live/525/525/26953.ts
+#EXTINF:-1,UK: Discovery History
+http://live.softiptv.com:9900/live/525/525/26954.ts
+#EXTINF:-1,UK: Discovery Science
+http://live.softiptv.com:9900/live/525/525/26955.ts
+#EXTINF:-1,UK: Discovery Shed
+http://live.softiptv.com:9900/live/525/525/26956.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://live.softiptv.com:9900/live/525/525/26957.ts
+#EXTINF:-1,UK: Disney
+http://live.softiptv.com:9900/live/525/525/26958.ts
+#EXTINF:-1,UK: Disney Jr
+http://live.softiptv.com:9900/live/525/525/26959.ts
+#EXTINF:-1,UK: Disney XD
+http://live.softiptv.com:9900/live/525/525/26960.ts
+#EXTINF:-1,UK: DMAX
+http://live.softiptv.com:9900/live/525/525/26961.ts
+#EXTINF:-1,UK: E4
+http://live.softiptv.com:9900/live/525/525/27014.ts
+#EXTINF:-1,UK: Eurosport 1
+http://live.softiptv.com:9900/live/525/525/26963.ts
+#EXTINF:-1,UK: Eurosport 2
+http://live.softiptv.com:9900/live/525/525/26962.ts
+#EXTINF:-1,UK: Film 4
+http://live.softiptv.com:9900/live/525/525/27013.ts
+#EXTINF:-1,UK: Fox
+http://live.softiptv.com:9900/live/525/525/26964.ts
+#EXTINF:-1,UK: FOX News
+http://live.softiptv.com:9900/live/525/525/26965.ts
+#EXTINF:-1,UK: History
+http://live.softiptv.com:9900/live/525/525/26966.ts
+#EXTINF:-1,UK: ITV HD
+http://live.softiptv.com:9900/live/525/525/27025.ts
+#EXTINF:-1,UK: ITV2
+http://live.softiptv.com:9900/live/525/525/27024.ts
+#EXTINF:-1,UK: ITV3
+http://live.softiptv.com:9900/live/525/525/27023.ts
+#EXTINF:-1,UK: ITV4
+http://live.softiptv.com:9900/live/525/525/27022.ts
+#EXTINF:-1,UK: ITVBe
+http://live.softiptv.com:9900/live/525/525/27021.ts
+#EXTINF:-1,UK: Kix
+http://live.softiptv.com:9900/live/525/525/26967.ts
+#EXTINF:-1,UK: Lifetime
+http://live.softiptv.com:9900/live/525/525/26968.ts
+#EXTINF:-1,UK: More 4
+http://live.softiptv.com:9900/live/525/525/27012.ts
+#EXTINF:-1,UK: MTV
+http://live.softiptv.com:9900/live/525/525/26969.ts
+#EXTINF:-1,UK: MTV Base
+http://live.softiptv.com:9900/live/525/525/26970.ts
+#EXTINF:-1,UK: MTV Classic
+http://live.softiptv.com:9900/live/525/525/26971.ts
+#EXTINF:-1,UK: MTV Dance
+http://live.softiptv.com:9900/live/525/525/26972.ts
+#EXTINF:-1,UK: MTV Hits
+http://live.softiptv.com:9900/live/525/525/26973.ts
+#EXTINF:-1,UK: MTV Music
+http://live.softiptv.com:9900/live/525/525/26974.ts
+#EXTINF:-1,UK: MTV Rocks
+http://live.softiptv.com:9900/live/525/525/26975.ts
+#EXTINF:-1,UK: Nat Geo
+http://live.softiptv.com:9900/live/525/525/26976.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://live.softiptv.com:9900/live/525/525/26977.ts
+#EXTINF:-1,UK: Nick Jr
+http://live.softiptv.com:9900/live/525/525/26978.ts
+#EXTINF:-1,UK: Nick Toons
+http://live.softiptv.com:9900/live/525/525/26979.ts
+#EXTINF:-1,UK: Sky 1
+http://live.softiptv.com:9900/live/525/525/26989.ts
+#EXTINF:-1,UK: Sky 2
+http://live.softiptv.com:9900/live/525/525/26990.ts
+#EXTINF:-1,UK: Sky Action
+http://live.softiptv.com:9900/live/525/525/26991.ts
+#EXTINF:-1,UK: Sky Action Adventure
+http://live.softiptv.com:9900/live/525/525/26992.ts
+#EXTINF:-1,UK: Sky Arts 1
+http://live.softiptv.com:9900/live/525/525/26993.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://live.softiptv.com:9900/live/525/525/26994.ts
+#EXTINF:-1,UK: Sky Comedy
+http://live.softiptv.com:9900/live/525/525/26995.ts
+#EXTINF:-1,UK: Sky Crime Thriller
+http://live.softiptv.com:9900/live/525/525/26996.ts
+#EXTINF:-1,UK: Sky Disney
+http://live.softiptv.com:9900/live/525/525/26997.ts
+#EXTINF:-1,UK: Sky Family
+http://live.softiptv.com:9900/live/525/525/26998.ts
+#EXTINF:-1,UK: Sky Greats
+http://live.softiptv.com:9900/live/525/525/26999.ts
+#EXTINF:-1,UK: Sky News
+http://live.softiptv.com:9900/live/525/525/27000.ts
+#EXTINF:-1,UK: Sky News Arabia
+http://live.softiptv.com:9900/live/525/525/27001.ts
+#EXTINF:-1,UK: Sky Premiere
+http://live.softiptv.com:9900/live/525/525/27002.ts
+#EXTINF:-1,UK: Sky ScFi Horror
+http://live.softiptv.com:9900/live/525/525/27003.ts
+#EXTINF:-1,UK: Sky Select
+http://live.softiptv.com:9900/live/525/525/27004.ts
+#EXTINF:-1,UK: Sky Sport 2
+http://live.softiptv.com:9900/live/525/525/27005.ts
+#EXTINF:-1,UK: Sky Sport 3
+http://live.softiptv.com:9900/live/525/525/27006.ts
+#EXTINF:-1,UK: Sky Sport 4
+http://live.softiptv.com:9900/live/525/525/27007.ts
+#EXTINF:-1,UK: Sky Sport 5
+http://live.softiptv.com:9900/live/525/525/27008.ts
+#EXTINF:-1,UK: Sky Sport News HD
+http://live.softiptv.com:9900/live/525/525/27009.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://live.softiptv.com:9900/live/525/525/27010.ts
+#EXTINF:-1,UK: Sky Thriller
+http://live.softiptv.com:9900/live/525/525/27011.ts
+#EXTINF:-1,UK: Sony Movie
+http://live.softiptv.com:9900/live/525/525/26987.ts
+#EXTINF:-1,UK: Sony SAB
+http://live.softiptv.com:9900/live/525/525/26988.ts
+#EXTINF:-1,UK: Travel Channel
+http://live.softiptv.com:9900/live/525/525/26984.ts
+#EXTINF:-1,UK: True Crime
+http://live.softiptv.com:9900/live/525/525/26986.ts
+#EXTINF:-1,UK: True Ent
+http://live.softiptv.com:9900/live/525/525/26985.ts
+#EXTINF:-1,UK: TV5 Monde
+http://live.softiptv.com:9900/live/525/525/26980.ts
+#EXTINF:-1,UK: UTV
+http://live.softiptv.com:9900/live/525/525/26981.ts
+#EXTINF:-1,UK: VH1
+http://live.softiptv.com:9900/live/525/525/26982.ts
+#EXTINF:-1,UK: VIVA
+http://live.softiptv.com:9900/live/525/525/26983.ts
+
+
+
+
+
 
 
 
