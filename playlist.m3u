@@ -1478,332 +1478,9 @@ http://208.86.19.13:8080/live/15.stream/index.m3u8
 http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
 
 
+#EXTINF:3 group-title=”UK TESTING 1”, 
 
 
-
-
-
-
-
-
-#EXTINF:5 group-title=”ITALY”,
-
-#EXTINF:-1,SKY TG24
-http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
-
-#EXTINF:-1,Sky TG24
-rtmp://cp49989.live.edgefcs.net:1935/live/streamRM1@2564
-
-#EXTINF:-1, RAI PREMIUM Cinema
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
-#EXTINF:-1, tele8 italy
-http://live.streamcaster.net:1935/tele8_live/tele8/livestream.m3u8
-#EXTINF:0,Premium Joi +24
-http://37.46.192.238:10000/play/a00v/index.m3u8
-#EXTINF:0,Studio Universal
-http://37.46.192.238:10000/play/a00s/index.m3u8
-#EXTINF:0,Premium Comedy
-http://37.46.192.238:10000/play/a008/index.m3u8
-#EXTINF:0,skysp2fhd
-http://37.46.192.238:10000/play/a00z/index.m3u8
-#EXTINF:0,Premium Energy +24
-http://37.46.192.238:10000/play/a00x/index.m3u8
-#EXTINF:0,Premium Emotion
-http://37.46.192.238:10000/play/a00w/index.m3u8
-#EXTINF:0,Investigation Discovery
-http://37.46.192.238:10000/play/a00y/index.m3u8
-#EXTINF:0,Premium Energy HD
-http://37.46.192.238:10000/play/a00e/index.m3u8
-#EXTINF:0,Italia1 HD
-http://37.46.192.238:10000/play/a00k/index.m3u8
-#EXTINF:0,Premium Joi
-http://37.46.192.238:10000/play/a00q/index.m3u8
-#EXTINF:0,Sportitalia
-http://37.46.192.238:10000/play/a00f/index.m3u8
-#EXTINF:0,Premium Stories
-http://37.46.192.238:10000/play/a00r/index.m3u8
-#EXTINF:0,Canale5 HD
-http://37.46.192.238:10000/play/a00j/index.m3u8
-#EXTINF:0,Eurosport 2
-http://37.46.192.238:10000/play/a005/index.m3u8
-#EXTINF:0,Premium Cinema HD
-http://37.46.192.238:10000/play/a00c/index.m3u8
-#EXTINF:0,Premium Action HD
-http://37.46.192.238:10000/play/a00m/index.m3u8
-#EXTINF:0,Premium Sport 2 HD
-http://37.46.192.238:10000/play/a006/index.m3u8
-#EXTINF:0,Premium Cinema +24
-http://37.46.192.238:10000/play/a00t/index.m3u8
-#EXTINF:0,Premium Cinema 2 HD
-http://37.46.192.238:10000/play/a00d/index.m3u8
-#EXTINF:0,Premium Sport HD
-http://37.46.192.238:10000/play/a007/index.m3u8
-#EXTINF:0,Eurosport 1
-http://37.46.192.238:10000/play/a004/index.m3u8
-#EXTINF:0,PADRE PIO TV
-http://37.46.192.238:10000/play/a00g/index.m3u8
-
-
-
-
-#EXTINF:3 group-title=”USA1-Asia”, 
-
-#EXTINF:-1, NASA TV HD
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-
-#EXTINF:-1, NHK WORLD HD
-https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-
-#EXTINF:-1, Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1, ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-
-#EXTINF:-1, BLOOMBERG HD
-http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8
-
-#EXTINF:-1, CBS NEWS HD
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-
-#EXTINF:-1, DW HD
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-
-#EXTINF:-1, FRANCE 24
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-
-#EXTINF:-1,TV5 MONDE
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
-
-#EXTINF:-1, H2
-http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
-
-#EXTINF:-1, RT DOCUMENTARY CHANNEL
-http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
-
-
-
-
-#EXTINF:-1,USA
-http://208.86.19.123:8080/live/11.stream/index.m3u8
-#EXTINF:-1,Nicktoons
-http://208.86.19.13:8080/live/15.stream/index.m3u8
-#EXTINF:-1,TNT
-http://208.86.19.13:8080/live/16.stream/index.m3u8
-#EXTINF:-1,CNN
-http://208.86.19.13:8080/live/20.stream/index.m3u8
-#EXTINF:-1,Freeform
-http://208.86.19.13:8080/live/27.stream/index.m3u8
-#EXTINF:-1,Discovery
-http://208.86.19.13:8080/live/31.stream/index.m3u8
-
-#EXTINF:-1, DISCOVERY CHANNEL HD
-http://208.86.19.13:8080/live/31.stream/index.m3u8
-
-#EXTINF:-1,BBC America
-http://208.86.19.13:8080/live/34.stream/index.m3u8
-#EXTINF:-1,CBS 2
-http://208.86.19.13:8080/live/101.stream/index.m3u8
-#EXTINF:-1,NBC 4
-http://208.86.19.123:8080/live/102.stream/index.m3u8
-#EXTINF:-1,Fox 5
-http://208.86.19.13:8080/live/103.stream/index.m3u8
-#EXTINF:-1,ABC 7
-http://208.86.19.123:8080/live/104.stream/index.m3u8
-#EXTINF:-1,My 9
-http://208.86.19.13:8080/live/105.stream/index.m3u8
-#EXTINF:-1,PIX 11
-http://208.86.19.13:8080/live/106.stream/index.m3u8
-#EXTINF:-1,PBS THIRTEEN
-http://208.86.19.123:8080/live/107.stream/index.m3u8
-#EXTINF:-1,WLIW 21
-http://208.86.19.13:8080/live/108.stream/index.m3u8
-#EXTINF:-1,ION
-http://208.86.19.123:8080/live/109.stream/index.m3u8
-#EXTINF:-1,USA: CNN
-http://208.86.19.13:8080/live/20.stream/index.m3u8
-#EXTINF:-1,ME TV
-http://208.86.19.13:8080/live/32.stream/index.m3u8
-#EXTINF:-1,FILM ASIA
-http://208.86.19.13:8080/live/835.stream/index.m3u8
-#EXTINF:-1,PLUS TV
-http://208.86.19.13:8080/live/837.stream/index.m3u8
-#EXTINF:-1,BTV WORLD
-http://208.86.19.13:8080/live/836.stream/index.m3u8
-#EXTINF:-1,CINEMA-1 TV
-http://208.86.19.13:8080/live/840.stream/index.m3u8
-#EXTINF:-1,OZTV
-http://208.86.19.13:8080/live/103.stream/index.m3u8
-#EXTINF:-1,PIX2
-http://208.86.19.13:8080/live/106.stream/index.m3u8
-#EXTINF:-1,EI
-http://208.86.19.13:8080/live/108.stream/index.m3u8
-#EXTINF:-1,DISH TV
-http://208.86.19.13:8080/live/628.stream/index.m3u8
-#EXTINF:-1,DUNYA TV
-http://208.86.19.13:8080/live/629.stream/index.m3u8
-#EXTINF:-1,DWV
-http://208.86.19.13:8080/live/630.stream/index.m3u8
-#EXTINF:-1,EXNEWS
-http://208.86.19.13:8080/live/631.stream/index.m3u8
-#EXTINF:-1,NATIONAL
-http://208.86.19.13:8080/live/632.stream/index.m3u8
-#EXTINF:-1,9 KANAL
-http://208.86.19.13:8080/live/803.stream/index.m3u8
-#EXTINF:-1,ETV
-http://208.86.19.13:8080/live/804.stream/index.m3u8
-#EXTINF:-1,JAMUNA TV
-http://208.86.19.13:8080/live/805.stream/index.m3u8
-#EXTINF:-1,ATN
-http://208.86.19.13:8080/live/806.stream/index.m3u8
-#EXTINF:-1,A PLUS
-http://208.86.19.13:8080/live/831.stream/index.m3u8
-#EXTINF:-1,TV
-http://208.86.19.13:8080/live/832.stream/index.m3u8
-#EXTINF:-1,STAR LITE
-http://208.86.19.13:8080/live/834.stream/index.m3u8
-#EXTINF:-1,Fox 5
-http://208.86.19.13:8080/live/103.stream/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:3 group-title=”UK”, 
-
-
-#EXTINF:-1,Brit Asia TV 
-http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8 
-#EXTINF:-1,Clubbing TV 
-http://46.249.213.87/iPhone/broadcast/clubbingtv-tablet.3gp.m3u8 
-#EXTINF:-1,Zing 
-http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp.m3u8
-
-#EXTINF:-1,QUEST+1
-http://5.255.90.223:5000/play/a011
-#EXTINF:-1,Nick Jr Peppa
-http://5.255.90.223:5000/play/a00c
-#EXTINF:-1,MTV MUSIC
-http://5.255.90.223:5000/play/a00d
-#EXTINF:-1,Disc.Science
-http://5.255.90.223:5000/play/a01c
-#EXTINF:-1,Nick Jr Too
-http://5.255.90.223:5000/play/a009
-#EXTINF:-1,ID+1
-http://5.255.90.223:5000/play/a010
-#EXTINF:-1,HomeHealth+1
-http://5.255.90.223:5000/play/a015
-#EXTINF:-1,TLC+1
-http://5.255.90.223:5000/play/a014
-#EXTINF:-1,ComedyXtra+1
-http://5.255.90.223:5000/play/a007
-#EXTINF:-1,Disc.Sci+1
-http://5.255.90.223:5000/play/a00x
-#EXTINF:-1,DMAX
-http://5.255.90.223:5000/play/a00y
-#EXTINF:-1,Disc.History
-http://5.255.90.223:5000/play/a01d
-#EXTINF:-1,TLC
-http://5.255.90.223:5000/play/a01j
-#EXTINF:-1,Discovery+1
-http://5.255.90.223:5000/play/a01a
-#EXTINF:-1,Animal Plnt+1
-http://5.255.90.223:5000/play/a00w
-#EXTINF:-1,ID
-http://5.255.90.223:5000/play/a00v
-#EXTINF:-1,Nicktoons
-http://5.255.90.223:5000/play/a002
-#EXTINF:-1,ComedyCent+1
-http://5.255.90.223:5000/play/a003
-#EXTINF:-1,Home & Health
-http://5.255.90.223:5000/play/a01e
-#EXTINF:-1,Nick Jr.
-http://5.255.90.223:5000/play/a008
-#EXTINF:-1,ComedyCentral
-http://5.255.90.223:5000/play/a004
-#EXTINF:-1,ID
-http://5.255.90.223:5000/play/a01i
-#EXTINF:-1,Nickelodeon
-http://5.255.90.223:5000/play/a00b
-#EXTINF:-1,Disc.Turbo
-http://5.255.90.223:5000/play/a01f
-#EXTINF:-1,Disc.History+1
-http://5.255.90.223:5000/play/a012
-#EXTINF:-1,Discovery Shed
-http://5.255.90.223:5000/play/a013
-#EXTINF:-1,Discovery
-http://5.255.90.223:5000/play/a01g
-#EXTINF:-1,QUEST
-http://5.255.90.223:5000/play/a01h
-#EXTINF:-1,Animal Planet
-http://5.255.90.223:5000/play/a019
-#EXTINF:-1,DMAX+1
-http://5.255.90.223:5000/play/a00z
-#EXTINF:-1,Nick Jr+1
-http://5.255.90.223:5000/play/a00a
-#EXTINF:-1,TLC+2
-http://5.255.90.223:5000/play/a016
-#EXTINF:-1,ComedyXtra
-http://5.255.90.223:5000/play/a006
-
-
-
-#EXTINF:-1,BBC One Lon
-http://80.25.87.6:9981/stream/channelid/1936535934
-#EXTINF:-1,BBC Two Eng
-http://80.25.87.6:9981/stream/channelid/43367668
-#EXTINF:-1,Channel 4
-http://80.25.87.6:9981/stream/channelid/1350631950
-#EXTINF:-1,CITV
-http://80.25.87.6:9981/stream/channelid/407885248
-#EXTINF:-1,Film4
-http://80.25.87.6:9981/stream/channelid/1190871675
-#EXTINF:-1,Film4 +1
-http://80.25.87.6:9981/stream/channelid/1946254025
-#EXTINF:-1,ITV
-http://80.25.87.6:9981/stream/channelid/196970287
-#EXTINF:-1,ITV +1
-http://80.25.87.6:9981/stream/channelid/2133516227
-#EXTINF:-1,ITV2
-http://80.25.87.6:9981/stream/channelid/1199711227
-#EXTINF:-1,ITV4
-http://80.25.87.6:9981/stream/channelid/1864888803
-#EXTINF:-1,ITV4+1
-http://80.25.87.6:9981/stream/channelid/1279886416
-#EXTINF:-1,ITVBe
-http://80.25.87.6:9981/stream/channelid/359890709
-#EXTINF:-1,More4 +1
-http://80.25.87.6:9981/stream/channelid/292897667
-#EXTINF:-1,Pick
-http://80.25.87.6:9981/stream/channelid/1237001161
-#EXTINF:-1,Pick+1
-http://80.25.87.6:9981/stream/channelid/1500252112
-#EXTINF:-1,Sky News
-http://80.25.87.6:9981/stream/channelid/1867717695
-
-
-
-
-
-
-#EXTINF:3 group-title=”UK-XMTVPlayer”, 
-
-
-#EXTINF:-1 tvg-logo="http://192.99.66.207:9090/logos/s50.jpg",Nat Geo WILD
-http://192.99.66.207:9090/load/mundinegreen/50.mpegts
-#EXTINF:-1 tvg-logo="http://192.99.66.207:9090/logos/s31.png",Boomerang UK
-http://192.99.66.207:9090/load/mundinegreen/31.mpegts
-#EXTINF:-1 tvg-logo="http://192.99.66.207:9090/logos/s34.png",HBO Family
-http://192.99.66.207:9090/load/mundinegreen/34.mpegts
-#EXTINF:-1 tvg-logo="http://192.99.66.207:9090/logos/s33.png",HBO Comedy
-http://192.99.66.207:9090/load/mundinegreen/33.mpegts
 #EXTINF:0,UK:BBC RED BUTTON
 http://mcdn-play-358.5centscdn.net/bbcredbuttonextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 #EXTINF:0,UK:BBC 1
@@ -2088,6 +1765,317 @@ http://mcdn-play-358.5centscdn.net/bbc1scotextv/5c6d78cffa59e129f040fcec2d788532
 
 
 
+
+#EXTINF:3 group-title=”UK TESTING 2”, 
+
+
+#EXTINF:-1,Brit Asia TV 
+http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8 
+#EXTINF:-1,Clubbing TV 
+http://46.249.213.87/iPhone/broadcast/clubbingtv-tablet.3gp.m3u8 
+#EXTINF:-1,Zing 
+http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp.m3u8
+
+#EXTINF:-1,QUEST+1
+http://5.255.90.223:5000/play/a011
+#EXTINF:-1,Nick Jr Peppa
+http://5.255.90.223:5000/play/a00c
+#EXTINF:-1,MTV MUSIC
+http://5.255.90.223:5000/play/a00d
+#EXTINF:-1,Disc.Science
+http://5.255.90.223:5000/play/a01c
+#EXTINF:-1,Nick Jr Too
+http://5.255.90.223:5000/play/a009
+#EXTINF:-1,ID+1
+http://5.255.90.223:5000/play/a010
+#EXTINF:-1,HomeHealth+1
+http://5.255.90.223:5000/play/a015
+#EXTINF:-1,TLC+1
+http://5.255.90.223:5000/play/a014
+#EXTINF:-1,ComedyXtra+1
+http://5.255.90.223:5000/play/a007
+#EXTINF:-1,Disc.Sci+1
+http://5.255.90.223:5000/play/a00x
+#EXTINF:-1,DMAX
+http://5.255.90.223:5000/play/a00y
+#EXTINF:-1,Disc.History
+http://5.255.90.223:5000/play/a01d
+#EXTINF:-1,TLC
+http://5.255.90.223:5000/play/a01j
+#EXTINF:-1,Discovery+1
+http://5.255.90.223:5000/play/a01a
+#EXTINF:-1,Animal Plnt+1
+http://5.255.90.223:5000/play/a00w
+#EXTINF:-1,ID
+http://5.255.90.223:5000/play/a00v
+#EXTINF:-1,Nicktoons
+http://5.255.90.223:5000/play/a002
+#EXTINF:-1,ComedyCent+1
+http://5.255.90.223:5000/play/a003
+#EXTINF:-1,Home & Health
+http://5.255.90.223:5000/play/a01e
+#EXTINF:-1,Nick Jr.
+http://5.255.90.223:5000/play/a008
+#EXTINF:-1,ComedyCentral
+http://5.255.90.223:5000/play/a004
+#EXTINF:-1,ID
+http://5.255.90.223:5000/play/a01i
+#EXTINF:-1,Nickelodeon
+http://5.255.90.223:5000/play/a00b
+#EXTINF:-1,Disc.Turbo
+http://5.255.90.223:5000/play/a01f
+#EXTINF:-1,Disc.History+1
+http://5.255.90.223:5000/play/a012
+#EXTINF:-1,Discovery Shed
+http://5.255.90.223:5000/play/a013
+#EXTINF:-1,Discovery
+http://5.255.90.223:5000/play/a01g
+#EXTINF:-1,QUEST
+http://5.255.90.223:5000/play/a01h
+#EXTINF:-1,Animal Planet
+http://5.255.90.223:5000/play/a019
+#EXTINF:-1,DMAX+1
+http://5.255.90.223:5000/play/a00z
+#EXTINF:-1,Nick Jr+1
+http://5.255.90.223:5000/play/a00a
+#EXTINF:-1,TLC+2
+http://5.255.90.223:5000/play/a016
+#EXTINF:-1,ComedyXtra
+http://5.255.90.223:5000/play/a006
+
+
+#EXTINF:3 group-title=”UK TESTING 3”, 
+
+#EXTINF:-1,BBC One Lon
+http://80.25.87.6:9981/stream/channelid/1936535934
+#EXTINF:-1,BBC Two Eng
+http://80.25.87.6:9981/stream/channelid/43367668
+#EXTINF:-1,Channel 4
+http://80.25.87.6:9981/stream/channelid/1350631950
+#EXTINF:-1,CITV
+http://80.25.87.6:9981/stream/channelid/407885248
+#EXTINF:-1,Film4
+http://80.25.87.6:9981/stream/channelid/1190871675
+#EXTINF:-1,Film4 +1
+http://80.25.87.6:9981/stream/channelid/1946254025
+#EXTINF:-1,ITV
+http://80.25.87.6:9981/stream/channelid/196970287
+#EXTINF:-1,ITV +1
+http://80.25.87.6:9981/stream/channelid/2133516227
+#EXTINF:-1,ITV2
+http://80.25.87.6:9981/stream/channelid/1199711227
+#EXTINF:-1,ITV4
+http://80.25.87.6:9981/stream/channelid/1864888803
+#EXTINF:-1,ITV4+1
+http://80.25.87.6:9981/stream/channelid/1279886416
+#EXTINF:-1,ITVBe
+http://80.25.87.6:9981/stream/channelid/359890709
+#EXTINF:-1,More4 +1
+http://80.25.87.6:9981/stream/channelid/292897667
+#EXTINF:-1,Pick
+http://80.25.87.6:9981/stream/channelid/1237001161
+#EXTINF:-1,Pick+1
+http://80.25.87.6:9981/stream/channelid/1500252112
+#EXTINF:-1,Sky News
+http://80.25.87.6:9981/stream/channelid/1867717695
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:3 group-title=”USA1-Asia”, 
+
+#EXTINF:-1, NASA TV HD
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:-1, NHK WORLD HD
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1, Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1, ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1, BLOOMBERG HD
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8
+
+#EXTINF:-1, CBS NEWS HD
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+
+#EXTINF:-1, DW HD
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+
+#EXTINF:-1, FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1,TV5 MONDE
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+
+#EXTINF:-1, H2
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
+
+#EXTINF:-1, RT DOCUMENTARY CHANNEL
+http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
+
+
+
+
+#EXTINF:-1,USA
+http://208.86.19.123:8080/live/11.stream/index.m3u8
+#EXTINF:-1,Nicktoons
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+#EXTINF:-1,TNT
+http://208.86.19.13:8080/live/16.stream/index.m3u8
+#EXTINF:-1,CNN
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+#EXTINF:-1,Freeform
+http://208.86.19.13:8080/live/27.stream/index.m3u8
+#EXTINF:-1,Discovery
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+
+#EXTINF:-1, DISCOVERY CHANNEL HD
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+
+#EXTINF:-1,BBC America
+http://208.86.19.13:8080/live/34.stream/index.m3u8
+#EXTINF:-1,CBS 2
+http://208.86.19.13:8080/live/101.stream/index.m3u8
+#EXTINF:-1,NBC 4
+http://208.86.19.123:8080/live/102.stream/index.m3u8
+#EXTINF:-1,Fox 5
+http://208.86.19.13:8080/live/103.stream/index.m3u8
+#EXTINF:-1,ABC 7
+http://208.86.19.123:8080/live/104.stream/index.m3u8
+#EXTINF:-1,My 9
+http://208.86.19.13:8080/live/105.stream/index.m3u8
+#EXTINF:-1,PIX 11
+http://208.86.19.13:8080/live/106.stream/index.m3u8
+#EXTINF:-1,PBS THIRTEEN
+http://208.86.19.123:8080/live/107.stream/index.m3u8
+#EXTINF:-1,WLIW 21
+http://208.86.19.13:8080/live/108.stream/index.m3u8
+#EXTINF:-1,ION
+http://208.86.19.123:8080/live/109.stream/index.m3u8
+#EXTINF:-1,USA: CNN
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+#EXTINF:-1,ME TV
+http://208.86.19.13:8080/live/32.stream/index.m3u8
+#EXTINF:-1,FILM ASIA
+http://208.86.19.13:8080/live/835.stream/index.m3u8
+#EXTINF:-1,PLUS TV
+http://208.86.19.13:8080/live/837.stream/index.m3u8
+#EXTINF:-1,BTV WORLD
+http://208.86.19.13:8080/live/836.stream/index.m3u8
+#EXTINF:-1,CINEMA-1 TV
+http://208.86.19.13:8080/live/840.stream/index.m3u8
+#EXTINF:-1,OZTV
+http://208.86.19.13:8080/live/103.stream/index.m3u8
+#EXTINF:-1,PIX2
+http://208.86.19.13:8080/live/106.stream/index.m3u8
+#EXTINF:-1,EI
+http://208.86.19.13:8080/live/108.stream/index.m3u8
+#EXTINF:-1,DISH TV
+http://208.86.19.13:8080/live/628.stream/index.m3u8
+#EXTINF:-1,DUNYA TV
+http://208.86.19.13:8080/live/629.stream/index.m3u8
+#EXTINF:-1,DWV
+http://208.86.19.13:8080/live/630.stream/index.m3u8
+#EXTINF:-1,EXNEWS
+http://208.86.19.13:8080/live/631.stream/index.m3u8
+#EXTINF:-1,NATIONAL
+http://208.86.19.13:8080/live/632.stream/index.m3u8
+#EXTINF:-1,9 KANAL
+http://208.86.19.13:8080/live/803.stream/index.m3u8
+#EXTINF:-1,ETV
+http://208.86.19.13:8080/live/804.stream/index.m3u8
+#EXTINF:-1,JAMUNA TV
+http://208.86.19.13:8080/live/805.stream/index.m3u8
+#EXTINF:-1,ATN
+http://208.86.19.13:8080/live/806.stream/index.m3u8
+#EXTINF:-1,A PLUS
+http://208.86.19.13:8080/live/831.stream/index.m3u8
+#EXTINF:-1,TV
+http://208.86.19.13:8080/live/832.stream/index.m3u8
+#EXTINF:-1,STAR LITE
+http://208.86.19.13:8080/live/834.stream/index.m3u8
+#EXTINF:-1,Fox 5
+http://208.86.19.13:8080/live/103.stream/index.m3u8
+
+
+
+
+
+#EXTINF:5 group-title=”ITALY”,
+
+#EXTINF:-1,SKY TG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:-1,Sky TG24
+rtmp://cp49989.live.edgefcs.net:1935/live/streamRM1@2564
+
+#EXTINF:-1, RAI PREMIUM Cinema
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
+#EXTINF:-1, tele8 italy
+http://live.streamcaster.net:1935/tele8_live/tele8/livestream.m3u8
+#EXTINF:0,Premium Joi +24
+http://37.46.192.238:10000/play/a00v/index.m3u8
+#EXTINF:0,Studio Universal
+http://37.46.192.238:10000/play/a00s/index.m3u8
+#EXTINF:0,Premium Comedy
+http://37.46.192.238:10000/play/a008/index.m3u8
+#EXTINF:0,skysp2fhd
+http://37.46.192.238:10000/play/a00z/index.m3u8
+#EXTINF:0,Premium Energy +24
+http://37.46.192.238:10000/play/a00x/index.m3u8
+#EXTINF:0,Premium Emotion
+http://37.46.192.238:10000/play/a00w/index.m3u8
+#EXTINF:0,Investigation Discovery
+http://37.46.192.238:10000/play/a00y/index.m3u8
+#EXTINF:0,Premium Energy HD
+http://37.46.192.238:10000/play/a00e/index.m3u8
+#EXTINF:0,Italia1 HD
+http://37.46.192.238:10000/play/a00k/index.m3u8
+#EXTINF:0,Premium Joi
+http://37.46.192.238:10000/play/a00q/index.m3u8
+#EXTINF:0,Sportitalia
+http://37.46.192.238:10000/play/a00f/index.m3u8
+#EXTINF:0,Premium Stories
+http://37.46.192.238:10000/play/a00r/index.m3u8
+#EXTINF:0,Canale5 HD
+http://37.46.192.238:10000/play/a00j/index.m3u8
+#EXTINF:0,Eurosport 2
+http://37.46.192.238:10000/play/a005/index.m3u8
+#EXTINF:0,Premium Cinema HD
+http://37.46.192.238:10000/play/a00c/index.m3u8
+#EXTINF:0,Premium Action HD
+http://37.46.192.238:10000/play/a00m/index.m3u8
+#EXTINF:0,Premium Sport 2 HD
+http://37.46.192.238:10000/play/a006/index.m3u8
+#EXTINF:0,Premium Cinema +24
+http://37.46.192.238:10000/play/a00t/index.m3u8
+#EXTINF:0,Premium Cinema 2 HD
+http://37.46.192.238:10000/play/a00d/index.m3u8
+#EXTINF:0,Premium Sport HD
+http://37.46.192.238:10000/play/a007/index.m3u8
+#EXTINF:0,Eurosport 1
+http://37.46.192.238:10000/play/a004/index.m3u8
+#EXTINF:0,PADRE PIO TV
+http://37.46.192.238:10000/play/a00g/index.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:7 group-title=”Germany”,
 
 
@@ -2215,8 +2203,4 @@ http://94.43.239.178:8080/CHANNEL808/BITRATE0/playlist.m3u8
 http://94.43.239.178:8080/CHANNEL752/BITRATE0/playlist.m3u8
 #EXTINF:0,TV11
 http://94.43.239.178:8080/CHANNEL846/BITRATE0/playlist.m3u8
-
-
-
-
 
