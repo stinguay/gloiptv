@@ -203,6 +203,15 @@ http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna4/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png",TSN SPORT 5
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna5/index.m3u8
 
+#EXTINF:0,UK:TSN 1
+http://mcdn-play-358.5centscdn.net/tsn1hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:TSN 2
+http://mcdn-play-358.5centscdn.net/tsn2hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:TSN 3
+http://mcdn-play-358.5centscdn.net/tsn3hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:TSN 4
+http://mcdn-play-358.5centscdn.net/tsn4hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 
@@ -212,52 +221,21 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 #EXTINF:-1 tvg-logo="http://www.haberyazar.com/wp-content/uploads/2015/08/idman.png",IDMAN
 http://85.132.59.163:8080/play/a00y
 
-#EXTINF:-1,BEIN SPORT 1
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-1/Strm/index.m3u8
+#EXTINF: -1,ASTRO SUPERSPORTS 1
+http://mcdn-play-358.5centscdn.net/astro1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 
-#EXTINF:-1,BEIN SPORT 2
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-2/Strm/index.m3u8
+#EXTINF: -1,ASTRO SUPERSPORTS 2
+http://mcdn-play-358.5centscdn.net/astro2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 
-#EXTINF:-1,BEIN SPORT 3
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-3/Strm/index.m3u8
+#EXTINF: -1,ASTRO SUPERSPORTS 3
+http://mcdn-play-358.5centscdn.net/astro3extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 
-#EXTINF:-1,BEIN SPORT 4
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-4/Strm/index.m3u8
-
-#EXTINF:-1,BEIN SPORT 5
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-5/Strm/index.m3u8
-
-#EXTINF:-1,BEIN SPORT 6
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-6/Strm/index.m3u8
-
-#EXTINF:-1,BEIN SPORT 7
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-7/Strm/index.m3u8
-
-#EXTINF:-1,BEIN SPORT 8
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-8/Strm/index.m3u8
-
-#EXTINF:-1,BEIN SPORT 9
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-9/Strm/index.m3u8
-
-#EXTINF:-1,BEIN SPORT 10
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-10/Strm/index.m3u8
-
-#EXTINF:-1,BEIN SPORT 11
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-11/Strm/index.m3u8
-
-#EXTINF:-1,BEIN SPORT 12
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-12/Strm/index.m3u8
-
-#EXTINF:-1,BEIN SPORT FRANCE 1 
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsfn-1/Strm/index.m3u8 
-#EXTINF:-1,BEIN SPORT FRANCE 2 
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsfn-2/Strm/index.m3u8 
-#EXTINF:-1,BEIN SPORT FRANCE 3 
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsfn-3/Strm/index.m3u8 
+#EXTINF: -1,ASTRO SUPERSPORTS 4
+http://mcdn-play-358.5centscdn.net/astro4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 
 
-#EXTINF:-1,CANEL+ SPORTS
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-13/Strm/index.m3u8
+
+
 #EXTINF:-1,ARENA SPORT 1 
 http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8 
 #EXTINF:-1,ARENA SPORT 2 
@@ -1681,18 +1659,8 @@ http://mcdn-play-358.5centscdn.net/mio102extv/5c6d78cffa59e129f040fcec2d788532.s
 http://mcdn-play-358.5centscdn.net/mio103extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 #EXTINF:0,UK:MIO 3
 http://mcdn-play-358.5centscdn.net/mio104extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:TSN 1
-http://mcdn-play-358.5centscdn.net/tsn1hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:TSN 2
-http://mcdn-play-358.5centscdn.net/tsn2hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:TSN 3
-http://mcdn-play-358.5centscdn.net/tsn3hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:TSN 4
-http://mcdn-play-358.5centscdn.net/tsn4hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK: ASTRO 1
-http://mcdn-play-358.5centscdn.net/astro1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:ASTRO 2
-http://mcdn-play-358.5centscdn.net/astro2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+
+
 #EXTINF:0,UK:PREMIER SPORTS
 http://mcdn-play-358.5centscdn.net/premiersportsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 #EXTINF:0,UK:MUTV
@@ -2202,17 +2170,7 @@ http://94.43.239.178:8080/CHANNEL846/BITRATE0/playlist.m3u8
 
 #EXTINF:9 group-title=”TESTING CHANNELS”,
 
-#EXTINF: -1,ASTRO SUPERSPORTS 1
-http://mcdn-play-358.5centscdn.net/astro1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 
-#EXTINF: -1,ASTRO SUPERSPORTS 2
-http://mcdn-play-358.5centscdn.net/astro2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-
-#EXTINF: -1,ASTRO SUPERSPORTS 3
-http://mcdn-play-358.5centscdn.net/astro3extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-
-#EXTINF: -1,ASTRO SUPERSPORTS 4
-http://mcdn-play-358.5centscdn.net/astro4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 
 
 #EXTINF: -1,CNN Headline
@@ -2221,80 +2179,15 @@ http://58ad68d0b6c8d.streamlock.net/ios/cnninews/playlist.m3u8
 #EXTINF: -1,CNN international
 http://58ad68d0b6c8d.streamlock.net/ios/cnnnews/playlist.m3u8
 
-#EXTINF: -1,KLT-Jingtian International
-http://58ada6ee80845.streamlock.net/ios/familyfun/playlist.m3u8
 
-#EXTINF: -1,travel
-http://58ada6ee80845.streamlock.net/ios/ustv-travel/playlist.m3u8
-
-#EXTINF: -1,Food
-http://58ada6ee80845.streamlock.net/ios/ustvF/playlist.m3u8
-
-
-#EXTINF: -1,日本JSport1
-http://as.122kk.com/10000.php?id=INDOTV
-
-#EXTINF: -1,日本JSport2
-http://as.122kk.com/10000.php?id=RIBRN2
-
-#EXTINF: -1,日本JSport3
-http://as.122kk.com/10000.php?id=RIBRN3
-
-
-
-
-
-
-
-#EXTINF: -1,EUROSPORT 1
-http: //51.255.71.41:8080/Eurosport1/index.m3u8 
-#EXTINF: -1,EUROSPORT 2
-http://51.255.71.41:8080/Eurosport2/index.m3u8 
 #EXTINF: -1,SuperSport 1
 http://81.7.13.162/hls/ss1 /index.m3u8 
 #EXTINF: -1,SuperSport 2
 http://81.7.13.162/hls/ss2/index.m3u8 
 #EXTINF: -1,SuperSport 3
 http://81.7.13.162/hls/ss3/index.m3u8 
-#EXTINF: -1,BeinSport_8_HD
-http://2.109.65.179/ HDMI 
-#EXTINF: -1,BeinSport_9_HD
-HTTP://2.109.65.180/hdmi 
-#EXTINF: -1,BeinSport_4_HD
-HTTP://2.109.65.181/hdmi 
-
-#EXTINF: -1,EUROSPORT 2
-HTTP://130.185.232.87:1234/Eurosport2.m3u8 
-EUROSPORT
-HTTP://130.185.232.87:1234/Eurosport.m3u8 
-
-#EXTINF: -1,Diema Sport
-http://130.185.232.92: 1234/DiemaSp.m3u8 
-#EXTINF: -1,Diema Sport 2
-http://130.185.232.92:1234/DiemaSp2.m3u8 
-
-#EXTINF: -1,Tile Sport 1
-HTTP://tv1.streampulse.eu:1935/tilesport/Movie1/geldegor.m3u8 
-#EXTINF: -1,Tile Sport 2
-HTTP://tv1.streampulse.eu:1935/Tilesport/movie1/geldegor.m3u8 
-
-#EXTINF: -1,Superport 1
-http://81.7.13.162/hls/ss1/index.m3u8 
-#EXTINF: -1,Superport 2
-http://81.7.13.162/hls/ss2/index.m3u8 
-#EXTINF: -1,Superport 3
-http:// 81.7.13.162/hls/ss3/index.m3u8 
-#EXTINF: -1,Superport 4
-http: //81.7.13.162/hls/ss4/index.m3u8 
-
-
-
-#EXTINF: -1,HBO
-http://103.7.57.30/live/HBO.m3u8
-#EXTINF: -1,HBO HD
-http://103.7.57.30/live/HBO-HD.m3u8
-#EXTINF: -1,FOX CRIME
-http://103.7.57.30/live/FOX-CRIME.m3u8
+#EXTINF:-1,Superport 4
+http://81.7.13.162/hls/ss4/index.m3u8 
 
 
 
