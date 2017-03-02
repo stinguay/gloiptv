@@ -2199,3 +2199,102 @@ http://94.43.239.178:8080/CHANNEL846/BITRATE0/playlist.m3u8
 
 
 
+
+#EXTINF:9 group-title=”TESTING CHANNELS”,
+
+#EXTINF: -1,ASTRO SUPERSPORTS 1
+http://mcdn-play-358.5centscdn.net/astro1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+
+#EXTINF: -1,ASTRO SUPERSPORTS 2
+http://mcdn-play-358.5centscdn.net/astro2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+
+#EXTINF: -1,ASTRO SUPERSPORTS 3
+http://mcdn-play-358.5centscdn.net/astro3extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+
+#EXTINF: -1,ASTRO SUPERSPORTS 4
+http://mcdn-play-358.5centscdn.net/astro4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+
+
+#EXTINF: -1,CNN Headline
+http://58ad68d0b6c8d.streamlock.net/ios/cnninews/playlist.m3u8
+
+#EXTINF: -1,CNN international
+http://58ad68d0b6c8d.streamlock.net/ios/cnnnews/playlist.m3u8
+
+#EXTINF: -1,KLT-Jingtian International
+http://58ada6ee80845.streamlock.net/ios/familyfun/playlist.m3u8
+
+#EXTINF: -1,travel
+http://58ada6ee80845.streamlock.net/ios/ustv-travel/playlist.m3u8
+
+#EXTINF: -1,Food
+http://58ada6ee80845.streamlock.net/ios/ustvF/playlist.m3u8
+
+
+#EXTINF: -1,日本JSport1
+http://as.122kk.com/10000.php?id=INDOTV
+
+#EXTINF: -1,日本JSport2
+http://as.122kk.com/10000.php?id=RIBRN2
+
+#EXTINF: -1,日本JSport3
+http://as.122kk.com/10000.php?id=RIBRN3
+
+
+
+
+
+
+
+#EXTINF: -1,EUROSPORT 1
+http: //51.255.71.41:8080/Eurosport1/index.m3u8 
+#EXTINF: -1,EUROSPORT 2
+http://51.255.71.41:8080/Eurosport2/index.m3u8 
+#EXTINF: -1,SuperSport 1
+http://81.7.13.162/hls/ss1 /index.m3u8 
+#EXTINF: -1,SuperSport 2
+http://81.7.13.162/hls/ss2/index.m3u8 
+#EXTINF: -1,SuperSport 3
+http://81.7.13.162/hls/ss3/index.m3u8 
+#EXTINF: -1,BeinSport_8_HD
+http://2.109.65.179/ HDMI 
+#EXTINF: -1,BeinSport_9_HD
+HTTP://2.109.65.180/hdmi 
+#EXTINF: -1,BeinSport_4_HD
+HTTP://2.109.65.181/hdmi 
+
+#EXTINF: -1,EUROSPORT 2
+HTTP://130.185.232.87:1234/Eurosport2.m3u8 
+EUROSPORT
+HTTP://130.185.232.87:1234/Eurosport.m3u8 
+
+#EXTINF: -1,Diema Sport
+http://130.185.232.92: 1234/DiemaSp.m3u8 
+#EXTINF: -1,Diema Sport 2
+http://130.185.232.92:1234/DiemaSp2.m3u8 
+
+#EXTINF: -1,Tile Sport 1
+HTTP://tv1.streampulse.eu:1935/tilesport/Movie1/geldegor.m3u8 
+#EXTINF: -1,Tile Sport 2
+HTTP://tv1.streampulse.eu:1935/Tilesport/movie1/geldegor.m3u8 
+
+#EXTINF: -1,Superport 1
+http://81.7.13.162/hls/ss1/index.m3u8 
+#EXTINF: -1,Superport 2
+http://81.7.13.162/hls/ss2/index.m3u8 
+#EXTINF: -1,Superport 3
+http:// 81.7.13.162/hls/ss3/index.m3u8 
+#EXTINF: -1,Superport 4
+http: //81.7.13.162/hls/ss4/index.m3u8 
+
+
+
+#EXTINF: -1,HBO
+http://103.7.57.30/live/HBO.m3u8
+#EXTINF: -1,HBO HD
+http://103.7.57.30/live/HBO-HD.m3u8
+#EXTINF: -1,FOX CRIME
+http://103.7.57.30/live/FOX-CRIME.m3u8
+
+
+
