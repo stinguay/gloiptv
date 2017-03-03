@@ -152,6 +152,9 @@ http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
 http://149.202.207.8:8080/kuLlieenuBEerr0Neemyou0T/Strm/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png",LFC
+http://149.202.207.8:8080/kuLlieenuBEerr0Neelfseea/Strm/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 1 HD
 http://alkass-i.akamaihd.net/hls/live/205534/1/live_38s8.m3u8
 
@@ -173,17 +176,14 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_sports_cricket_hd.png",OSN Sports CRICKET HD
 http://9893.akamai.live.selevision.com/live/9893/98934/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_sports1_hd.png",OSN Sports 1 HD
-http://9896.akamai.live.selevision.com/live/9896/98965/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_sports2_hd.png",OSN Sports 2 HD
-http://9896.akamai.live.selevision.com/live/9896/98966/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_sports3_hd.png",OSN Sports 3 HD
-http://9896.akamai.live.selevision.com/live/9896/98975/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_sports4_hd.png",OSN Sports 4 HD
-http://9896.akamai.live.selevision.com/live/9896/98968/master.m3u8
+#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/f0L20970.png",OSN Sport1
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/oyesnsprt1/index.m3u8
+#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/f0L20970.png",OSN Sport2
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/oyesnsprt2/index.m3u8
+#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/f0L20970.png",OSN Sport3
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/oyesnsprt3/index.m3u8
+#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/f0L20970.png",OSN Sport4
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/oyesnsprt4/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www2.0zz0.com/2015/03/12/17/751657785.jpg:,OSN: WWE Network HD
 http://9893.akamai.live.selevision.com/live/9893/98933/master.m3u8
@@ -233,6 +233,34 @@ http://mcdn-play-358.5centscdn.net/astro3extv/5c6d78cffa59e129f040fcec2d788532.s
 #EXTINF: -1,ASTRO SUPERSPORTS 4
 http://mcdn-play-358.5centscdn.net/astro4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 
+#EXTINF:-1,ASTRO SUPERSPORT 1 
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-1/index.m3u8 
+#EXTINF:-1,ASTRO SUPERSPORT 2 
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-2/index.m3u8 
+#EXTINF:-1,ASTRO SUPERSPORT 3 
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-3/index.m3u8
+#EXTINF:-1,ASTRO SUPERSPORT 4
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-4/index.m3u8
+
+#EXTINF:-1, Sky Sport HD 1
+http://mcdn-play-358.5centscdn.net/skysports1hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:-1, Sky Sport HD 2
+http://mcdn-play-358.5centscdn.net/skysports2hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:-1, Sky Sport HD 3
+http://mcdn-play-358.5centscdn.net/skysports3hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:-1, Sky Sport HD 4
+http://mcdn-play-358.5centscdn.net/skysports4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:-1, Sky Sport HD 5
+http://mcdn-play-358.5centscdn.net/skysports5hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:-1, Sky Sport  Mix
+http://mcdn-play-358.5centscdn.net/skysportsmixextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:-1, Sky Sport F1
+http://mcdn-play-358.5centscdn.net/skysportsf1hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:-1, Sky Sport news
+http://mcdn-play-358.5centscdn.net/skysportsnewsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:-1, WWE
+http://149.202.207.8:8080/kuLlieenuBEerr0Nedublewoo3/Strm/index.m3u8
+
 
 
 
@@ -262,12 +290,7 @@ http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-6nl/Strm/index.m3u8
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp1/index.m3u8 
 #EXTINF:-1,US:FOX SPORT 2 
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp2/index.m3u8 
-#EXTINF:-1,ASTRO SUPERSPORT 1 
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-1/index.m3u8 
-#EXTINF:-1,ASTRO SUPERSPORT 2 
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-2/index.m3u8 
-#EXTINF:-1,ASTRO SUPERSPORT 3 
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-3/index.m3u8
+
 
 
 
@@ -779,9 +802,6 @@ http://37.194.121.4:1234/udp/239.1.3.4:1234
 
 #EXTINF:0, Disney XD
 http://193.8.246.110:8880/play/10090
-
-#EXTINF:0, TaTeTi
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 
 #EXTINF:-1,Neox HD
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
@@ -1659,8 +1679,6 @@ http://mcdn-play-358.5centscdn.net/mio102extv/5c6d78cffa59e129f040fcec2d788532.s
 http://mcdn-play-358.5centscdn.net/mio103extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 #EXTINF:0,UK:MIO 3
 http://mcdn-play-358.5centscdn.net/mio104extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-
-
 #EXTINF:0,UK:PREMIER SPORTS
 http://mcdn-play-358.5centscdn.net/premiersportsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 #EXTINF:0,UK:MUTV
