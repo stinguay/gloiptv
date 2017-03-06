@@ -63,6 +63,10 @@ http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="http://jcpa-lecape.org/wp-content/uploads/2014/08/france24.jpg",France24 Francise
 http://f24hls-i.akamaihd.net/hls/live/221192-b/F24_FR_LO_HLS/master_900.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://victorygroup.com/wp-content/uploads/FOX-NEWS-864x445.png", FOX NEWS
+http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/960/img/photos/2014/01/28/cb/e4/FOX23_News_logo.jpg",FOX 23 NEWS
 http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
 
@@ -130,18 +134,29 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 
-
-#EXTINF:-1 group-title=SPORTS CHANNELS, tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports1.png",AD sport 1 HD
+#EXTINF:-1 group-title=SPORTS CHANNELS, tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/abudhabi/adsports/ads1.png" , AD Sports 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports1.png",AD sport 1 HD link2
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 
-#EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2014/262193_dreambox-sat.com.png", AD Sport 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/abudhabi/adsports/ads2.png" , AD Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://myegy.space/wp-content/uploads/2016/11/IMG_6849.png",AD sport 2 HD link2
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/abudhabi/adsports/ads3.png" , AD Sports 3 HD
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/abudhabi/adsports/ads4.png" , AD Sports 4 HD
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/abudhabi/adsports/ads5.png" , AD Sports 5 HD
+http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2013/6/174294.png",REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
@@ -203,14 +218,6 @@ http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna4/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png",TSN SPORT 5
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna5/index.m3u8
 
-#EXTINF:0,UK:TSN 1
-http://mcdn-play-358.5centscdn.net/tsn1hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:TSN 2
-http://mcdn-play-358.5centscdn.net/tsn2hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:TSN 3
-http://mcdn-play-358.5centscdn.net/tsn3hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:TSN 4
-http://mcdn-play-358.5centscdn.net/tsn4hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
@@ -221,17 +228,6 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 #EXTINF:-1 tvg-logo="http://www.haberyazar.com/wp-content/uploads/2015/08/idman.png",IDMAN
 http://85.132.59.163:8080/play/a00y
 
-#EXTINF: -1,ASTRO SUPERSPORTS 1
-http://mcdn-play-358.5centscdn.net/astro1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-
-#EXTINF: -1,ASTRO SUPERSPORTS 2
-http://mcdn-play-358.5centscdn.net/astro2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-
-#EXTINF: -1,ASTRO SUPERSPORTS 3
-http://mcdn-play-358.5centscdn.net/astro3extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-
-#EXTINF: -1,ASTRO SUPERSPORTS 4
-http://mcdn-play-358.5centscdn.net/astro4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 
 #EXTINF:-1,ASTRO SUPERSPORT 1 
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-1/index.m3u8 
@@ -241,23 +237,6 @@ http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-2/index.m3u8
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-3/index.m3u8
 #EXTINF:-1,ASTRO SUPERSPORT 4
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-4/index.m3u8
-
-#EXTINF:-1, Sky Sport HD 1
-http://mcdn-play-358.5centscdn.net/skysports1hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:-1, Sky Sport HD 2
-http://mcdn-play-358.5centscdn.net/skysports2hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:-1, Sky Sport HD 3
-http://mcdn-play-358.5centscdn.net/skysports3hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:-1, Sky Sport HD 4
-http://mcdn-play-358.5centscdn.net/skysports4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:-1, Sky Sport HD 5
-http://mcdn-play-358.5centscdn.net/skysports5hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:-1, Sky Sport  Mix
-http://mcdn-play-358.5centscdn.net/skysportsmixextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:-1, Sky Sport F1
-http://mcdn-play-358.5centscdn.net/skysportsf1hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:-1, Sky Sport news
-http://mcdn-play-358.5centscdn.net/skysportsnewsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 #EXTINF:-1, WWE
 http://149.202.207.8:8080/kuLlieenuBEerr0Nedublewoo3/Strm/index.m3u8
 
@@ -883,47 +862,26 @@ http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 #EXTINF:-1 group-title=MBC CHANNELS,tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc1hd.png", MBC 1 HD
 http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc1hd.png" ,MBC 1 HD link2
-http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc1hd.png", MBC 1 SD
 http://9886.akamai.live.selevision.com/live/9886/98867/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc2hd.png", MBC 2 HD
 http://selevision9882-i.akamaihd.net/hls/live/219193/98820/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc2hd.png" ,MBC 2 HD link2
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_2&t=ar
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc3hd.png", MBC 3 HD
 http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc3hd.png" ,MBC 3 HD link2
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_3&t=ar
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc3hd.png" ,MBC 3 HD link3
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc4hd.png", MBC 4 HD
 http://selevision9880-i.akamaihd.net/hls/live/219176/98803/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc4hd.png" ,MBC 4 HD link2
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_4&t=ar
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc%2Bdramahd.png", MBC DRAMA+ HD
 http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc%2Bdramahd.png" ,MBC DRAMA+ HD link2
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_drama&t=ar
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcdramahd.png" ,MBC DRAMA HD
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_drama
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcmaxhd.png", MBC MAX HD
 http://selevision9887-i.akamaihd.net/hls/live/219292/98876/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcmaxhd.png" ,MBC MAX HD link2
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_max&t=ar
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcactionhd.png", MBC ACTION HD
 http://selevision9888-i.akamaihd.net/hls/live/219296/98880/1.m3u8
@@ -934,27 +892,49 @@ http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_action&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcvarietyhd.png", MBC Verity
 http://selevision9878-i.akamaihd.net/hls/live/219136/98788/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcvarietyhd.png" , MBC Variety HD link2
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_variety&t=ar
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcmasr.png", MBC MASR SD
 http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcmasr.png" ,MBC MASR link2
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_masr&t=ar
 
 #EXTINF:-1 tvg-logo="http://www.e3lam.org/wp-content/uploads/2015/03/mbc-masr-2.png", MBC MASR 2 SD
 http://selevision9889-i.akamaihd.net/hls/live/219312/98895/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png", MBC BOLLYWOOD
 http://selevision9894-i.akamaihd.net/hls/live/219366/98949/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcbollywood.png" ,MBC BOLLYWOOD link2
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_bollywood&t=ar
 
 #EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271620",Alfa Musalsalat HD
 http://selevision9886-i.akamaihd.net/hls/live/219285/98869/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271619",Alfa Cinema 1
 http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc1hd.png" ,MBC 1 HD
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc2hd.png" ,MBC 2 HD
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_2&t=ar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc3hd.png" ,MBC 3 HD
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_3&t=ar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc4hd.png" ,MBC 4 HD
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_4&t=ar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcactionhd.png" ,MBC ACTION HD
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_action&t=ar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcmaxhd.png" ,MBC MAX HD
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_max&t=ar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcdramahd.png" ,MBC DRAMA HD
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_drama&t=ar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc%2Bdramahd.png" ,MBC+ DRAMA HD
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_drama&t=ar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcvarietyhd.png" , MBC Variety HD
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_variety&t=ar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcbollywood.png" ,MBC BOLLYWOOD
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_bollywood&t=ar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcmasr.png" ,MBC MASR
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_masr&t=ar
+
+
+
+
 
 #EXTINF:-1 group-title=OSN CHANNELS, tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_sports_cricket_hd.png",OSN Sports CRICKET HD
 http://9893.akamai.live.selevision.com/live/9893/98934/master.m3u8
@@ -1083,6 +1063,20 @@ http://bglive-w.bitgravity.com/amazingfacts/live/feed01
 
 #EXTINF:-1,Fashion TV
 http://37.194.121.4:1234/udp/239.1.3.13:1234
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png", Russia Today
+http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index1600.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png", Russia Documentary
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
+#EXTINF:-1 tvg-logo="https://www.gospanishnow.com/wp-content/uploads/2015/12/Discovery-Channel-HD.png", DISCOVERY CHANNEL
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA TV HD
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/GONG-TV.SD.png", GONG
+http://ec.playmedia.fr/gong-base/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://a398.idata.over-blog.com/5/70/95/81/CCC-images-suite/RMC-DECOUVERTE.jpg", RMC
+http://streaming-hub.com/stream/rmc.m3u8
+
 
 #EXTINF:-1,Noor Dubai TV
 http://dmiftvll.mangomolo.com/noordubaitv/smil:noordubaitv.smil/master.m3u8
@@ -1452,18 +1446,7 @@ http://199.167.151.237:1935/live/dub_1_ch1126/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh6.ggpht.com/z1he9qtBTJ9fTQWMJZ5xR754mQvVCDK94Y7ac6pFxvMwwA6rJRHzEj4TTg2jI1dxBsHj=w300",[COLOR yellow] ENGLISH CHANNELS [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png", Russia Today
-http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index1600.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png", Russia Documentary
-http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
-#EXTINF:-1 tvg-logo="https://www.gospanishnow.com/wp-content/uploads/2015/12/Discovery-Channel-HD.png", DISCOVERY CHANNEL
-http://208.86.19.13:8080/live/31.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA TV HD
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/GONG-TV.SD.png", GONG
-http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://a398.idata.over-blog.com/5/70/95/81/CCC-images-suite/RMC-DECOUVERTE.jpg", RMC
-http://streaming-hub.com/stream/rmc.m3u8
+
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png/revision/latest?cb=20130610165528", ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1 tvg-logo="http://victorygroup.com/wp-content/uploads/FOX-NEWS-864x445.png", FOX NEWS
@@ -1476,288 +1459,13 @@ http://208.86.19.13:8080/live/15.stream/index.m3u8
 http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
 
 
-#EXTINF:3 group-title=”UK TESTING 1”, 
-
-
-#EXTINF:0,UK:BBC RED BUTTON
-http://mcdn-play-358.5centscdn.net/bbcredbuttonextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:BBC 1
-http://mcdn-play-358.5centscdn.net/bbc1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:BBC 1 HD
-http://mcdn-play-358.5centscdn.net/hd4eg6nzo9aibbc1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:0,UK:BBC 2
-http://mcdn-play-358.5centscdn.net/bbc2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:BBC 2 HD
-http://mcdn-play-358.5centscdn.net/bbc2hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:BBC3
-http://mcdn-play-358.5centscdn.net/bbc3extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:BBC3 HD
-http://mcdn-play-358.5centscdn.net/bbc3extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:BBC 4
-http://mcdn-play-358.5centscdn.net/hdbbc4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:BBC4 HD
-http://mcdn-play-358.5centscdn.net/hdbbc4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:ITV
-http://mcdn-play-358.5centscdn.net/itv1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:CHANNEL4
-http://mcdn-play-358.5centscdn.net/channel4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:CHANNEL5
-http://mcdn-play-358.5centscdn.net/channel5extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SKY ONE
-http://mcdn-play-358.5centscdn.net/sky1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SKY TWO
-http://mcdn-play-358.5centscdn.net/sky2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SKY LIVING
-http://mcdn-play-358.5centscdn.net/skylivingextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SKY ATLANTIC
-http://mcdn-play-358.5centscdn.net/skyatlanticextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:FOX
-http://mcdn-play-358.5centscdn.net/foxextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:ITV2
-http://mcdn-play-358.5centscdn.net/itv2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:ITV3
-http://mcdn-play-358.5centscdn.net/itv3extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:ITV4
-http://mcdn-play-358.5centscdn.net/itv4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:ITVBEE
-http://mcdn-play-358.5centscdn.net/itvbeextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:MORE4
-http://mcdn-play-358.5centscdn.net/more4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:5STAR
-http://mcdn-play-358.5centscdn.net/5starextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:5USA
-http://mcdn-play-358.5centscdn.net/5usaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:E4
-http://mcdn-play-358.5centscdn.net/e4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:MORE4
-http://mcdn-play-358.5centscdn.net/more4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:4SEVEN
-http://mcdn-play-358.5centscdn.net/4sevenextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:DAVE
-http://mcdn-play-358.5centscdn.net/daveextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:CHALLENGE TV
-http://mcdn-play-358.5centscdn.net/challengetvextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:PICK
-http://mcdn-play-358.5centscdn.net/pickextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:WATCH
-http://mcdn-play-358.5centscdn.net/watchextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:YESTERDAY
-http://mcdn-play-358.5centscdn.net/yesterdayextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:ALIBI
-http://mcdn-play-358.5centscdn.net/alibiextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:LIFETIME
-http://mcdn-play-358.5centscdn.net/lifetimeextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:PBS AMERICA
-http://mcdn-play-358.5centscdn.net/pbsamericaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:GOLD
-http://mcdn-play-358.5centscdn.net/goldextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:DRAMA
-http://mcdn-play-358.5centscdn.net/dramaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:CBS ACTION
-http://mcdn-play-358.5centscdn.net/cbsactionextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:CBS DRAMA
-http://mcdn-play-358.5centscdn.net/cbsdramaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:CBS REALITY
-http://mcdn-play-358.5centscdn.net/cbsrealityextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:FOOD NETWORK
-http://mcdn-play-358.5centscdn.net/foodnetworkextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:GOOD FOOD
-http://mcdn-play-358.5centscdn.net/goodfoodextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:HOME HEALTH
-http://mcdn-play-358.5centscdn.net/homehealthextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK: TRUE DRAMA
-http://mcdn-play-358.5centscdn.net/truedramaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:TRUE MOVIES 1
-http://mcdn-play-358.5centscdn.net/truemovies1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:TRUE MOVIES 2
-http://mcdn-play-358.5centscdn.net/truemovies2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SKY ARTS
-http://mcdn-play-358.5centscdn.net/skyarts1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:EDEN
-http://mcdn-play-358.5centscdn.net/edenextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:HISTORY
-http://mcdn-play-358.5centscdn.net/historyextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:DMAX
-http://mcdn-play-358.5centscdn.net/dmaxextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:QUEST
-http://mcdn-play-358.5centscdn.net/questextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:ANIMAL PLANET
-http://mcdn-play-358.5centscdn.net/animalplanetextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:NAT GEO
-http://mcdn-play-358.5centscdn.net/natgeoextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:NAT GEO WILD
-http://mcdn-play-358.5centscdn.net/natgeowildextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:DISCOVERY
-http://mcdn-play-358.5centscdn.net/discoveryextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:DISCOVERY TURBO
-http://mcdn-play-358.5centscdn.net/discturboextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:DISCOVERY SHED
-http://mcdn-play-358.5centscdn.net/discshedextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:EDEN
-http://mcdn-play-358.5centscdn.net/edenextv/55c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:DISCOVERY HISTORY
-http://mcdn-play-358.5centscdn.net/dischistextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:Discovery Investigation
-http://mcdn-play-358.5centscdn.net/discinvextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:Discovery Science
-http://mcdn-play-358.5centscdn.net/discscienceextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:CI
-http://mcdn-play-358.5centscdn.net/ciextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:Sky MOVIES SELECT
-http://mcdn-play-358.5centscdn.net/skymovselectextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:Sky MOVIES SCIFI
-http://mcdn-play-358.5centscdn.net/skymovscifiextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:Sky MOVIES COMEDY
-http://mcdn-play-358.5centscdn.net/skymovcomedyextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:Sky MOVIES GREATS
-http://mcdn-play-358.5centscdn.net/skymovgreatsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:Sky MOVIES DISNEY
-http://mcdn-play-358.5centscdn.net/skymovdisneyextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:Sky MOVIES DRAMA
-http://mcdn-play-358.5centscdn.net/skymovdramaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:Sky MOVIES ACTION
-http://mcdn-play-358.5centscdn.net/skymovactionextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:Sky MOVIES FAMILY
-http://mcdn-play-358.5centscdn.net/skymovfamilyextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:Sky MOVIES THRILLER
-http://mcdn-play-358.5centscdn.net/skythrillerhdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:Sky MOVIES DISNEY HD
-http://mcdn-play-358.5centscdn.net/skydisneyhdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:FILM4
-http://mcdn-play-358.5centscdn.net/film4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK: SKY SPORTS 1 
-http://mcdn-play-358.5centscdn.net/skysports1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SKY SPORTS 2
-http://mcdn-play-358.5centscdn.net/skysports2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SKY SPORTS 3
-http://mcdn-play-358.5centscdn.net/skysports3extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SKY SPORTS 4
-http://mcdn-play-358.5centscdn.net/skysports4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SKY SPORTS 5
-http://mcdn-play-358.5centscdn.net/skysports5extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SKY SPORTS F1
-http://mcdn-play-358.5centscdn.net/skysportsf1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SKY SPORTS NEWS
-http://mcdn-play-358.5centscdn.net/skysportsnewsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SKY SPORTS 1HD
-http://mcdn-play-358.5centscdn.net/skysports1hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SKY SPORTS 2HD
-http://mcdn-play-358.5centscdn.net/skysports2hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SKY SPORTS 3HD
-http://mcdn-play-358.5centscdn.net/skysports3hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SKY SPORTS 4HD
-http://mcdn-play-358.5centscdn.net/skysports5hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SKY SPORTS 5HD
-http://mcdn-play-358.5centscdn.net/espnextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:ESPN HD
-http://mcdn-play-358.5centscdn.net/espnhdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:BT SPORT 1
-http://mcdn-play-358.5centscdn.net/hashsp1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:0,UK:BT SPORT 2
-http://mcdn-play-358.5centscdn.net/btsport2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:BT SPORT 2 HD
-http://mcdn-play-358.5centscdn.net/btsport2hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SETANTA SPORT
-http://mcdn-play-358.5centscdn.net/setantasportsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:AT THE RACES
-http://mcdn-play-358.5centscdn.net/attheracesextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:RACING UK
-http://mcdn-play-358.5centscdn.net/racingukextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:EUROSPORT 1
-http://mcdn-play-358.5centscdn.net/hashsp3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:0,UK:EUROSPOT 2
-http://mcdn-play-358.5centscdn.net/hashsp2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:0,UK:FOXSPORTS 1
-http://mcdn-play-358.5centscdn.net/foxsports1usaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:FOX SPORTS 2
-http://mcdn-play-358.5centscdn.net/foxsports2usaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:BOX NATION
-http://mcdn-play-358.5centscdn.net/boxnationextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:MIO 1
-http://mcdn-play-358.5centscdn.net/mio102extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:MIO 2
-http://mcdn-play-358.5centscdn.net/mio103extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:MIO 3
-http://mcdn-play-358.5centscdn.net/mio104extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:PREMIER SPORTS
-http://mcdn-play-358.5centscdn.net/premiersportsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:MUTV
-http://mcdn-play-358.5centscdn.net/mutvextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:BET
-http://mcdn-play-358.5centscdn.net/betextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:MTV LIVE
-http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist_b800000.m3u8
-#EXTINF:0,UK:MTV MUSIC
-http://mcdn-play-358.5centscdn.net/mtvmusicextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:MTV HITS
-http://mcdn-play-358.5centscdn.net:80/mtvhitsextv/stream1.stream/playlist.m3u8
-#EXTINF:0,UK:MTV DANCE
-http://mcdn-play-358.5centscdn.net/mtvdanceextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:MTV CLASSICS
-http://mcdn-play-358.5centscdn.net/mtvclassicextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:VIVA
-http://mcdn-play-358.5centscdn.net/vivaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:THE VAULT
-http://mcdn-play-358.5centscdn.net/thevaultextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:FLAVA
-http://mcdn-play-358.5centscdn.net/flavaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:BABY TV
-http://mcdn-play-358.5centscdn.net/babytvextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:NICK JR
-http://mcdn-play-358.5centscdn.net/nickjrextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:CBEEBIES
-http://mcdn-play-358.5centscdn.net/cbeebiesextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:NICKTOONS
-http://mcdn-play-358.5centscdn.net/nicktoonextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:DISNEY
-http://mcdn-play-358.5centscdn.net/disneyextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:DISNEY JR
-http://mcdn-play-358.5centscdn.net/disneyjrextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:DISNEY XD
-http://mcdn-play-358.5centscdn.net/disneyxdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:MOTORS
-http://mcdn-play-358.5centscdn.net/motorstvextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:BBC NEWS
-http://mcdn-play-358.5centscdn.net/bbcnewsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:RTE JR
-http://mcdn-play-358.5centscdn.net/rtejrextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:BBC ALBA
-http://mcdn-play-358.5centscdn.net/bbcalbaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:REALLY
-http://mcdn-play-358.5centscdn.net/reallyextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SCUZZ
-http://mcdn-play-358.5centscdn.net/scuzzextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:COMMUNITY
-http://mcdn-play-358.5centscdn.net/communitychextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:BLOOMBERG
-http://mcdn-play-358.5centscdn.net/bloombergextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:FOX NEWS
-http://mcdn-play-358.5centscdn.net/foxnewsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:SKY NEWS
-http://mcdn-play-358.5centscdn.net/skynewsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:RTE1
-http://mcdn-play-358.5centscdn.net/rte1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:RTE2
-http://mcdn-play-358.5centscdn.net/rte2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:TV3
-http://mcdn-play-358.5centscdn.net/tv3extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:TG4
-http://mcdn-play-358.5centscdn.net/tg4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:BBC 1 WALES
-http://mcdn-play-358.5centscdn.net/bbc1walesextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
-#EXTINF:0,UK:BBC 1 Scotland
-http://mcdn-play-358.5centscdn.net/bbc1scotextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 
 
 
-
-
-#EXTINF:3 group-title=”UK TESTING 2”, 
-
+#EXTINF:-1 group-title=UK CHANNELS,tvg-logo=http://go.sky.com/SVOD/SKYKIDS/IMAGES/Nick%20Jr/P/Peppa%20Pig%20S1/L_Peppa_S1.jpg",Nick Jr Peppa
+http://5.255.90.223:5000/play/a00c
 #EXTINF:-1,QUEST+1
 http://5.255.90.223:5000/play/a011
-#EXTINF:-1,Nick Jr Peppa
-http://5.255.90.223:5000/play/a00c
 #EXTINF:-1,MTV MUSIC
 http://5.255.90.223:5000/play/a00d
 #EXTINF:-1,Disc.Science
@@ -1821,10 +1529,7 @@ http://5.255.90.223:5000/play/a016
 #EXTINF:-1,ComedyXtra
 http://5.255.90.223:5000/play/a006
 
-
-#EXTINF:3 group-title=”UK TESTING 3”, 
-
-#EXTINF:-1,BBC One Lon
+#EXTINF:-1 group-title=UK CHANNELS 2,tvg-logo=http://www.throup.org.uk/images/doctor_who/bbc_one.png",BBC One Lon
 http://80.25.87.6:9981/stream/channelid/1936535934
 #EXTINF:-1,BBC Two Eng
 http://80.25.87.6:9981/stream/channelid/43367668
@@ -1867,9 +1572,7 @@ http://80.25.87.6:9981/stream/channelid/1867717695
 
 
 
-#EXTINF:3 group-title=”USA1-Asia”, 
-
-#EXTINF:-1, NASA TV HD
+#EXTINF:-1 group-title=USA CHANNELS 2,tvg-logo=http://i.amz.mshcdn.com/Y-dHDDFhimILJ0loGTg6pc1BerA=/950x534/2012%2F12%2F04%2F3c%2Fnasatvgoesh.dMr.jpg",NASA TV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
 #EXTINF:-1, NHK WORLD HD
@@ -1989,10 +1692,7 @@ http://208.86.19.13:8080/live/103.stream/index.m3u8
 
 
 
-
-#EXTINF:5 group-title=”ITALY”,
-
-#EXTINF:-1,SKY TG24
+#EXTINF:-1 group-title=ITALY CHANNELS ,tvg-logo=http://www.matteobrancaleoni.com/wp-content/uploads/2013/01/Sky-TG24-logo.png",SKY TG24
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 
 #EXTINF:-1,Sky TG24
@@ -2053,11 +1753,7 @@ http://37.46.192.238:10000/play/a00g/index.m3u8
 
 
 
-
-#EXTINF:7 group-title=”Germany”,
-
-
-#EXTINF:-1,TNT Serie
+#EXTINF:-1 group-title=GERMANY CHANNELS 2,tvg-logo=http://www.cineymas.com.ar/wp-content/uploads/2015/03/TNT-Series-Logo-660x460.jpg",TNT Serie
 http://178.196.220.26:9981/play/a028
 #EXTINF:-1,Disney Cinemagic
 http://178.196.220.26:9981/play/a022
@@ -2152,10 +1848,7 @@ http://178.196.220.26:9981/play/a01f
 
 
 
-
-#EXTINF:9 group-title=”Georgia”,
-
-#EXTINF:0,1_Arxi
+#EXTINF:-1 group-title=GEORGIA CHANNELS 2,tvg-logo=http://www.cineymas.com.ar/wp-content/uploads/2015/03/TNT-Series-Logo-660x460.jpg",1_Arxi
 http://94.43.239.178:8080/CHANNEL826/BITRATE0/playlist.m3u8
 #EXTINF:0,Artarea
 http://94.43.239.178:8080/CHANNEL835/BITRATE0/playlist.m3u8
