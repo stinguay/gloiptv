@@ -229,48 +229,74 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 http://85.132.59.163:8080/play/a00y
 
 
-#EXTINF:-1,ASTRO SUPERSPORT 1 
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-1/index.m3u8 
-#EXTINF:-1,ASTRO SUPERSPORT 2 
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-2/index.m3u8 
-#EXTINF:-1,ASTRO SUPERSPORT 3 
+#EXTINF:-1, WWE
+http://149.202.207.8:8080/kuLlieenuBEerr0Nedublewoo3/Strm/index.m3u8
+#EXTINF:-1,ARENA SPORT 1
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8
+#EXTINF:-1,ARENA SPORT 2
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-2/Strm/index.m3u8
+#EXTINF:-1,ARENA SPORT 3
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-3/Strm/index.m3u8
+#EXTINF:-1,ARENA SPORT 4
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-4/Strm/index.m3u8
+#EXTINF:-1,ARENA SPORT 5
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-5/Strm/index.m3u8
+#EXTINF:-1,NL: FOX SPORT 1
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-1nl/Strm/index.m3u8
+#EXTINF:-1,NL: FOX SPORT 2
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-2nl/Strm/index.m3u8
+#EXTINF:-1,NL: FOX SPORT 3
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-3nl/Strm/index.m3u8
+#EXTINF:-1,NL: FOX SPORT 4
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-4nl/Strm/index.m3u8
+#EXTINF:-1,NL: FOX SPORT 5
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-5nl/Strm/index.m3u8
+#EXTINF:-1,NL: FOX SPORT 6
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-6nl/Strm/index.m3u8
+#EXTINF:-1,US:FOX SPORT 1
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp1/index.m3u8
+#EXTINF:-1,US:FOX SPORT 2
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp2/index.m3u8
+#EXTINF:-1,BEIN SPORT 1
+http://149.202.208.85:8080/mystreambhenssp-1/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 2
+http://149.202.208.85:8080/mystreambhenssp-2/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 3
+http://149.202.208.85:8080/mystreambhenssp-3/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 4
+http://149.202.208.85:8080/mystreambhenssp-4/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 5
+http://149.202.208.85:8080/mystreambhenssp-5/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 6
+http://149.202.208.85:8080/mystreambhenssp-6/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 7
+http://149.202.208.85:8080/mystreambhenssp-7/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 8
+http://149.202.208.85:8080/mystreambhenssp-8/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 9
+http://149.202.208.85:8080/mystreambhenssp-9/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 10
+http://149.202.208.85:8080/mystreambhenssp-10/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 11
+http://149.202.208.85:8080/mystreambhenssp-11/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT FRANCE 1
+http://149.202.208.85:8080/mystreambhenssfn-1/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT FRANCE 2
+http://149.202.208.85:8080/mystreambhenssfn-2/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT FRANCE 3
+http://149.202.208.85:8080/mystreambhenssfn-3/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,ASTRO SUPERSPORT 1
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-1/index.m3u8
+#EXTINF:-1,ASTRO SUPERSPORT 2
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-2/index.m3u8
+#EXTINF:-1,ASTRO SUPERSPORT 3
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-3/index.m3u8
 #EXTINF:-1,ASTRO SUPERSPORT 4
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-4/index.m3u8
-#EXTINF:-1, WWE
-http://149.202.207.8:8080/kuLlieenuBEerr0Nedublewoo3/Strm/index.m3u8
-
-
-
-
-#EXTINF:-1,ARENA SPORT 1 
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8 
-#EXTINF:-1,ARENA SPORT 2 
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-2/Strm/index.m3u8 
-#EXTINF:-1,ARENA SPORT 3 
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-3/Strm/index.m3u8 
-#EXTINF:-1,ARENA SPORT 4 
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-4/Strm/index.m3u8 
-#EXTINF:-1,ARENA SPORT 5 
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-5/Strm/index.m3u8 
-#EXTINF:-1,NL: FOX SPORT 1 
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-1nl/Strm/index.m3u8 
-#EXTINF:-1,NL: FOX SPORT 2 
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-2nl/Strm/index.m3u8 
-#EXTINF:-1,NL: FOX SPORT 3 
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-3nl/Strm/index.m3u8 
-#EXTINF:-1,NL: FOX SPORT 4 
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-4nl/Strm/index.m3u8 
-#EXTINF:-1,NL: FOX SPORT 5 
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-5nl/Strm/index.m3u8 
-#EXTINF:-1,NL: FOX SPORT 6 
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-6nl/Strm/index.m3u8 
-#EXTINF:-1,US:FOX SPORT 1 
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp1/index.m3u8 
-#EXTINF:-1,US:FOX SPORT 2 
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp2/index.m3u8 
-
-
+#EXTINF:-1,BT SPORT 3
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBeeT3yy-U/Strm/index.m3u8
+#EXTINF:-1,Premier Sports
+http://149.202.207.8:8080/kuLlieenuBEerr0Nepeemrie/Strm/index.m3u8 
 
 
 
@@ -616,6 +642,45 @@ http://176.106.66.156:8086/udp/239.71.92.46:1234
 #EXTINF:-1,MTV CHINA
 http://222.191.24.43:6610/004/2/ch00000090990000001154/index.m3u8?ispcode=3
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0U3LPSQ.png",ROCK TV GR
+http://web.onair-radio.eu:1935/rocktv/rocktv/playlist.m3u8
+#EXTINF:0,VH1 Classic
+http://37.192.100.141:81/udp/239.1.8.7:1234
+#EXTINF:-1, VH1 Classic 
+http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8 
+#EXTINF:-1,MTV Rocks 
+http://37.46.192.226:9000/play/a002/index.m3u8 
+#EXTINF:-1,MTV Hits 
+http://37.46.192.226:9000/play/a003/index.m3u8 
+#EXTINF:-1,MTV Classic 
+http://37.46.192.226:9000/play/a005/index.m3u8 
+#EXTINF:-1,MTV One 
+http://37.46.192.226:9000/play/a008/index.m3u8 
+#EXTINF:-1,MTV Music 
+http://37.46.192.226:9000/play/a006/index.m3u8 
+#EXTINF:-1,MTV Base 
+http://37.46.192.226:9000/play/a004/index.m3u8 
+#EXTINF:-1,MTV Dance 
+http://37.46.192.226:9000/play/a007/index.m3u8
+#EXTINF:-1,MTV 
+http://95.213.150.98:8889/MTV 
+#EXTINF:-1,MTV Dance 
+http://95.213.150.98:8889/MTVDance 
+#EXTINF:-1,MTV Hits 
+http://95.213.150.98:8889/MTVHits 
+#EXTINF:-1,MTV Rocks 
+http://95.213.150.98:8889/MTVRocks 
+#EXTINF:-1,MCM Top 
+http://95.213.150.98:8889/MCMTop
+#EXTINF:0,MTV Live HD
+http://0E9B00ECD326CCAC:@t.kraslan.ru/mtvlivehd?krasview.ru
+#EXTINF:0,MTV Live HD
+http://176.106.66.156:8086/udp/239.71.92.144:1234
+#EXTINF:-1,MTV Music
+http://tinyurl.com/hb678sq
+#EXTINF:0,MTV Dance
+http://176.106.66.156:8086/udp/239.71.92.46:1234
+
 #EXTINF:-1,Radionorba Tv
 http://85.17.80.132:80/radionorbatv/norbatv_source.stream/playlist.m3u8
 
@@ -678,8 +743,8 @@ http://cdn.djing.com/tv/d-05.m3u8
 #EXTINF:0,Djing Underground HD
 http://cdn.djing.com/tv/u-05.m3u8
 
-
-
+#EXTINF:0,TraceUrban
+http://163.172.30.64:8789/live/admin/12345678/1099.m3u8
 
 
 #EXTINF:-1 group-title=RELIGIOUS  CHANNELS,tvg-logo="http://www.tv14.net/wp-content/uploads/2010/01/CBN-News.jpg",CBN
@@ -1877,28 +1942,149 @@ http://94.43.239.178:8080/CHANNEL846/BITRATE0/playlist.m3u8
 
 
 
-
-
-#EXTINF:9 group-title=”TESTING CHANNELS”,
-
-
-
-
-#EXTINF: -1,CNN Headline
+#EXTINF:-1 group-title=TESTING  CHANNELS 2,tvg-logo=http://www.cineymas.com.ar/wp-content/uploads/2015/03/TNT-Series-Logo-660x460.jpg",CNN Headline
 http://58ad68d0b6c8d.streamlock.net/ios/cnninews/playlist.m3u8
 
 #EXTINF: -1,CNN international
 http://58ad68d0b6c8d.streamlock.net/ios/cnnnews/playlist.m3u8
 
-
-#EXTINF: -1,SuperSport 1
-http://81.7.13.162/hls/ss1 /index.m3u8 
-#EXTINF: -1,SuperSport 2
-http://81.7.13.162/hls/ss2/index.m3u8 
-#EXTINF: -1,SuperSport 3
-http://81.7.13.162/hls/ss3/index.m3u8 
-#EXTINF:-1,Superport 4
-http://81.7.13.162/hls/ss4/index.m3u8 
+#EXTINF: -1,BOOMERANG
+http://50.7.69.42:8899/GB/UK/BOOMERANG/index.m3u8
 
 
+
+#EXTINF: -1,as HD 
+http://kb1.ottclub.info:443/water/c739.stream/playlist.m3u8
+#EXTINF: -1,as HD 2
+http://kb1.ottclub.info:443/water/c671.Stream/playlist.m3u8
+#EXTINF: -1,as the HD
+http://kb1.ottclub.info:443/water/c672.stream/playlist.m3u8
+#EXTINF: -1,people as
+http://kb1.ottclub.info:443/water/c692.stream /playlist.m3u8
+#EXTINF: -1,one news
+http://kb1.ottclub.info:443/water/c732.stream/playlist.m3u8
+#EXTINF: -1,people as the news
+http://kb1.ottclub.info:443/water/c687.stream/ playlist.m3u8
+#EXTINF: -1,s news
+http://kb1.ottclub.info:443/water/c736.stream/playlist.m3u8
+#EXTINF: -1,CTV News
+http://kb1.ottclub.info:443/kitty/c656.stream/playlist.M3u8
+#EXTINF: -1,Sanli News
+http://kb1.ottclub.info:443/water/c661.stream/playlist.m3u8
+#EXTINF: -1,transit news
+http://kb1.ottclub.info:443/water/c688.stream/playlist.m3u8
+#EXTINF: -1,Eastern News 
+http://kb1.ottclub.info:443/water/c691.stream/playlist.m3u8
+#EXTINF: -1,Eastern Finance
+http://kb1.ottclub.info:443/water/c733.stream/playlist.m3u8
+#EXTINF: -1,TVBS news
+http://kb1.ottclub.info:443/water/c662.stream/playlist.m3u8
+#EXTINF: -1,extraordinary news
+http://kb1.ottclub.info:443/Water/c712.stream/playlist.m3u8
+#EXTINF: -1,transit news HD
+http://kb1.ottclub.info:443/water/c669.stream/playlist.m3u8
+#EXTINF: -1,BBC
+http://kb1.ottclub.info:443/kitty/c677.stream/playlist.m3u8
+#EXTINF: -1,CNN
+http://kb1.ottclub.info:443/kitty/c675.stream/playlist.m3u8
+#EXTINF: -1,in the view
+http://kb1.ottclub.info:443/kitty/c701.stream/playlist.m3u8
+#EXTINF: -1,CI crime scene
+http://kb1.otTCLub.info:443/kitty/c558.stream/playlist.m3u8
+#EXTINF: -1,day HD
+Http://kb1.ottclub.info:443/water/c560.stream/playlist.m3u8
+#EXTINF: -1,CATCHPLAY movie
+http://kb1.ottclub.info:443/kitty/c655.stream/playlist.m3u8
+#EXTINF: -1,TVBS happy HD
+http://kb1.ottclub.info:443/water/c660.stream/playlist.m3u8
+#EXTINF: -1,BBC life
+http://kb1.ottclub.info:443/kitty/c719.stream/playlist.m3u8
+#EXTINF: -1,transit integrated HD
+http://kb1.ottclub.info:443/water/c720.stream/playlist.m3u8
+#EXTINF: -1,BBC life
+http://kb1.ottclub.info:443/kitty/c721.stream/playlist.m3u8
+#EXTINF: -1,Weft Sports HD
+http://kb1.ottclub.info:443/water/c663.stream/playlist.m3u8
+#EXTINF: -1,weft to Japan HD
+http://kb1.ottclub.info:443/water/c664.stream/playlist.m3u8
+#EXTINF: -1,FOX sports 2
+http://kb1.ottclub.info:443/kitty/c665.stream/playlist.m3u8
+#EXTINF: -1,wefty music
+http://kb1.ottclub.info:443/kitty/c666.stream/playlist.m3u8
+#EXTINF: -1,TV movie
+http://kb1.ottclub.info:443/kitty/c667.stream/playlist.m3u8
+#EXTINF: -1,TCL travel life
+http://kb1.ottclub.info:443/water/c670.stream/playlist.m3u8
+#EXTINF: -1,WIN integrated HD
+http://kb1.ottclub.info:443/water/c673.stream/playlist.m3u8
+#EXTINF: -1,animal planet
+http://kb1.ottclub.info:443/water/c676.stream/playlist.m3u8
+#EXTINF: -1,AXN action movie
+http://kb1.ottclub.info:443/water/c679.stream/playlist.m3u8
+#EXTINF: -1,HBO strong
+http://kb1.ottclub.info:443/kitty/c684.stream/playlist.M3u8 
+#EXTINF: -1,HBOHD
+http://kb1.ottclub.info:443/water/c685.stream/playlist.m3u8
+#EXTINF: -1,HBO Warm
+http://kb1.ottclub.info:443/kitty/c686.stream/playlist.m3u8
+#EXTINF: -1,TVBS
+Http://kb1.ottclub.info:443/water/c689.stream/playlist.m3u8
+#EXTINF: -1,HBO
+http://kb1.ottclub.info:443/kitty/c690.stream/playlist.m3u8
+#EXTINF: -1,DMAX
+http://Kb1.ottclub.info:443/kitty/c700.stream/playlist.m3u8
+#EXTINF: -1,FOX home theater
+http://kb1.ottclub.info:443/water/c702.stream/playlist.m3u8
+#EXTINF: -1,Universal Theater
+http://kb1.comclub.info:443/kitty/c703.stream/playlist.m3u8
+#EXTINF: -1,the United States and Asia film HD
+http://kb1.ottclub.info:443/kitty/c704.stream/playlist.m3u8
+#EXTINF: -1,Star TV HD movie
+http://Kb1.ottclub.info:443/water/c705.stream/playlist.m3u8
+#EXTINF: -1,National Geographic HD
+http://kb1.Ottclub.info:443/water/c706.stream/playlist.m3u8
+#EXTINF: -1,National Geographic Wild
+http://kb1.ottclub.info:443/kitty/c707.stream/playlist.m3u8
+#EXTINF: -1,ANIMAX Anime HD
+http://kb1.Ottclub.info:443/kitty/c708.stream/playlist.m3u8
+#EXTINF: -1,latitude drama
+http://kb1.ottclub.info:443/water/c710.stream/playlist.m3u8
+#EXTINF: -1,Guoxing TV
+http://kb1.ottclub.info:443/water/c713.stream/playlist.m3u8
+#EXTINF: -1,eight plays
+http://kb1.ottclub.info:443/water/c715.stream/playlist.m3u8
+#EXTINF: -1,syfy horror
+http://kb1.ottclub.info: 443 / kitty / c716.stream / playlist.m3u8
+#EXTINF: -1,Korea tvN entertainment
+http://kb1.ottclub.info:443/kitty/c717.Stream/playlist.m3u8
+#EXTINF: -1,Korean entertainment
+http://kb1.ottclub.info:443/kitty/c718.stream/playlist.m3u8
+#EXTINF: -1,Boss Golf
+http://kb1.ottclub.info:443/kitty/c722.stream /playlist.m3u8
+#EXTINF: -1,Sanli Finance
+http://kb1.ottclub.info:443/kitty/c723.stream/playlist.m3u8
+#EXTINF: -1,Babytv
+http://kb1.ottclub.info:443/kitty/c724.stream/playlist.M3U8
+the JET comprehensive, http://kb1.ottclub.info:443/water/c725.stream/playlist.m3u8
+MUCH years, http://kb1.ottclub.info:443/kitty/c726.stream/playlist.m3u8
+in sky Entertainment, http://kb1.ottclub.info:443/water/c728.stream/playlist.m3u8
+Japan Z channel, http://kb1.ottclub.info:443/kitty/c729.stream/playlist.m3u8
+the FOX Entertainment HD, http://kb1.ottclub.info:443/water/c731.stream/playlist.
+M3u8 Eastwood film, http://kb1.ottclub.info:443/water/c734.stream/playlist.m3u8
+weft synthesis , http://kb1.ottclub.info:443/kitty/c735.stream/playlist. M3u8
+Eastern integrated , http://kb1.ottclub.info:443/kitty/c737.stream/playlist.m3u8
+one synthesis , http://kb1.ottclub.info:443/kitty/c738.stream/playlist.m3u8
+Korea tvN entertainment , http://kb1.ottclub.info:443/kitty/c740.stream/playlist.m3u8
+#EXTINF: -1,MTV music HD
+http://kb1.ottclub.info:443/kitty/c741.stream/playlist.m3u8
+#EXTINF: -1,Star Health
+http://kb1.ottclub.info:443/kitty/c742.stream/playlist.m3u8
+#EXTINF: -1,EVE healthy life
+http://kb1.ottclub.info:443/kitty/c743.stream/playlist.m3u8
+#EXTINF: -1,Explore the world HD
+http://kb1.ottclub.info:443/water/c744.stream/playlist.m3u8
+#EXTINF: -1,TV West HD
+Http://kb1.ottclub.info:443/water/c746.stream/playlist.m3u8
+#EXTINF: -1,explore science
+http://kb1.ottclub.info:443/kitty/c747.stream/playlist.m3u8
 
