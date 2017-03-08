@@ -2062,11 +2062,105 @@ http://87.76.91.24:8008/play/a00a
 http://87.76.91.24:8008/play/a002
 
 
+
+#EXTINF:-1,MTV music
+http://89.38.8.130:39439
+http://89.38.8.130:39438
+#EXTINF:-1,VH1 music
+http://89.38.8.130:39455
+#EXTINF:-1,SPORT RO
+http://89.38.8.130:39430
+#EXTINF:-1,DISNEY Channel
+http://89.38.8.131:39513
+#EXTINF:-1,DIVA TV
+http://89.38.8.131:39507
+#EXTINF:-1,DOLCE SPORT 1 HD
+http://89.38.8.131:39540
+#EXTINF:-1,EUROSPORT 1
+http://89.38.8.131:39542
+#EXTINF:-1,EUROSPORT 2 HD
+http://89.38.8.131:39543
+#EXTINF:-1,FOOD NETWORK HD
+http://89.38.8.131:39539
+#EXTINF:-1,FRANCE 24
+http://89.38.8.131:39503
+#EXTINF:-1,HBO HD
+http://89.38.8.131:39545
+#EXTINF:-1,TRAVEL MIX
+http://89.38.8.131:39520
+#EXTINF:-1,TV 1000
+http://89.38.8.131:39501
+#EXTINF:-1,History HD
+http://89.38.8.131:39528
+#EXTINF:-1,AXN
+http://89.38.8.131:39509
+#EXTINF:-1,AXN BLACK
+http://89.38.8.131:39510
+#EXTINF:-1,AXN WHITE
+http://89.38.8.131:39511
+#EXTINF:-1,BOOMERANG
+http://89.38.8.131:39517
+#EXTINF:-1,CARTOON NETWORK
+http://89.38.8.131:39516
+#EXTINF:-1,CNN
+http://89.38.8.131:39504
+#EXTINF:-1,ACASA GOLD
+http://89.38.8.131:39508
+#EXTINF:-1,ACASA HD
+http://89.38.8.131:39534
+#EXTINF:-1,AUTO MOTOR SPORT
+http://89.38.8.131:39554
+#EXTINF:-1,DIGI SPORT 2
+http://89.38.8.131:39559
+
+
+#EXTINF:-1,TV3 (TV3play)
+https://tv3live.data.lt/tv3live/smil:live.smil/playlist.m3u8
+
+#EXTINF:0,BET:BlackEntTv
+http://185.53.163.72:9981/stream/channelid/1399250354?ticket=B2A4A1D128978A241B68BD0B30DB2C59FE6AD1AD&profile=pass
+#EXTINF:0,BT Sport 3
+http://185.53.163.72:9981/stream/channelid/2145400834?ticket=4B82193E90ED8E0E931661929EAA04F4475F4EE1&profile=pass
+#EXTINF:0,CNN
+http://185.53.163.72:9981/stream/channelid/1934261127?ticket=B4667C2FD5B568CFE194244AB94085E4FFA7D8B8&profile=pass
+#EXTINF:0,DM Plus TV
+http://185.53.163.72:9981/stream/channelid/349246371?ticket=9B09D2AEA6FBE07B559ACB6B3F19187B743741B1&profile=pass
+#EXTINF:0,Euronews
+http://185.53.163.72:9981/stream/channelid/988932467?ticket=A84418A821F17150D395D5232776C12348B374A1&profile=pass
+#EXTINF:0,GEO TEZ
+http://185.53.163.72:9981/stream/channelid/350617984?ticket=F218E971B6E05E15AE3981C20B3CFD6903B61DD0&profile=pass
+#EXTINF:0,Gospel Channel
+http://185.53.163.72:9981/stream/channelid/1088330742?ticket=30B9C41F8BCB2438A8E3BD529A804D8455F268C8&profile=pass
+
+
+
+#EXTINF:-1,Food Network
+http://37.20.253.11:1234/udp/233.7.70.73:5000
+#EXTINF:-1,ZOO PARK
+http://37.20.253.11:1234/udp/233.7.70.74:5000
+#EXTINF:-1,Discovery Channel
+http://37.20.253.11:1234/udp/233.7.70.75:5000
+#EXTINF:-1,EUROSPORT-2
+http://37.20.253.11:1234/udp/233.7.70.77:5000
+#EXTINF:-1,EUROSPORT-1
+http://37.20.253.11:1234/udp/233.7.70.76:5000
+#EXTINF:-1,TV1000 Action
+http://37.20.253.11:1234/udp/233.7.70.79:5000
+#EXTINF:-1,VIASAT SPORT
+http://37.20.253.11:1234/udp/233.7.70.78:5000
+#EXTINF:-1,VIASAT Explore
+http://37.20.253.11:1234/udp/233.7.70.80:5000
+
+
+
+
+
+
+
 #EXTINF:-1 group-title=TAIWAN  CHANNELS 2,tvg-logo=http://www.cineymas.com.ar/wp-content/uploads/2015/03/TNT-Series-Logo-660x460.jpg",s news
 http://kb1.ottclub.info:443/water/c736.stream/playlist.m3u8
 #EXTINF: -1,CTV News
 http://kb1.ottclub.info:443/kitty/c656.stream/playlist.M3u8
-
 #EXTINF: -1,Sanli News
 http://kb1.ottclub.info:443/water/c661.stream/playlist.m3u8
 #EXTINF: -1,transit news
