@@ -1950,25 +1950,275 @@ http://58ad68d0b6c8d.streamlock.net/ios/cnnnews/playlist.m3u8
 
 #EXTINF: -1,BOOMERANG
 http://50.7.69.42:8899/GB/UK/BOOMERANG/index.m3u8
+#EXTINF: -1,VH1 
+http://50.7.69.42:8899/GB/UK/VH1/index.m3u8 
+#EXTINF: -1,QUEST 
+http://50.7.69.42:8899/GB/UK/QUEST/index.m3u8 
+#EXTINF: -1,HISTORY 
+http://50.7.69.42:8899/GB/UK/HISTORY/index.m3u8 
+#EXTINF: -1,DMAX 
+http://50.7.69.42:8899/GB/UK/DMAX/index.m3u8 
+#EXTINF: -1,BOXNATION 
+http://50.7.69.42:8899/GB/UK/BOXNATION/index.m3u8 
+#EXTINF: -1,GOLD 
+http://50.7.69.42:8899/GB/UK/GOLD/index.m3u8 
+#EXTINF: -1,DRAMA 
+http://50.7.69.42:8899/GB/UK/DRAMA/index.m3u8
 
 
 
-#EXTINF: -1,as HD 
-http://kb1.ottclub.info:443/water/c739.stream/playlist.m3u8
-#EXTINF: -1,as HD 2
-http://kb1.ottclub.info:443/water/c671.Stream/playlist.m3u8
-#EXTINF: -1,as the HD
-http://kb1.ottclub.info:443/water/c672.stream/playlist.m3u8
-#EXTINF: -1,people as
-http://kb1.ottclub.info:443/water/c692.stream /playlist.m3u8
-#EXTINF: -1,one news
-http://kb1.ottclub.info:443/water/c732.stream/playlist.m3u8
-#EXTINF: -1,people as the news
-http://kb1.ottclub.info:443/water/c687.stream/ playlist.m3u8
-#EXTINF: -1,s news
+#EXTINF:0,MTV Rocks 
+http://37.46.192.226:9000/play/a002/index.m3u8 
+#EXTINF:0,MTV Hits 
+http://37.46.192.226:9000/play/a003/index.m3u8 
+#EXTINF:0,MTV Classic 
+http://37.46.192.226:9000/play/a005/index.m3u8 
+#EXTINF:0,MTV One 
+http://37.46.192.226:9000/play/a008/index.m3u8 
+#EXTINF:0,MTV Music 
+http://37.46.192.226:9000/play/a006/index.m3u8 
+#EXTINF:0,MTV Base 
+http://37.46.192.226:9000/play/a004/index.m3u8 
+#EXTINF:0,MTV Dance 
+http://37.46.192.226:9000/play/a007/index.m3u8
+#EXTINF:-1,Studio Universal – Premium 
+http://37.46.192.238:10000/play/a00s/index.m3u8 
+#EXTINF:-1,Premium Joi +24 
+http://37.46.192.238:10000/play/a00v/index.m3u8 
+#EXTINF:-1,Premium Energy HD 
+http://37.46.192.238:10000/play/a00e/index.m3u8 
+#EXTINF:-1,Premium Emotion 
+http://37.46.192.238:10000/play/a00w/index.m3u8 
+#EXTINF:-1,Premium Cinema HD 
+http://37.46.192.238:10000/play/a00c/index.m3u8 
+#EXTINF:-1,Premium Cinema +24 
+http://37.46.192.238:10000/play/a00t/index.m3u8 
+#EXTINF:-1,Premium Stories 
+http://37.46.192.238:10000/play/a00r/index.m3u8 
+#EXTINF:-1,Premium Sport HD 
+http://37.46.192.238:10000/play/a007/index.m3u8 
+#EXTINF:-1,Italia1 HD 
+http://37.46.192.238:10000/play/a00k/index.m3u8 
+#EXTINF:-1,Eurosport 1 
+http://37.46.192.238:10000/play/a004/index.m3u8 
+#EXTINF:-1,Premium Action HD 
+http://37.46.192.238:10000/play/a00m/index.m3u8 
+#EXTINF:-1,Premium Cinema 2 HD 
+http://37.46.192.238:10000/play/a00d/index.m3u8 
+#EXTINF:-1,Sportitalia 
+http://37.46.192.238:10000/play/a00f/index.m3u8 
+#EXTINF:-1,Premium Energy +24 
+http://37.46.192.238:10000/play/a00x/index.m3u8 
+#EXTINF:-1,Investigation Discovery – Premium 
+http://37.46.192.238:10000/play/a00y/index.m3u8 
+#EXTINF:-1,Canale5 HD 
+http://37.46.192.238:10000/play/a00j/index.m3u8 
+#EXTINF:-1,Premium Comedy 
+http://37.46.192.238:10000/play/a008/index.m3u8 
+#EXTINF:-1,Eurosport 2 
+http://37.46.192.238:10000/play/a005/index.m3u8 
+#EXTINF:-1,Premium Joi 
+http://37.46.192.238:10000/play/a00q/index.m3u8 
+#EXTINF:-1,Premium Sport 2 HD 
+http://37.46.192.238:10000/play/a006/index.m3u8 
+#EXTINF:-1,PADRE PIO TV 
+http://37.46.192.238:10000/play/a00g/index.m3u8
+
+
+
+
+#EXTINF:-1,SK 1 HD 
+http://84.41.109.241:5050/play/a00b 
+#EXTINF:-1,SK 2 HD 
+http://84.41.109.241:5050/play/a00c 
+#EXTINF:-1,SK 3 HD 
+http://84.41.109.241:5050/play/a00d 
+#EXTINF:-1,FOX Life HD 
+http://84.41.109.241:5051/play/a01n 
+#EXTINF:-1,FOX Crime HD 
+http://84.41.109.241:5051/play/a01o 
+#EXTINF:-1,B92 
+http://84.41.109.241:5051/play/a01d 
+#EXTINF:-1,MTV igman 
+http://84.41.109.241:5051/play/a00j 
+#EXTINF:-1,Cinestar Fantasy 
+http://84.41.109.241:5051/play/a01b 
+#EXTINF:-1,Prva TV 
+http://84.41.109.241:5051/play/a01c 
+#EXTINF:-1,Nasa TV 
+http://84.41.109.241:5051/play/a00v 
+#EXTINF:-1,HIT TV 
+http://84.41.109.241:5051/play/a00w 
+#EXTINF:-1,OBN 
+http://84.41.109.241:5051/play/a01r 
+#EXTINF:-1,RTV BIR 
+http://84.41.109.241:5051/play/a00k 
+#EXTINF:-1,Hayat HD 
+http://84.41.109.241:5051/play/a01j
+
+
+
+
+
+#EXTINF:-1,NEWS 24 
+http://128.0.104.23:8001/play/a00a 
+#EXTINF:-1,112 UkraineHD 
+http://128.0.104.23:8001/play/a015 
+#EXTINF:-1,Donbass 
+http://128.0.104.23:8001/play/a028 
+#EXTINF:-1,MAXXI TV 
+http://128.0.104.23:8001/play/a01l 
+#EXTINF:-1,KRT 
+http://128.0.104.23:8001/play/a01h 
+#EXTINF:-1,M1 
+http://128.0.104.23:8001/play/a005 
+#EXTINF:-1,Televsesvit 
+http://128.0.104.23:8001/play/a02p 
+#EXTINF:-1,Fauna MPEG4 
+http://128.0.104.23:8001/play/a00v 
+#EXTINF:-1,34 
+http://128.0.104.23:8001/play/a02a 
+#EXTINF:-1,Bigudi 
+http://128.0.104.23:8001/play/a00l 
+#EXTINF:-1,K2 
+http://128.0.104.23:8001/play/a01s 
+#EXTINF:-1,BOLT 
+http://128.0.104.23:8001/play/a024 
+#EXTINF:-1,NTN 
+http://128.0.104.23:8001/play/a013 
+#EXTINF:-1,NOVY CHANNEL 
+http://128.0.104.23:8001/play/a007 
+#EXTINF:-1,EPOQUE 
+http://128.0.104.23:8001/play/a00s 
+#EXTINF:-1,Trofey 
+http://128.0.104.23:8001/play/a00q 
+#EXTINF:-1,Plus Plus 
+http://128.0.104.23:8001/play/a00k 
+#EXTINF:-1,KIEV STB 
+http://128.0.104.23:8001/play/a004 
+#EXTINF:-1,PIXEL 
+http://128.0.104.23:8001/play/a01u 
+#EXTINF:-1,GALYCHYNA 
+http://128.0.104.23:8001/play/a02q 
+#EXTINF:-1,1ZAHID 
+http://128.0.104.23:8001/play/a02k 
+#EXTINF:-1,Inter 
+http://128.0.104.23:8001/play/a012 
+#EXTINF:-1,EUROSPORT 1 HD 
+http://128.0.104.23:8001/play/a01x 
+#EXTINF:-1,Vozrogdenie TV 
+http://128.0.104.23:8001/play/a02l 
+#EXTINF:-1,Euronews 
+http://128.0.104.23:8001/play/a010 
+#EXTINF:-1,MALYATKO TV 
+http://128.0.104.23:8001/play/a02o 
+#EXTINF:-1,M2 
+http://128.0.104.23:8001/play/a009 
+#EXTINF:-1,UKRAINA-SD 
+http://128.0.104.23:8001/play/a026 
+#EXTINF:-1,NADIYA 
+http://128.0.104.23:8001/play/a01d 
+#EXTINF:-1,TET 
+http://128.0.104.23:8001/play/a00i 
+#EXTINF:-1,BOUTIQUE TV 
+http://128.0.104.23:8001/play/a02m 
+#EXTINF:-1,EUROSPORT 2 HD 
+http://128.0.104.23:8001/play/a01a 
+#EXTINF:-1,O-TV 
+http://128.0.104.23:8001/play/a00o 
+#EXTINF:-1,VINTAGE TV Test 
+http://128.0.104.23:8001/play/a01i 
+#EXTINF:-1,1+1 
+http://128.0.104.23:8001/play/a00h 
+#EXTINF:-1,Unian TV 
+http://128.0.104.23:8001/play/a00m 
+#EXTINF:-1,KDR TRK 
+http://128.0.104.23:8001/play/a014 
+#EXTINF:-1,Tonis HD 
+http://128.0.104.23:8001/play/a011 
+#EXTINF:-1,UA 
+http://128.0.104.23:8001/play/a00e 
+#EXTINF:-1,Channel 5 (Ukraine) 
+http://128.0.104.23:8001/play/a01f 
+#EXTINF:-1,SONCE (UA) 
+http://128.0.104.23:8001/play/a01e 
+#EXTINF:-1,FOOTBALL 2 
+http://128.0.104.23:8001/play/a02t 
+#EXTINF:-1,Horizont TEST 
+http://128.0.104.23:8001/play/a01p 
+#EXTINF:-1,UA KRYM 
+http://128.0.104.23:8001/play/a00f 
+#EXTINF:-1,2+2 
+http://128.0.104.23:8001/play/a00j 
+#EXTINF:-1,RTi 
+http://128.0.104.23:8001/play/a01g 
+#EXTINF:-1,ZOOM 
+http://128.0.104.23:8001/play/a01t 
+#EXTINF:-1,Enter Film 
+http://128.0.104.23:8001/play/a01v 
+#EXTINF:-1,Eco TV 
+http://128.0.104.23:8001/play/a00b 
+#EXTINF:-1,MEGA 
+http://128.0.104.23:8001/play/a01q 
+#EXTINF:-1,DACHA 
+http://128.0.104.23:8001/play/a00r 
+#EXTINF:-1,K1 
+http://128.0.104.23:8001/play/a01r 
+#EXTINF:-1,Black Sea TV 
+http://128.0.104.23:8001/play/a01o 
+#EXTINF:-1,ICTV 
+http://128.0.104.23:8001/play/a008 
+#EXTINF:-1,XSPORT 
+http://128.0.104.23:8001/play/a02b 
+#EXTINF:-1,NLO TV 
+http://128.0.104.23:8001/play/a02c 
+#EXTINF:-1,TV 1000 Premium HD 
+http://128.0.104.23:8001/play/a019 
+#EXTINF:-1,TV 1000 Comedy HD 
+http://128.0.104.23:8001/play/a017 
+#EXTINF:-1,Pro BCE 
+http://128.0.104.23:8001/play/a01k 
+#EXTINF:-1,Terra 
+http://128.0.104.23:8001/play/a00t 
+#EXTINF:-1,MILADY TELEVISION 
+http://128.0.104.23:8001/play/a006 
+#EXTINF:-1,QTV 
+http://128.0.104.23:8001/play/a00d 
+#EXTINF:-1,Pravda tut HD 
+http://128.0.104.23:8001/play/a00x 
+#EXTINF:-1,Tysa 1 
+http://128.0.104.23:8001/play/a00z 
+#EXTINF:-1,Music Box 
+http://128.0.104.23:8001/play/a00n 
+#EXTINF:-1,NewsNetwork 
+http://128.0.104.23:8001/play/a01c 
+#EXTINF:-1,Amedia Premium HD 
+http://128.0.104.23:8001/play/a01y 
+#EXTINF:-1,4P_INFO 
+http://128.0.104.23:8001/play/a02n 
+#EXTINF:-1,Indigo 
+http://128.0.104.23:8001/play/a02d 
+#EXTINF:-1,ATR 
+http://128.0.104.23:8001/play/a01j 
+#EXTINF:-1,TV 1000 Megahit HD 
+http://128.0.104.23:8001/play/a018 
+#EXTINF:-1,Nauka 
+http://128.0.104.23:8001/play/a00u 
+#EXTINF:-1,INTER + 
+http://128.0.104.23:8001/play/a01m 
+#EXTINF:-1,FILMUADRAMA 
+http://128.0.104.23:8001/play/a00w
+
+
+
+
+
+
+#EXTINF:-1 group-title=TAIWAN  CHANNELS 2,tvg-logo=http://www.cineymas.com.ar/wp-content/uploads/2015/03/TNT-Series-Logo-660x460.jpg",s news
 http://kb1.ottclub.info:443/water/c736.stream/playlist.m3u8
 #EXTINF: -1,CTV News
 http://kb1.ottclub.info:443/kitty/c656.stream/playlist.M3u8
+
 #EXTINF: -1,Sanli News
 http://kb1.ottclub.info:443/water/c661.stream/playlist.m3u8
 #EXTINF: -1,transit news
@@ -1979,8 +2229,6 @@ http://kb1.ottclub.info:443/water/c691.stream/playlist.m3u8
 http://kb1.ottclub.info:443/water/c733.stream/playlist.m3u8
 #EXTINF: -1,TVBS news
 http://kb1.ottclub.info:443/water/c662.stream/playlist.m3u8
-#EXTINF: -1,extraordinary news
-http://kb1.ottclub.info:443/Water/c712.stream/playlist.m3u8
 #EXTINF: -1,transit news HD
 http://kb1.ottclub.info:443/water/c669.stream/playlist.m3u8
 #EXTINF: -1,BBC
@@ -1989,10 +2237,10 @@ http://kb1.ottclub.info:443/kitty/c677.stream/playlist.m3u8
 http://kb1.ottclub.info:443/kitty/c675.stream/playlist.m3u8
 #EXTINF: -1,in the view
 http://kb1.ottclub.info:443/kitty/c701.stream/playlist.m3u8
+
 #EXTINF: -1,CI crime scene
 http://kb1.otTCLub.info:443/kitty/c558.stream/playlist.m3u8
-#EXTINF: -1,day HD
-Http://kb1.ottclub.info:443/water/c560.stream/playlist.m3u8
+
 #EXTINF: -1,CATCHPLAY movie
 http://kb1.ottclub.info:443/kitty/c655.stream/playlist.m3u8
 #EXTINF: -1,TVBS happy HD
@@ -2001,7 +2249,7 @@ http://kb1.ottclub.info:443/water/c660.stream/playlist.m3u8
 http://kb1.ottclub.info:443/kitty/c719.stream/playlist.m3u8
 #EXTINF: -1,transit integrated HD
 http://kb1.ottclub.info:443/water/c720.stream/playlist.m3u8
-#EXTINF: -1,BBC life
+#EXTINF: -1,BBd
 http://kb1.ottclub.info:443/kitty/c721.stream/playlist.m3u8
 #EXTINF: -1,Weft Sports HD
 http://kb1.ottclub.info:443/water/c663.stream/playlist.m3u8
@@ -2054,7 +2302,7 @@ http://kb1.ottclub.info:443/water/c713.stream/playlist.m3u8
 #EXTINF: -1,eight plays
 http://kb1.ottclub.info:443/water/c715.stream/playlist.m3u8
 #EXTINF: -1,syfy horror
-http://kb1.ottclub.info: 443 / kitty / c716.stream / playlist.m3u8
+http://kb1.ottclub.info:443/kitty/c716.stream/playlist.m3u8
 #EXTINF: -1,Korea tvN entertainment
 http://kb1.ottclub.info:443/kitty/c717.Stream/playlist.m3u8
 #EXTINF: -1,Korean entertainment
@@ -2065,16 +2313,26 @@ http://kb1.ottclub.info:443/kitty/c722.stream /playlist.m3u8
 http://kb1.ottclub.info:443/kitty/c723.stream/playlist.m3u8
 #EXTINF: -1,Babytv
 http://kb1.ottclub.info:443/kitty/c724.stream/playlist.M3U8
-the JET comprehensive, http://kb1.ottclub.info:443/water/c725.stream/playlist.m3u8
-MUCH years, http://kb1.ottclub.info:443/kitty/c726.stream/playlist.m3u8
-in sky Entertainment, http://kb1.ottclub.info:443/water/c728.stream/playlist.m3u8
-Japan Z channel, http://kb1.ottclub.info:443/kitty/c729.stream/playlist.m3u8
-the FOX Entertainment HD, http://kb1.ottclub.info:443/water/c731.stream/playlist.
-M3u8 Eastwood film, http://kb1.ottclub.info:443/water/c734.stream/playlist.m3u8
-weft synthesis , http://kb1.ottclub.info:443/kitty/c735.stream/playlist. M3u8
-Eastern integrated , http://kb1.ottclub.info:443/kitty/c737.stream/playlist.m3u8
-one synthesis , http://kb1.ottclub.info:443/kitty/c738.stream/playlist.m3u8
-Korea tvN entertainment , http://kb1.ottclub.info:443/kitty/c740.stream/playlist.m3u8
+#EXTINF: -1,the JET comprehensive
+http://kb1.ottclub.info:443/water/c725.stream/playlist.m3u8
+#EXTINF: -1,MUCH years
+http://kb1.ottclub.info:443/kitty/c726.stream/playlist.m3u8
+#EXTINF: -1,in sky Entertainment
+http://kb1.ottclub.info:443/water/c728.stream/playlist.m3u8
+#EXTINF: -1,Japan Z channel
+http://kb1.ottclub.info:443/kitty/c729.stream/playlist.m3u8
+#EXTINF: -1,the FOX Entertainment HD
+http://kb1.ottclub.info:443/water/c731.stream/playlist.M3u8
+#EXTINF: -1,Eastwood film
+http://kb1.ottclub.info:443/water/c734.stream/playlist.m3u8
+#EXTINF: -1,weft synthesis 
+http://kb1.ottclub.info:443/kitty/c735.stream/playlist.M3u8
+#EXTINF: -1,Eastern integrated
+http://kb1.ottclub.info:443/kitty/c737.stream/playlist.m3u8
+#EXTINF: -1,one synthesis
+http://kb1.ottclub.info:443/kitty/c738.stream/playlist.m3u8
+#EXTINF: -1,Korea tvN entertainment
+http://kb1.ottclub.info:443/kitty/c740.stream/playlist.m3u8
 #EXTINF: -1,MTV music HD
 http://kb1.ottclub.info:443/kitty/c741.stream/playlist.m3u8
 #EXTINF: -1,Star Health
