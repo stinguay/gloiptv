@@ -28,6 +28,9 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/1280px-Cnn.svg.png", CNN
 http://selevision9883-i.akamaihd.net/hls/live/219254/98838/1.m3u8
 
+#EXTINF:-1,CGTN
+http://183.251.61.207/PLTV/88888888/224/3221225822/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cpac.ca/wp-content/themes/cpac/_resources/_images/structure/642x220_cpac_main_logo.png",CPAC
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 
@@ -227,34 +230,7 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 http://85.132.59.163:8080/play/a00y
 
 
-#EXTINF:-1, WWE
-http://149.202.207.8:8080/kuLlieenuBEerr0Nedublewoo3/Strm/index.m3u8
-#EXTINF:-1,ARENA SPORT 1
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8
-#EXTINF:-1,ARENA SPORT 2
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-2/Strm/index.m3u8
-#EXTINF:-1,ARENA SPORT 3
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-3/Strm/index.m3u8
-#EXTINF:-1,ARENA SPORT 4
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-4/Strm/index.m3u8
-#EXTINF:-1,ARENA SPORT 5
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-5/Strm/index.m3u8
-#EXTINF:-1,NL: FOX SPORT 1
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-1nl/Strm/index.m3u8
-#EXTINF:-1,NL: FOX SPORT 2
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-2nl/Strm/index.m3u8
-#EXTINF:-1,NL: FOX SPORT 3
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-3nl/Strm/index.m3u8
-#EXTINF:-1,NL: FOX SPORT 4
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-4nl/Strm/index.m3u8
-#EXTINF:-1,NL: FOX SPORT 5
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-5nl/Strm/index.m3u8
-#EXTINF:-1,NL: FOX SPORT 6
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-6nl/Strm/index.m3u8
-#EXTINF:-1,US:FOX SPORT 1
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp1/index.m3u8
-#EXTINF:-1,US:FOX SPORT 2
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp2/index.m3u8
+
 #EXTINF:-1,BEIN SPORT 1
 http://149.202.208.85:8080/mystreambhenssp-1/Strm/tracks-v1a1/index.m3u8
 #EXTINF:-1,BEIN SPORT 2
@@ -283,21 +259,29 @@ http://149.202.208.85:8080/mystreambhenssfn-1/Strm/tracks-v1a1/index.m3u8
 http://149.202.208.85:8080/mystreambhenssfn-2/Strm/tracks-v1a1/index.m3u8
 #EXTINF:-1,BEIN SPORT FRANCE 3
 http://149.202.208.85:8080/mystreambhenssfn-3/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1,ASTRO SUPERSPORT 1
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-1/index.m3u8
-#EXTINF:-1,ASTRO SUPERSPORT 2
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-2/index.m3u8
-#EXTINF:-1,ASTRO SUPERSPORT 3
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-3/index.m3u8
-#EXTINF:-1,ASTRO SUPERSPORT 4
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-4/index.m3u8
-#EXTINF:-1,BT SPORT 3
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBeeT3yy-U/Strm/index.m3u8
-#EXTINF:-1,Premier Sports
-http://149.202.207.8:8080/kuLlieenuBEerr0Nepeemrie/Strm/index.m3u8 
+
+#EXTINF:-1,BT Mosaic
+http://5.135.139.19:1935/server7/stream8.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 1
+http://5.135.139.19:1935/server7/stream10.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 2
+http://5.135.139.19:1935/server7/stream11.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 3
+http://5.135.139.19:1935/server7/stream12.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 4
+http://5.135.139.19:1935/server7/stream13.stream/playlist.m3u8?token=
 
 
-
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/skysports1.png",UK:SKY SPORT 1  
+http://199.21.149.125:8888/UK_SKY_SPORTS_1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/skysports2.png",UK:SKY SPORT 2  
+http://199.21.149.125:8888/UK_SKY_SPORTS_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/skysports3.png",UK:SKY SPORT 3  
+http://199.21.149.125:8888/UK_SKY_SPORTS_3/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/skysports4.png",UK:SKY SPORT 4  
+http://199.21.149.125:8888/UK_SKY_SPORTS_4/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/skysports5.png",UK:SKY SPORT 5  
+http://199.21.149.125:8888/UK_SKY_SPORTS_5/index.m3u8
 
 
 
@@ -319,11 +303,6 @@ http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXb
 #EXTINF:-1,TyC Sports
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s33-v1-a1.m3u8
 
-#EXTINF:-1,Premium Sport HD
-http://37.46.192.238:10000/play/a007/index.m3u8
-
-#EXTINF:-1,Premium Sport 2 HD
-http://37.46.192.238:10000/play/a006/index.m3u8
 
 
 
@@ -396,25 +375,47 @@ http://61.222.191.25/live/ch12/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/ff/fox_sports_2_africa.png",FOX SPORTS 2
-http://61.222.191.241/live/ch05/playlist.m3u8
+http://kb1.ottclub.info:443/kitty/c665.stream/playlist.m3u8
 
-#EXTINF:-1,CCTV5
-http://223.255.29.9/zhcs/live/cstv24_800k/live.m3u8
+#EXTINF:-1,FOX SPORTS3
+http://kb1.ottclub.info:443/water/c730.stream/playlist.m3u8
 
-#EXTINF:-1,CCTV5+
-http://60.220.196.154/livehls1-cnc.wasu.cn/hd_cctv5jia/z.m3u8
 
 #EXTINF:-1,CCTV-Football
 http://60.220.196.154/livehls1-cnc.wasu.cn/fyzq/z.m3u8
 
 #EXTINF:-1, HK Sports201HD
-http://61.10.2.137/live_conmobile/_definst_/4-2a021def-1479807195-1479807495-9e6dabffed40667db0f20c19ecf45106-8d412fe0f261630_67a-03/hd201_h.live/chunklist_w386011701.m3u8?uid=8169adc297a66a924239d20609ba947f
-
+http://120.52.73.7/61.10.2.137/live_conmobile/_definst_/4-2a021def-1479807195-1479807495-9e6dabffed40667db0f20c19ecf45106-8d412fe0f261630_67a-03/hd201_h.live/chunklist_w386011701.m3u8?uid=8169adc297a66a924239d20609ba947f
 #EXTINF:1,HK Sports202HD
-http://61.10.2.137/live_conmobile/_definst_/4-2a021def-1479808836-1479809136-9ba719f8a20a5c2db06f427f3d4544ce-8d41301e1a4911a_5ec-03/hd202_h.live/chunklist_w303611369.m3u8?uid=8169adc297a66a924239d20609ba947fHKChd203
+http://120.52.73.7/61.10.2.137/live_conmobile/_definst_/4-2a021def-1479808836-1479809136-9ba719f8a20a5c2db06f427f3d4544ce-8d41301e1a4911a_5ec-03/hd202_h.live/chunklist_w303611369.m3u8?uid=8169adc297a66a924239d20609ba947f
+#EXTINF:1,HK Sports203HD
+http://120.52.73.7/61.10.2.137/live_conmobile/_definst_/4-2a021def-1479809025-1479809325-968fed7f8a09180c0d54059d8afd8438-8d41302526d0e86_80c-03/hd203_h.live/chunklist_w13875024.m3u8?uid=8169adc297a66a924239d20609ba947f
+#EXTINF:-1,CCTV-5+HD
+http://183.251.61.207/PLTV/88888888/224/3221225821/index.m3u8
+#EXTINF:-1,CCTV-5HD
+http://183.251.61.207/PLTV/88888888/224/3221225803/index.m3u8
 
-#EXTINF:1,Illustrated Sports
-http://61.10.2.137/live_conmobile/_definst_/4-2a021def-1479809840-1479810140-6a3b7e91b7abb4071fdb786392aab011-8d41304380e0a66_766-03/ch164_h.live/chunklist_w2024052072.m3u8?uid=8169adc297a66a924239d20609ba947f
+#EXTINF:-1,CCTV5
+http://chinanet.live.bestvcdn.com.cn/live/program/Dbst.mobile.live.bestvcdn.com.cnD/_MH_keyM_H_/live/cctv5/1300000/mnf.m3u8
+
+#EXTINF:-1,5Star Sports HD
+http://183.251.61.207/PLTV/88888888/224/3221225914/index.m3u8
+#EXTINF:-1,5Star Sports
+http://chinanet.live.bestvcdn.com.cn/live/program/Dbst.mobile.live.bestvcdn.com.cnD/_MH_keyM_H_/live/ssty/2300000/mnf.m3u8
+#EXTINF:-1,BesTV NBA-1
+http://183.251.61.207/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1,NewTV Sports HD
+http://183.207.249.7/PLTV/3/224/3221225543/index.m3u8
+
+
+#EXTINF:-1,纬来体育
+http://kb1.ottclub.info:443/water/c663.stream/playlist.m3u8
+
+#EXTINF:-1,纬来日本
+http://kb1.ottclub.info:443/water/c664.stream/playlist.m3u8
+#EXTINF:-1,ELTA HD
+http://kb1.ottclub.info:443/kitty/c717.stream/playlist.m3u8
+
 
 #EXTINF:-1,letv Sports
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sports_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -506,30 +507,6 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzjj_1300&tag=live&ext=m3u8&si
 
 #EXTINF:-1 group-title=MOVIE CHANNELS,tvg-logo="http://gulf-up.com/do.php?img=271408",STAR Movies HD
 http://9898.akamai.live.selevision.com/live/9898/98988/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271415",OSN Movies Drama HD
-http://9899.akamai.live.selevision.com/live/9899/98991/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271409",OSN Movies Drama +2 HD
-http://9889.akamai.live.selevision.com/live/9889/98895/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271410",OSN Movies Action
-http://9896.akamai.live.selevision.com/live/9896/98961/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271414",OSN Movies 2 HD
-http://9893.akamai.live.selevision.com/live/9893/98932/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271416",OSN Movies Comedy
-http://9896.akamai.live.selevision.com/live/9896/98962/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271417",OSN Movies Premiere
-http://9896.akamai.live.selevision.com/live/9896/98960/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/500x300/OMK.jpg",OSN Movies Kids HD
-http://9895.akamai.live.selevision.com/live/9895/98959/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271427",OSN Yahala Cinema
-http://9894.akamai.live.selevision.com/live/9894/98941/master.m3u8
 
 #EXTINF:-1,Glo Cinemax 1
 http://dlhls.cdn.zhanqi.tv/zqlive/75885_IvfFq.m3u8
@@ -634,44 +611,7 @@ http://176.106.66.156:8086/udp/239.71.92.46:1234
 #EXTINF:-1,MTV CHINA
 http://222.191.24.43:6610/004/2/ch00000090990000001154/index.m3u8?ispcode=3
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0U3LPSQ.png",ROCK TV GR
-http://web.onair-radio.eu:1935/rocktv/rocktv/playlist.m3u8
-#EXTINF:0,VH1 Classic
-http://37.192.100.141:81/udp/239.1.8.7:1234
-#EXTINF:-1, VH1 Classic 
-http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8 
-#EXTINF:-1,MTV Rocks 
-http://37.46.192.226:9000/play/a002/index.m3u8 
-#EXTINF:-1,MTV Hits 
-http://37.46.192.226:9000/play/a003/index.m3u8 
-#EXTINF:-1,MTV Classic 
-http://37.46.192.226:9000/play/a005/index.m3u8 
-#EXTINF:-1,MTV One 
-http://37.46.192.226:9000/play/a008/index.m3u8 
-#EXTINF:-1,MTV Music 
-http://37.46.192.226:9000/play/a006/index.m3u8 
-#EXTINF:-1,MTV Base 
-http://37.46.192.226:9000/play/a004/index.m3u8 
-#EXTINF:-1,MTV Dance 
-http://37.46.192.226:9000/play/a007/index.m3u8
-#EXTINF:-1,MTV 
-http://95.213.150.98:8889/MTV 
-#EXTINF:-1,MTV Dance 
-http://95.213.150.98:8889/MTVDance 
-#EXTINF:-1,MTV Hits 
-http://95.213.150.98:8889/MTVHits 
-#EXTINF:-1,MTV Rocks 
-http://95.213.150.98:8889/MTVRocks 
-#EXTINF:-1,MCM Top 
-http://95.213.150.98:8889/MCMTop
-#EXTINF:0,MTV Live HD
-http://0E9B00ECD326CCAC:@t.kraslan.ru/mtvlivehd?krasview.ru
-#EXTINF:0,MTV Live HD
-http://176.106.66.156:8086/udp/239.71.92.144:1234
-#EXTINF:-1,MTV Music
-http://tinyurl.com/hb678sq
-#EXTINF:0,MTV Dance
-http://176.106.66.156:8086/udp/239.71.92.46:1234
+
 
 #EXTINF:-1,Radionorba Tv
 http://85.17.80.132:80/radionorbatv/norbatv_source.stream/playlist.m3u8
@@ -734,9 +674,6 @@ http://www.djing.com/tv/i-05.m3u8
 http://cdn.djing.com/tv/d-05.m3u8
 #EXTINF:0,Djing Underground HD
 http://cdn.djing.com/tv/u-05.m3u8
-
-#EXTINF:0,TraceUrban
-http://163.172.30.64:8789/live/admin/12345678/1099.m3u8
 
 
 #EXTINF:-1 group-title=RELIGIOUS  CHANNELS,tvg-logo="http://www.tv14.net/wp-content/uploads/2010/01/CBN-News.jpg",CBN
@@ -992,107 +929,6 @@ http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_masr&t=ar
 
 
 
-#EXTINF:-1 group-title=OSN CHANNELS, tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_sports_cricket_hd.png",OSN Sports CRICKET HD
-http://9893.akamai.live.selevision.com/live/9893/98934/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_sports1_hd.png",OSN Sports 1 HD
-http://9896.akamai.live.selevision.com/live/9896/98965/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_sports2_hd.png",OSN Sports 2 HD
-http://9896.akamai.live.selevision.com/live/9896/98966/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_sports3_hd.png",OSN Sports 3 HD
-http://9896.akamai.live.selevision.com/live/9896/98975/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_sports4_hd.png",OSN Sports 4 HD
-http://9896.akamai.live.selevision.com/live/9896/98968/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www2.0zz0.com/2015/03/12/17/751657785.jpg:,OSN: WWE Network HD
-http://9893.akamai.live.selevision.com/live/9893/98933/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/osn_movies_family_hd.png",OSN Movies Family HD
-http://9894.akamai.live.selevision.com/live/9894/98943/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271431",OSN Discovery HD
-http://9890.akamai.live.selevision.com/live/9890/98903/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271422",OSN Nat Geographic WILD
-http://9894.akamai.live.selevision.com/live/9894/98944/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271432",OSN Discovery Science
-http://9890.akamai.live.selevision.com/live/9890/98905/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271430",OSN Nat Geographic People
-http://9891.akamai.live.selevision.com/live/9891/98915/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271433",OSN Discovery ID X
-http://9895.akamai.live.selevision.com/live/9895/98951/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271434",OSN Discovery Family
-http://9890.akamai.live.selevision.com/live/9890/98902/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271421",OSN Animal Planet
-http://9887.akamai.live.selevision.com/live/9887/98879/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271423",OSN History
-http://9892.akamai.live.selevision.com/live/9892/98925/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271424",OSN History 2
-http://9883.akamai.live.selevision.com/live/9883/98833/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271429",OSN TLC
-http://9899.akamai.live.selevision.com/live/9899/98995/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/oo/outdoor_channel.png",OSN Outdoor HD
-http://9893.akamai.live.selevision.com/live/9893/98930/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271428",OSN Travel Channel
-http://9899.akamai.live.selevision.com/live/9899/98998/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271418",OSN Sundance
-http://9899.akamai.live.selevision.com/live/9899/98990/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271408",STAR Movies HD
-http://9898.akamai.live.selevision.com/live/9898/98988/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271415",OSN Movies Drama HD
-http://9899.akamai.live.selevision.com/live/9899/98991/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271409",OSN Movies Drama +2 HD
-http://9889.akamai.live.selevision.com/live/9889/98895/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271410",OSN Movies Action
-http://9896.akamai.live.selevision.com/live/9896/98961/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271414",OSN Movies 2 HD
-http://9893.akamai.live.selevision.com/live/9893/98932/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271416",OSN Movies Comedy
-http://9896.akamai.live.selevision.com/live/9896/98962/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271417",OSN Movies Premiere
-http://9896.akamai.live.selevision.com/live/9896/98960/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/500x300/OMK.jpg",OSN Movies Kids HD
-http://9895.akamai.live.selevision.com/live/9895/98959/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271427",OSN Yahala Cinema
-http://9894.akamai.live.selevision.com/live/9894/98941/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271425",OSN Yahala Drama
-http://9896.akamai.live.selevision.com/live/9896/98969/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271425",OSN Yahala Aloula
-http://9897.akamai.live.selevision.com/live/9897/98970/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271620",Alfa Musalsalat HD
-http://selevision9886-i.akamaihd.net/hls/live/219285/98869/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1162_1.png",Alfa Alyawm
-http://selevision9887-i.akamaihd.net/hls/live/219286/98870/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271619",Alfa Cinema 1
-http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
 
 
 
@@ -1641,22 +1477,56 @@ http://50.7.69.42:8899/GB/UK/DRAMA/index.m3u8
 http://50.7.69.42:8899/GB/UK/FOX_NEWS/index.m3u8
 
 
-#EXTINF:0,MTV Rocks 
-http://37.46.192.226:9000/play/a002/index.m3u8 
-#EXTINF:0,MTV Hits 
-http://37.46.192.226:9000/play/a003/index.m3u8 
-#EXTINF:0,MTV Classic 
-http://37.46.192.226:9000/play/a005/index.m3u8 
-#EXTINF:0,MTV One 
-http://37.46.192.226:9000/play/a008/index.m3u8 
-#EXTINF:0,MTV Music 
-http://37.46.192.226:9000/play/a006/index.m3u8 
-#EXTINF:0,MTV Base 
-http://37.46.192.226:9000/play/a004/index.m3u8 
-#EXTINF:0,MTV Dance 
-http://37.46.192.226:9000/play/a007/index.m3u8
+
+#EXTINF:-1,BT Mosaic
+http://5.135.139.19:1935/server7/stream8.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 1
+http://5.135.139.19:1935/server7/stream10.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 2
+http://5.135.139.19:1935/server7/stream11.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 3
+http://5.135.139.19:1935/server7/stream12.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 4
+http://5.135.139.19:1935/server7/stream13.stream/playlist.m3u8?token=
+#EXTINF:-1,N/A
+http://5.135.139.19:1935/server7/stream18.stream/playlist.m3u8?token=
+#EXTINF:-1,ITV
+http://5.135.139.19:1935/server7/stream19.stream/playlist.m3u8?token=
+#EXTINF:-1,N/A
+http://5.135.139.19:1935/server7/stream20.stream/playlist.m3u8?token=
+#EXTINF:-1,BBC Alba
+http://5.135.139.19:1935/server7/stream21.stream/playlist.m3u8?token=
+#EXTINF:-1,STV
+http://5.135.139.19:1935/server7/stream22.stream/playlist.m3u8?token=
+#EXTINF:-1,ITV Encore
+http://5.135.139.19:1935/server7/stream24.stream/playlist.m3u8?token=
+#EXTINF:-1,BBC 1 Wales
+http://5.135.139.19:1935/server7/stream29.stream/playlist.m3u8?token=
+#EXTINF:-1,N/A
+http://5.135.139.19:1935/server7/stream30.stream/playlist.m3u8?token=
+#EXTINF:-1,ITV
+http://5.135.139.19:1935/server7/stream31.stream/playlist.m3u8?token=
+#EXTINF:-1,Spike
+http://5.135.139.19:1935/server7/stream32.stream/playlist.m3u8?token=
+#EXTINF:-1,S4C
+http://5.135.139.19:1935/server7/stream33.stream/playlist.m3u8?token=
+#EXTINF:-1,BBC Parliament
+http://5.135.139.19:1935/server7/stream34.stream/playlist.m3u8?token=
+#EXTINF:-1,AMC
+http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
+#EXTINF:-1,C ITV
+http://5.135.139.19:1935/server7/stream36.stream/playlist.m3u8?token=
+#EXTINF:-1,BabyTV
+http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
 
 
+
+#EXTINF:-1,Brit Asia TV 
+http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8 
+#EXTINF:-1,Clubbing TV 
+http://46.249.213.87/iPhone/broadcast/clubbingtv-tablet.3gp.m3u8 
+#EXTINF:-1,Zing 
+http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp.m3u8
 
 
 
@@ -2018,14 +1888,9 @@ http://94.43.239.178:8080/CHANNEL846/BITRATE0/playlist.m3u8
 #EXTINF:-1 group-title=TESTING CHANNELS,tvg-logo=http://www.cineymas.com.ar/wp-content/uploads/2015/03/TNT-Series-Logo-660x460.jpg",CNN Headline
 http://58ad68d0b6c8d.streamlock.net/ios/cnninews/playlist.m3u8
 
-#EXTINF: -1,CNN international
-http://58ad68d0b6c8d.streamlock.net/ios/cnnnews/playlist.m3u8
-
 #EXTINF: -1,BBC News
 http://37.235.160.61:81/udp/225.50.66.21:1234?mp4
 
-#EXTINF:-1,HIPHOPTV
-http://stream.cdn.smcloud.net/hiphoptv-p/stream1/playlist.m3u8
 
 #EXTINF:-1,Zing
 http://46.249.213.87/iPhone/HLS_TS/mptslive/zing-mobile.3gp.m3u8
@@ -2158,6 +2023,64 @@ http://89.38.8.131:39559
 
 
 
+#EXTINF:-1,Action Max 
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/353.rtmp
+#EXTINF:-1,AMC HD
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/314.rtmp
+#EXTINF:-1,Animal Planet HD
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/262.rtmp
+#EXTINF:-1,Cartoon Network 
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/258.rtmp
+#EXTINF:-1,Cinemax
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/350.rtmp
+#EXTINF:-1,Cinemax Thrillermax
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/313.rtmp
+#EXTINF:-1,Comedy Central
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/257.rtmp
+#EXTINF:-1,Discovery Channel
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/255.rtmp
+#EXTINF:-1,Discovery Science 
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/206.rtmp
+#EXTINF:-1,Disney Channel
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/347.rtmp
+#EXTINF:-1,FOX HD
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/318.rtmp
+#EXTINF:-1,FX
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/324.rtmp
+#EXTINF:-1,FXX
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/323.rtmp
+#EXTINF:-1,History 2
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/309.rtmp
+#EXTINF:-1,History 1
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/251.rtmp
+#EXTINF:-1,Hunting and Fishing 
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/305.rtmp
+#EXTINF:-1,Nat Geo Wild
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/157.rtmp
+#EXTINF:-1,Nat Geo Channel
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/247.rtmp
+#EXTINF:-1,NickJr
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/333.rtmp
+#EXTINF:-1,Nick
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/334.rtmp
+#EXTINF:-1,Nickolodeon
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/265.rtmp
+#EXTINF:-1,Showtime
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/332.rtmp
+#EXTINF:-1,Showtime 2
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/331.rtmp
+#EXTINF:-1,Starz Cinema
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/328.rtmp
+#EXTINF:-1,Starz East 
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/329.rtmp
+#EXTINF:-1,Syfy
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/245.rtmp
+#EXTINF:-1,The Movie Network
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/121.rtmp
+#EXTINF:-1,Fox Sport 1
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/188.rtmp
+#EXTINF:-1,Fox Sport 2
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/187.rtmp
 
 
 
@@ -4563,7 +4486,7 @@ http://kb1.ottclub.info:443/kitty/c677.stream/playlist.m3u8
 http://kb1.ottclub.info:443/kitty/c719.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",公视
 http://kb1.ottclub.info:443/kitty/c656.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",Z频道
+#EXTINF:-1 group-title="longlong",JAPEN Z 
 http://kb1.ottclub.info:443/kitty/c729.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",民视
 http://kb1.ottclub.info:443/kitty/c723.stream/playlist.m3u8
@@ -4571,37 +4494,37 @@ http://kb1.ottclub.info:443/kitty/c723.stream/playlist.m3u8
 http://kb1.ottclub.info:443/kitty/c693.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",湾电视
 http://kb1.ottclub.info:443/kitty/c558.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",中视
+#EXTINF:-1 group-title="longlong",中视BRAVO菁采
 http://kb1.ottclub.info:443/kitty/c701.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",BRAVO菁采
+#EXTINF:-1 group-title="longlong",CTV中视
 http://kb1.ottclub.info:443/water/c739.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",大爱
 http://kb1.ottclub.info:443/water/c559.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",华视
 http://kb1.ottclub.info:443/kitty/c721.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",探索科学
+#EXTINF:-1 group-title="longlong",DISCOVERY SCIENCE
 http://kb1.ottclub.info:443/kitty/c747.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",DMAX
 http://kb1.ottclub.info:443/kitty/c700.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",EVE
 http://kb1.ottclub.info:443/kitty/c743.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",国家地理野生
+#EXTINF:-1 group-title="longlong",NAT GEO WILD
 http://kb1.ottclub.info:443/kitty/c707.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",国家地理频道
+#EXTINF:-1 group-title="longlong",NATIONAL GEOGRAPHIC
 http://kb1.ottclub.info:443/water/c706.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",Discovery
 http://kb1.ottclub.info:443/water/c744.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",TLC
 http://kb1.ottclub.info:443/water/c670.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",动物星球
+#EXTINF:-1 group-title="longlong",ANIMAL PLANET
 http://kb1.ottclub.info:443/water/c676.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",卡通频道
+#EXTINF:-1 group-title="longlong",CN
 http://kb1.ottclub.info:443/water/c678.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",迪士尼频道
+#EXTINF:-1 group-title="longlong",DISNEY CHANNEL
 http://kb1.ottclub.info:443/water/c698.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",MOMO亲子
 http://kb1.ottclub.info:443/kitty/c668.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",东森幼幼
+#EXTINF:-1 group-title="longlong",CBC YOYO
 http://kb1.ottclub.info:443/water/c727.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",纬来综合
 http://kb1.ottclub.info:443/kitty/c735.stream/playlist.m3u8
@@ -4615,11 +4538,11 @@ http://kb1.ottclub.info:443/water/c696.stream/playlist.m3u8
 http://kb1.ottclub.info:443/water/c659.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",卫视中文
 http://kb1.ottclub.info:443/water/c658.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",东森综合
+#EXTINF:-1 group-title="longlong",CBC MUSIC
 http://kb1.ottclub.info:443/kitty/c737.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",超视
+#EXTINF:-1 group-title="longlong",CBC KIDS
 http://kb1.ottclub.info:443/kitty/c695.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",ChannalM
+#EXTINF:-1 group-title="longlong",TVN
 http://kb1.ottclub.info:443/kitty/c740.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",KMTV
 http://kb1.ottclub.info:443/kitty/c718.stream/playlist.m3u8
@@ -4639,13 +4562,13 @@ http://kb1.ottclub.info:443/water/c715.stream/playlist.m3u8
 http://kb1.ottclub.info:443/water/c660.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",纬来戏剧
 http://kb1.ottclub.info:443/water/c710.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",星卫娱乐
+#EXTINF:-1 group-title="longlong",DREMA
 http://kb1.ottclub.info:443/kitty/c742.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",卫视合家欢
+#EXTINF:-1 group-title="longlong",STAR WORLD
 http://kb1.ottclub.info:443/kitty/c711.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",JET综合
 http://kb1.ottclub.info:443/water/c725.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",DIVA
+#EXTINF:-1 group-title="longlong",AXN
 http://kb1.ottclub.info:443/water/c679.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",SYFY
 http://kb1.ottclub.info:443/kitty/c716.stream/playlist.m3u8
@@ -4653,7 +4576,7 @@ http://kb1.ottclub.info:443/kitty/c716.stream/playlist.m3u8
 http://kb1.ottclub.info:443/water/c732.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",年代新闻
 http://kb1.ottclub.info:443/water/c736.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",东森新闻
+#EXTINF:-1 group-title="longlong",CBC NEWS
 http://kb1.ottclub.info:443/water/c691.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",中天新闻
 http://kb1.ottclub.info:443/water/c688.stream/playlist.m3u8
@@ -4669,23 +4592,23 @@ http://kb1.ottclub.info:443/water/c689.stream/playlist.m3u8
 http://kb1.ottclub.info:443/water/c733.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",非凡新闻
 http://kb1.ottclub.info:443/water/c712.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",FOXCRIME
+#EXTINF:-1 group-title="longlong",CATCH PLAY
 http://kb1.ottclub.info:443/kitty/c655.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",一综合
 http://kb1.ottclub.info:443/kitty/c738.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",卫视电影
+#EXTINF:-1 group-title="longlong",Star movie HK
 http://kb1.ottclub.info:443/kitty/c667.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",东森电影
+#EXTINF:-1 group-title="longlong",CBC MOVIES
 http://kb1.ottclub.info:443/water/c734.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",星卫电影
+#EXTINF:-1 group-title="longlong",Star movie HK 2
 http://kb1.ottclub.info:443/water/c705.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",美亚电影
 http://kb1.ottclub.info:443/kitty/c704.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",HBO
 http://kb1.ottclub.info:443/water/c685.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",东森洋片
+#EXTINF:-1 group-title="longlong",CBC HISTORY
 http://kb1.ottclub.info:443/water/c694.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",福斯家庭电影
+#EXTINF:-1 group-title="longlong",FOX FAMILY 
 http://kb1.ottclub.info:443/water/c702.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",Universal
 http://kb1.ottclub.info:443/kitty/c703.stream/playlist.m3u8
@@ -4697,33 +4620,33 @@ http://kb1.ottclub.info:443/water/c699.stream/playlist.m3u8
 http://kb1.ottclub.info:443/kitty/c666.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",纬来体育
 http://kb1.ottclub.info:443/water/c663.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",FOX3
+#EXTINF:-1 group-title="longlong",FOX SPORTS 3
 http://kb1.ottclub.info:443/water/c730.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",卫视体育
+#EXTINF:-1 group-title="longlong",FOX SPORTS 2
 http://kb1.ottclub.info:443/kitty/c665.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",纬来日本
 http://kb1.ottclub.info:443/water/c664.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",爱尔达体育
+#EXTINF:-1 group-title="longlong",ELTA HD
 http://kb1.ottclub.info:443/kitty/c717.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",国兴卫视
 http://kb1.ottclub.info:443/water/c713.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",FOX
 http://kb1.ottclub.info:443/water/c731.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",HBO原创
+#EXTINF:-1 group-title="longlong",HBO SIGNATURE
 http://kb1.ottclub.info:443/kitty/c690.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",HBO强档
+#EXTINF:-1 group-title="longlong",HBO HITS
 http://kb1.ottclub.info:443/kitty/c684.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",HBO温馨
+#EXTINF:-1 group-title="longlong",HBO FAMILY
 http://kb1.ottclub.info:443/kitty/c686.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",博斯高球II
+#EXTINF:-1 group-title="longlong",GOLF
 http://kb1.ottclub.info:443/kitty/c709.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",ANIMAX
 http://kb1.ottclub.info:443/kitty/c708.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",GOLFCHANNAL
+#EXTINF:-1 group-title="longlong",GOLF CENTER
 http://kb1.ottclub.info:443/kitty/c722.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",BabyTV
 http://kb1.ottclub.info:443/kitty/c724.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",MTV
+#EXTINF:-1 group-title="longlong",MTV HK
 http://kb1.ottclub.info:443/kitty/c741.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",霹雳湾
 http://kb1.ottclub.info:443/water/c673.stream/playlist.m3u8
