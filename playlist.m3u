@@ -18,8 +18,6 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1 tvg-logo="http://litmotors.com/wp-content/uploads/2014/01/BLOOMBERG-tv-LOGO.png",Bloomberg
 http://btvuk-i.akamaihd.net/hls/live/203321-b/btvuk_ios/P1/M24K.m3u8
 
-#EXTINF:-1 tvg-logo="http://litmotors.com/wp-content/uploads/2014/01/BLOOMBERG-tv-LOGO.png",Bloomberg Tv Europe
-http://217.66.99.235:1234/udp/225.1.1.135:4001
 
 #EXTINF:-1 tvg-logo="http://www.coxmediagroup.com/rw/Pub/Web/Corp/Special%20Contents/Properties/Images/JAX%20CBS47%20ACTION%20NEWS.png",CBS 47
 http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
@@ -177,7 +175,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/1/live_38s8.m3u8
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 2 HD
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+http://alkass-i.akamaihd.net/hls/live/205534/2/live_43s20.m3u8
 
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 3 HD
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
@@ -186,7 +184,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 5 HD
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+http://alkass-i.akamaihd.net/hls/live/205534/5/live_30s20.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_sports_cricket_hd.png",OSN Sports CRICKET HD
 http://9893.akamai.live.selevision.com/live/9893/98934/master.m3u8
@@ -630,12 +628,6 @@ http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 #EXTINF:-1,Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0,MTV Live HD
-http://176.106.66.156:8086/udp/239.71.92.144:1234
-
-#EXTINF:-1,MTV Music
-http://tinyurl.com/hb678sq
-
 #EXTINF:0,MTV Dance
 http://176.106.66.156:8086/udp/239.71.92.46:1234
 
@@ -917,8 +909,7 @@ http://premium.exabytetv.info/HLSST/13432/13432-TPWQB-10110001011001110100110111
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/PakaPaka.png", PakaPaka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://tateti.tv/images/logo.png" , Tateti
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+
 
 
 
@@ -1849,6 +1840,52 @@ http://37.46.192.238:10000/play/a004/index.m3u8
 http://37.46.192.238:10000/play/a00g/index.m3u8
 
 
+#EXTINF:0,Rai Scuola 
+http://87.255.53.70:8006/play/s434 
+#EXTINF:0,Rai Sport 
+http://87.255.53.70:8006/play/s430 
+#EXTINF:0,Rai Gulp 
+http://87.255.53.70:8006/play/s432 
+#EXTINF:0,Rai Premium 
+http://87.255.53.70:8006/play/s436 
+#EXTINF:0,Rai Storia 
+http://87.255.53.70:8006/play/s431 
+#EXTINF:0,UNINETTUNO UNIVERSITY TV 
+http://87.255.53.70:8006/play/s435 
+#EXTINF:0,Camera Deputati 
+http://87.255.53.70:8006/play/s429 
+#EXTINF:0,Rai 5 
+http://87.255.53.70:8006/play/s437 
+#EXTINF:0,Rai YoYo 
+http://87.255.53.70:8006/play/s433
+
+
+
+#EXTINF:-1,LRT TV
+http://87.239.87.142:9981/stream/channelid/1348376234
+#EXTINF:-1,TV3
+http://87.239.87.142:9981/stream/channelid/359312678
+#EXTINF:-1,LNK
+http://87.239.87.142:9981/stream/channelid/1407008111
+#EXTINF:-1,BTV
+http://87.239.87.142:9981/stream/channelid/1492041411
+#EXTINF:-1,TV1
+http://87.239.87.142:9981/stream/channelid/1882419546
+#EXTINF:-1,Lietuvos rytas TV
+http://87.239.87.142:9981/stream/channelid/962058955
+#EXTINF:-1,TV8
+http://87.239.87.142:9981/stream/channelid/1702120075
+#EXTINF:-1,TV6
+http://87.239.87.142:9981/stream/channelid/625200718
+#EXTINF:-1,Info TV
+http://87.239.87.142:9981/stream/channelid/654572393
+#EXTINF:-1,Liuks
+http://87.239.87.142:9981/stream/channelid/1774883689
+#EXTINF:-1,LRT kultura
+http://87.239.87.142:9981/stream/channelid/119146540
+#EXTINF:-1,LRT HD TV
+http://87.239.87.142:9981/stream/channelid/1593781054
+
 
 
 
@@ -1985,34 +2022,16 @@ http://58ad68d0b6c8d.streamlock.net/ios/cnninews/playlist.m3u8
 http://58ad68d0b6c8d.streamlock.net/ios/cnnnews/playlist.m3u8
 
 #EXTINF: -1,BBC News
-http://hls.svc.moyo.tv/hls/CH_BBCWORLDNEWS/bw1758000/variant.m3u8?version=3
-#EXTINF: -1,BBC News
 http://37.235.160.61:81/udp/225.50.66.21:1234?mp4
-#EXTINF: -1,BBC News
-http://tinyurl.com/qzc8os7
-#EXTINF: -1,BBC News
-http://livestream.etv.org.nz/bbc.m3u8
-#EXTINF: -1,SKYNEWS 
-http://tinyurl.com/z8gd5pm
-
-
 
 #EXTINF:-1,HIPHOPTV
 http://stream.cdn.smcloud.net/hiphoptv-p/stream1/playlist.m3u8
+
 #EXTINF:-1,Zing
 http://46.249.213.87/iPhone/HLS_TS/mptslive/zing-mobile.3gp.m3u8
+
 #EXTINF:-1,TV3 (TV3play)
 https://tv3live.data.lt/tv3live/smil:live.smil/playlist.m3u8
-
-
-#EXTINF:-1,SuperSport 1
-http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:-1,SuperSport 2
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1,SuperSport 3
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1,SuperSport 4
-http://81.7.13.162/hls/ss4/index.m3u8
 
 #EXTINF:-1,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
@@ -2602,10 +2621,6 @@ http://www.migutv.ga/iptv/typd.m3u8
 #EXTINF:-1 group-title="咪咕",澳亚卫视
 http://www.migutv.ga/iptv/ayws.m3u8
 
-
-
-
-
 #EXTINF:-1 group-title="longlong",CCTV1HD
 http://gslbserv.itv.cmvideo.cn/HDcctv1.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D49567&Contentid=8813322615956633846&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
 #EXTINF:-1 group-title="longlong",CCTV-1
@@ -2896,348 +2911,7 @@ http://chinanet.live.bestvcdn.com.cn/live/program/Dbst.mobile.live.bestvcdn.com.
 http://chinanet.live.bestvcdn.com.cn/live/program/Dbst.mobile.live.bestvcdn.com.cnD/_MH_keyM_H_/live/jxws/1300000/mnf.m3u8
 #EXTINF:-1 group-title="longlong",内蒙古卫视
 http://chinanet.live.bestvcdn.com.cn/live/program/Dbst.mobile.live.bestvcdn.com.cnD/_MH_keyM_H_/live/nmgws/1300000/mnf.m3u8
-#EXTINF:-1 group-title="longlong",山西黄河
-http://kk.luoke.net.cn/cq/pytv.php?id=001
-#EXTINF:-1 group-title="longlong",山西影视
-http://kk.luoke.net.cn/cq/pytv.php?id=002
-#EXTINF:-1 group-title="longlong",山西公共
-http://kk.luoke.net.cn/cq/pytv.php?id=003
-#EXTINF:-1 group-title="longlong",山西科教
-http://kk.luoke.net.cn/cq/pytv.php?id=004
-#EXTINF:-1 group-title="longlong",山西少儿
-http://kk.luoke.net.cn/cq/pytv.php?id=005
-#EXTINF:-1 group-title="longlong",晋中新闻综合
-http://kk.luoke.net.cn/cq/pytv.php?id=006
-#EXTINF:-1 group-title="longlong",CCTV1
-http://kk.luoke.net.cn/cq/pytv.php?id=007
-#EXTINF:-1 group-title="longlong",CCTV2
-http://kk.luoke.net.cn/cq/pytv.php?id=008
-#EXTINF:-1 group-title="longlong",CCTV7
-http://kk.luoke.net.cn/cq/pytv.php?id=009
-#EXTINF:-1 group-title="longlong",CCTV10
-http://kk.luoke.net.cn/cq/pytv.php?id=010
-#EXTINF:-1 group-title="longlong",CCTV11
-http://kk.luoke.net.cn/cq/pytv.php?id=011
-#EXTINF:-1 group-title="longlong",CCTV12
-http://kk.luoke.net.cn/cq/pytv.php?id=012
-#EXTINF:-1 group-title="longlong",CCTV15
-http://kk.luoke.net.cn/cq/pytv.php?id=013
-#EXTINF:-1 group-title="longlong",CCTV-4
-http://kk.luoke.net.cn/cq/pytv.php?id=014
-#EXTINF:-1 group-title="longlong",气象频道
-http://kk.luoke.net.cn/cq/pytv.php?id=015
-#EXTINF:-1 group-title="longlong",CCTV-News
-http://kk.luoke.net.cn/cq/pytv.php?id=016
-#EXTINF:-1 group-title="longlong",优漫卡通
-http://kk.luoke.net.cn/cq/pytv.php?id=017
-#EXTINF:-1 group-title="longlong",CCTV-3
-http://kk.luoke.net.cn/cq/pytv.php?id=018
-#EXTINF:-1 group-title="longlong",CCTV-5
-http://kk.luoke.net.cn/cq/pytv.php?id=019
-#EXTINF:-1 group-title="longlong",CCTV-6
-http://kk.luoke.net.cn/cq/pytv.php?id=020
-#EXTINF:-1 group-title="longlong",CCTV-8
-http://kk.luoke.net.cn/cq/pytv.php?id=021
-#EXTINF:-1 group-title="longlong",CCTV-9
-http://kk.luoke.net.cn/cq/pytv.php?id=022
-#EXTINF:-1 group-title="longlong",CCTV-13
-http://kk.luoke.net.cn/cq/pytv.php?id=023
-#EXTINF:-1 group-title="longlong",CCTV-14
-http://kk.luoke.net.cn/cq/pytv.php?id=024
-#EXTINF:-1 group-title="longlong",北京卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=025
-#EXTINF:-1 group-title="longlong",天津卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=026
-#EXTINF:-1 group-title="longlong",山西卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=027
-#EXTINF:-1 group-title="longlong",山东卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=028
-#EXTINF:-1 group-title="longlong",河北卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=029
-#EXTINF:-1 group-title="longlong",浙江卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=030
-#EXTINF:-1 group-title="longlong",旅游卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=031
-#EXTINF:-1 group-title="longlong",黑龙江卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=032
-#EXTINF:-1 group-title="longlong",吉林卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=033
-#EXTINF:-1 group-title="longlong",延边卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=034
-#EXTINF:-1 group-title="longlong",西藏卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=035
-#EXTINF:-1 group-title="longlong",新疆卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=036
-#EXTINF:-1 group-title="longlong",福建卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=037
-#EXTINF:-1 group-title="longlong",贵州卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=038
-#EXTINF:-1 group-title="longlong",江苏卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=039
-#EXTINF:-1 group-title="longlong",湖南卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=040
-#EXTINF:-1 group-title="longlong",辽宁卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=041
-#EXTINF:-1 group-title="longlong",金鹰卡通
-http://kk.luoke.net.cn/cq/pytv.php?id=042
-#EXTINF:-1 group-title="longlong",平遥电视
-http://kk.luoke.net.cn/cq/pytv.php?id=043
-#EXTINF:-1 group-title="longlong",动漫秀场
-http://kk.luoke.net.cn/cq/pytv.php?id=044
-#EXTINF:-1 group-title="longlong",劲爆体育
-http://kk.luoke.net.cn/cq/pytv.php?id=045
-#EXTINF:-1 group-title="longlong",全纪实
-http://kk.luoke.net.cn/cq/pytv.php?id=046
-#EXTINF:-1 group-title="longlong",东方财经
-http://kk.luoke.net.cn/cq/pytv.php?id=047
-#EXTINF:-1 group-title="longlong",老年福
-http://kk.luoke.net.cn/cq/pytv.php?id=048
-#EXTINF:-1 group-title="longlong",幸福彩
-http://kk.luoke.net.cn/cq/pytv.php?id=049
-#EXTINF:-1 group-title="longlong",游戏风云
-http://kk.luoke.net.cn/cq/pytv.php?id=050
-#EXTINF:-1 group-title="longlong",环球奇观
-http://kk.luoke.net.cn/cq/pytv.php?id=051
-#EXTINF:-1 group-title="longlong",发现之旅
-http://kk.luoke.net.cn/cq/pytv.php?id=052
-#EXTINF:-1 group-title="longlong",老故事
-http://kk.luoke.net.cn/cq/pytv.php?id=053
-#EXTINF:-1 group-title="longlong",书画频道
-http://kk.luoke.net.cn/cq/pytv.php?id=054
-#EXTINF:-1 group-title="longlong",女性时尚
-http://kk.luoke.net.cn/cq/pytv.php?id=055
-#EXTINF:-1 group-title="longlong",现代女性
-http://kk.luoke.net.cn/cq/pytv.php?id=056
-#EXTINF:-1 group-title="longlong",中视购物
-http://kk.luoke.net.cn/cq/pytv.php?id=057
-#EXTINF:-1 group-title="longlong",卫生健康
-http://kk.luoke.net.cn/cq/pytv.php?id=058
-#EXTINF:-1 group-title="longlong",青海卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=059
-#EXTINF:-1 group-title="longlong",湖北卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=060
-#EXTINF:-1 group-title="longlong",中教一台
-http://kk.luoke.net.cn/cq/pytv.php?id=061
-#EXTINF:-1 group-title="longlong",炫动卡通
-http://kk.luoke.net.cn/cq/pytv.php?id=062
-#EXTINF:-1 group-title="longlong",东方卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=063
-#EXTINF:-1 group-title="longlong",内蒙古卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=064
-#EXTINF:-1 group-title="longlong",世界地理
-http://kk.luoke.net.cn/cq/pytv.php?id=065
-#EXTINF:-1 group-title="longlong",国防军事
-http://kk.luoke.net.cn/cq/pytv.php?id=066
-#EXTINF:-1 group-title="longlong",风云音乐
-http://kk.luoke.net.cn/cq/pytv.php?id=067
-#EXTINF:-1 group-title="longlong",央视精品
-http://kk.luoke.net.cn/cq/pytv.php?id=068
-#EXTINF:-1 group-title="longlong",怀旧剧场
-http://kk.luoke.net.cn/cq/pytv.php?id=069
-#EXTINF:-1 group-title="longlong",风云足球
-http://kk.luoke.net.cn/cq/pytv.php?id=070
-#EXTINF:-1 group-title="longlong",风云剧场
-http://kk.luoke.net.cn/cq/pytv.php?id=071
-#EXTINF:-1 group-title="longlong",第一剧场
-http://kk.luoke.net.cn/cq/pytv.php?id=072
-#EXTINF:-1 group-title="longlong",靓妆频道
-http://kk.luoke.net.cn/cq/pytv.php?id=073
-#EXTINF:-1 group-title="longlong",留学世界
-http://kk.luoke.net.cn/cq/pytv.php?id=074
-#EXTINF:-1 group-title="longlong",梨园频道
-http://kk.luoke.net.cn/cq/pytv.php?id=075
-#EXTINF:-1 group-title="longlong",游戏竞技
-http://kk.luoke.net.cn/cq/pytv.php?id=076
-#EXTINF:-1 group-title="longlong",茶频道
-http://kk.luoke.net.cn/cq/pytv.php?id=077
-#EXTINF:-1 group-title="longlong",DV生活
-http://kk.luoke.net.cn/cq/pytv.php?id=078
-#EXTINF:-1 group-title="longlong",天元围棋
-http://kk.luoke.net.cn/cq/pytv.php?id=079
-#EXTINF:-1 group-title="longlong",汽摩
-http://kk.luoke.net.cn/cq/pytv.php?id=080
-#EXTINF:-1 group-title="longlong",摄影频道
-http://kk.luoke.net.cn/cq/pytv.php?id=081
-#EXTINF:-1 group-title="longlong",英语辅导
-http://kk.luoke.net.cn/cq/pytv.php?id=082
-#EXTINF:-1 group-title="longlong",早期教育
-http://kk.luoke.net.cn/cq/pytv.php?id=083
-#EXTINF:-1 group-title="longlong",彩民在线
-http://kk.luoke.net.cn/cq/pytv.php?id=084
-#EXTINF:-1 group-title="longlong",武术世界
-http://kk.luoke.net.cn/cq/pytv.php?id=085
-#EXTINF:-1 group-title="longlong",宝贝家
-http://kk.luoke.net.cn/cq/pytv.php?id=086
-#EXTINF:-1 group-title="longlong",城市建设
-http://kk.luoke.net.cn/cq/pytv.php?id=087
-#EXTINF:-1 group-title="longlong",法治天地
-http://kk.luoke.net.cn/cq/pytv.php?id=088
-#EXTINF:-1 group-title="longlong",欢笑剧场
-http://kk.luoke.net.cn/cq/pytv.php?id=089
-#EXTINF:-1 group-title="longlong",魅力音乐
-http://kk.luoke.net.cn/cq/pytv.php?id=090
-#EXTINF:-1 group-title="longlong",七彩戏剧
-http://kk.luoke.net.cn/cq/pytv.php?id=091
-#EXTINF:-1 group-title="longlong",金色频道
-http://kk.luoke.net.cn/cq/pytv.php?id=092
-#EXTINF:-1 group-title="longlong",生活时尚
-http://kk.luoke.net.cn/cq/pytv.php?id=093
-#EXTINF:-1 group-title="longlong",极速汽车
-http://kk.luoke.net.cn/cq/pytv.php?id=094
-#EXTINF:-1 group-title="longlong",都市剧场
-http://kk.luoke.net.cn/cq/pytv.php?id=095
-#EXTINF:-1 group-title="longlong",广西卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=096
-#EXTINF:-1 group-title="longlong",广东卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=097
-#EXTINF:-1 group-title="longlong",云南卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=098
-#EXTINF:-1 group-title="longlong",深圳卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=099
-#EXTINF:-1 group-title="longlong",嘉佳卡通
-http://kk.luoke.net.cn/cq/pytv.php?id=100
-#EXTINF:-1 group-title="longlong",兵团卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=101
-#EXTINF:-1 group-title="longlong",星卫国际电影
-http://kk.luoke.net.cn/cq/pytv.php?id=102
-#EXTINF:-1 group-title="longlong",DMC轮播
-http://kk.luoke.net.cn/cq/pytv.php?id=103
-#EXTINF:-1 group-title="longlong",中国电影
-http://kk.luoke.net.cn/cq/pytv.php?id=104
-#EXTINF:-1 group-title="longlong",天映频道
-http://kk.luoke.net.cn/cq/pytv.php?id=105
-#EXTINF:-1 group-title="longlong",山东教育
-http://kk.luoke.net.cn/cq/pytv.php?id=106
-#EXTINF:-1 group-title="longlong",TVB星河
-http://kk.luoke.net.cn/cq/pytv.php?id=107
-#EXTINF:-1 group-title="longlong",阳光卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=108
-#EXTINF:-1 group-title="longlong",莲花卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=109
-#EXTINF:-1 group-title="longlong",凤凰资讯
-http://kk.luoke.net.cn/cq/pytv.php?id=110
-#EXTINF:-1 group-title="longlong",凤凰中文
-http://kk.luoke.net.cn/cq/pytv.php?id=111
-#EXTINF:-1 group-title="longlong",TCB潮视
-http://kk.luoke.net.cn/cq/pytv.php?id=112
-#EXTINF:-1 group-title="longlong",中国黄河
-http://kk.luoke.net.cn/cq/pytv.php?id=113
-#EXTINF:-1 group-title="longlong",安徽卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=114
-#EXTINF:-1 group-title="longlong",重庆卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=115
-#EXTINF:-1 group-title="longlong",河南卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=116
-#EXTINF:-1 group-title="longlong",宁夏卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=117
-#EXTINF:-1 group-title="longlong",四川卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=118
-#EXTINF:-1 group-title="longlong",江西卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=119
-#EXTINF:-1 group-title="longlong",陕西卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=120
-#EXTINF:-1 group-title="longlong",农林卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=121
-#EXTINF:-1 group-title="longlong",甘肃卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=123
-#EXTINF:-1 group-title="longlong",HBO
-http://kk.luoke.net.cn/cq/pytv.php?id=123
-#EXTINF:-1 group-title="longlong",星空卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=124
-#EXTINF:-1 group-title="longlong",华娱卫视
-http://kk.luoke.net.cn/cq/pytv.php?id=125
-#EXTINF:-1 group-title="longlong",CNC
-http://kk.luoke.net.cn/cq/pytv.php?id=126
-#EXTINF:-1 group-title="longlong",国学频道
-http://kk.luoke.net.cn/cq/pytv.php?id=127
-#EXTINF:-1 group-title="longlong",新科动漫
-http://kk.luoke.net.cn/cq/pytv.php?id=128
-#EXTINF:-1 group-title="longlong",快乐垂钓
-http://kk.luoke.net.cn/cq/pytv.php?id=129
-#EXTINF:-1 group-title="longlong",中学生
-http://kk.luoke.net.cn/cq/pytv.php?id=130
-#EXTINF:-1 group-title="longlong",文物宝库
-http://kk.luoke.net.cn/cq/pytv.php?id=131
-#EXTINF:-1 group-title="longlong",中教二台
-http://kk.luoke.net.cn/cq/pytv.php?id=132
-#EXTINF:-1 group-title="longlong",空中课堂
-http://kk.luoke.net.cn/cq/pytv.php?id=133
-#EXTINF:-1 group-title="longlong",金鹰纪实高清
-http://kk.luoke.net.cn/cq/pytv.php?id=134
-#EXTINF:-1 group-title="longlong",北京纪实高清
-http://kk.luoke.net.cn/cq/pytv.php?id=135
-#EXTINF:-1 group-title="longlong",上海纪实高清
-http://kk.luoke.net.cn/cq/pytv.php?id=136
-#EXTINF:-1 group-title="longlong",辽宁卫视高清
-http://kk.luoke.net.cn/cq/pytv.php?id=137
-#EXTINF:-1 group-title="longlong",四川卫视高清
-http://kk.luoke.net.cn/cq/pytv.php?id=138
-#EXTINF:-1 group-title="longlong",CCTV-2高清
-http://kk.luoke.net.cn/cq/pytv.php?id=139
-#EXTINF:-1 group-title="longlong",CCTV-7高清
-http://kk.luoke.net.cn/cq/pytv.php?id=141
-#EXTINF:-1 group-title="longlong",CCTV-9高清
-http://kk.luoke.net.cn/cq/pytv.php?id=142
-#EXTINF:-1 group-title="longlong",CCTV-10高清
-http://kk.luoke.net.cn/cq/pytv.php?id=143
-#EXTINF:-1 group-title="longlong",CCTV-12高清
-http://kk.luoke.net.cn/cq/pytv.php?id=144
-#EXTINF:-1 group-title="longlong",CCTV-14高清
-http://kk.luoke.net.cn/cq/pytv.php?id=145
-#EXTINF:-1 group-title="longlong",高清影视
-http://kk.luoke.net.cn/cq/pytv.php?id=146
-#EXTINF:-1 group-title="longlong",新视觉高清
-http://kk.luoke.net.cn/cq/pytv.php?id=147
-#EXTINF:-1 group-title="longlong",DMC轮播电影
-http://kk.luoke.net.cn/cq/pytv.php?id=148
-#EXTINF:-1 group-title="longlong",高清综艺
-http://kk.luoke.net.cn/cq/pytv.php?id=149
-#EXTINF:-1 group-title="longlong",CCTV-8高清
-http://kk.luoke.net.cn/cq/pytv.php?id=150
-#EXTINF:-1 group-title="longlong",CCTV-5高清
-http://kk.luoke.net.cn/cq/pytv.php?id=151
-#EXTINF:-1 group-title="longlong",CCTV-3D
-http://kk.luoke.net.cn/cq/pytv.php?id=153
-#EXTINF:-1 group-title="longlong",凤凰资讯高清
-http://kk.luoke.net.cn/cq/pytv.php?id=154
-#EXTINF:-1 group-title="longlong",凤凰中文高清
-http://kk.luoke.net.cn/cq/pytv.php?id=155
-#EXTINF:-1 group-title="longlong",凤凰香港高清
-http://kk.luoke.net.cn/cq/pytv.php?id=156
-#EXTINF:-1 group-title="longlong",香港电影高清
-http://kk.luoke.net.cn/cq/pytv.php?id=157
-#EXTINF:-1 group-title="longlong",CCTV-1高清
-http://kk.luoke.net.cn/cq/pytv.php?id=158
-#EXTINF:-1 group-title="longlong",CCTV-6高清
-http://kk.luoke.net.cn/cq/pytv.php?id=159
-#EXTINF:-1 group-title="longlong",CCTV-5+高清
-http://kk.luoke.net.cn/cq/pytv.php?id=160
-#EXTINF:-1 group-title="longlong",上海卫视高清
-http://kk.luoke.net.cn/cq/pytv.php?id=161
-#EXTINF:-1 group-title="longlong",天津卫视高清
-http://kk.luoke.net.cn/cq/pytv.php?id=162
-#EXTINF:-1 group-title="longlong",山东卫视高清
-http://kk.luoke.net.cn/cq/pytv.php?id=163
-#EXTINF:-1 group-title="longlong",湖北卫视高清
-http://kk.luoke.net.cn/cq/pytv.php?id=164
-#EXTINF:-1 group-title="longlong",安徽卫视高清
-http://kk.luoke.net.cn/cq/pytv.php?id=165
-#EXTINF:-1 group-title="longlong",湖南卫视高清
-http://kk.luoke.net.cn/cq/pytv.php?id=166
-#EXTINF:-1 group-title="longlong",浙江卫视高清
-http://kk.luoke.net.cn/cq/pytv.php?id=167
-#EXTINF:-1 group-title="longlong",江苏卫视高清
-http://kk.luoke.net.cn/cq/pytv.php?id=168
-#EXTINF:-1 group-title="longlong",北京卫视高清
-http://kk.luoke.net.cn/cq/pytv.php?id=169
-#EXTINF:-1 group-title="longlong",重庆卫视高清
-http://kk.luoke.net.cn/cq/pytv.php?id=170
-#EXTINF:-1 group-title="longlong",黑龙江卫视高清
-http://kk.luoke.net.cn/cq/pytv.php?id=171
-#EXTINF:-1 group-title="longlong",广东卫视高清
-http://kk.luoke.net.cn/cq/pytv.php?id=172
-#EXTINF:-1 group-title="longlong",深圳卫视高清
-http://kk.luoke.net.cn/cq/pytv.php?id=173
+
 #EXTINF:-1 group-title="longlong",北京卫视HD
 http://183.207.249.7/PLTV/2/224/3221225902/index.m3u8
 #EXTINF:-1 group-title="longlong",东方卫视HD
@@ -3714,316 +3388,7 @@ http://183.207.249.7/PLTV/4/224/3221225943/index.m3u8
 http://183.207.249.7/PLTV/4/224/3221226303/index.m3u8
 #EXTINF:-1 group-title="longlong",北京卡酷
 http://183.207.249.7/PLTV/4/224/3221226305/index.m3u8
-#EXTINF:-1 group-title="longlong",CCTV-1_1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402552440
-#EXTINF:-1 group-title="longlong",CCTV-2_1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551601
-#EXTINF:-1 group-title="longlong",CCTV-3_1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551839
-#EXTINF:-1 group-title="longlong",CCTV-4_1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551341
-#EXTINF:-1 group-title="longlong",CCTV-5_1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551339
-#EXTINF:-1 group-title="longlong",CCTV5+_1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551934
-#EXTINF:-1 group-title="longlong",CCTV-6_1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551337
-#EXTINF:-1 group-title="longlong",CCTV-7_1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551803
-#EXTINF:-1 group-title="longlong",CCTV-8_1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551429
-#EXTINF:-1 group-title="longlong",CCTV-9_1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551437
-#EXTINF:-1 group-title="longlong",CCTV-10_1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551636
-#EXTINF:-1 group-title="longlong",CCTV-12_1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551939
-#EXTINF:-1 group-title="longlong",CCTV-14_1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551603
-#EXTINF:-1 group-title="longlong",金鹰纪实1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551855
-#EXTINF:-1 group-title="longlong",北京纪实1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551320
-#EXTINF:-1 group-title="longlong",湖南卫视1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551607
-#EXTINF:-1 group-title="longlong",北京卫视1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551326
-#EXTINF:-1 group-title="longlong",深圳卫视1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551804
-#EXTINF:-1 group-title="longlong",湖北卫视1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551406
-#EXTINF:-1 group-title="longlong",山东卫视1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551404
-#EXTINF:-1 group-title="longlong",辽宁卫视1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551401
-#EXTINF:-1 group-title="longlong",安徽卫视1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551400
-#EXTINF:-1 group-title="longlong",东方卫视1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551641
-#EXTINF:-1 group-title="longlong",浙江卫视1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551640
-#EXTINF:-1 group-title="longlong",天津卫视1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551311
-#EXTINF:-1 group-title="longlong",广东卫视1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551308
-#EXTINF:-1 group-title="longlong",黑龙江卫视1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551411
-#EXTINF:-1 group-title="longlong",大众影视1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551811
-#EXTINF:-1 group-title="longlong",家庭影院1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551624
-#EXTINF:-1 group-title="longlong",家庭剧场1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551407
-#EXTINF:-1 group-title="longlong",卡通剧场1080P
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551409
-#EXTINF:-1 group-title="longlong",CCTV-1
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551422
-#EXTINF:-1 group-title="longlong",CCTV-2
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551423
-#EXTINF:-1 group-title="longlong",CCTV-3
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551637
-#EXTINF:-1 group-title="longlong",CCTV-6
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551336
-#EXTINF:-1 group-title="longlong",CCTV-7
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551626
-#EXTINF:-1 group-title="longlong",CCTV-8
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402552436
-#EXTINF:-1 group-title="longlong",CCTV-9
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551338
-#EXTINF:-1 group-title="longlong",CCTV-10
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551627
-#EXTINF:-1 group-title="longlong",CCTV-11
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551605
-#EXTINF:-1 group-title="longlong",CCTV-12
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551827
-#EXTINF:-1 group-title="longlong",CCTV-13
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551403
-#EXTINF:-1 group-title="longlong",CCTV-14
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551826
-#EXTINF:-1 group-title="longlong",CCTV-15
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551807
-#EXTINF:-1 group-title="longlong",CCTV老故事
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551644
-#EXTINF:-1 group-title="longlong",CCTV发现之旅
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551630
-#EXTINF:-1 group-title="longlong",CCTV世界地理
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551347
-#EXTINF:-1 group-title="longlong",CCTV第一剧场
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551948
-#EXTINF:-1 group-title="longlong",CCTV女性时尚
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551845
-#EXTINF:-1 group-title="longlong",CCTV风云剧场
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551848
-#EXTINF:-1 group-title="longlong",CCTV怀旧剧场
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551646
-#EXTINF:-1 group-title="longlong",CCTV风云音乐
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551447
-#EXTINF:-1 group-title="longlong",CCTV新科动漫
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551451
-#EXTINF:-1 group-title="longlong",CCTV卫生健康
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551649
-#EXTINF:-1 group-title="longlong",CCTV风云足球
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551647
-#EXTINF:-1 group-title="longlong",CCTV电视指南
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551348
-#EXTINF:-1 group-title="longlong",CCTV央视文化精品
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551346
-#EXTINF:-1 group-title="longlong",CETV-1
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551631
-#EXTINF:-1 group-title="longlong",纪录片
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551413
-#EXTINF:-1 group-title="longlong",CETV早期教育
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551445
-#EXTINF:-1 group-title="longlong",老电影
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551609
-#EXTINF:-1 group-title="longlong",家庭影院-1
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551402
-#EXTINF:-1 group-title="longlong",家庭影院-2
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551806
-#EXTINF:-1 group-title="longlong",家庭影院-3
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551307
-#EXTINF:-1 group-title="longlong",家庭影院-4
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551812
-#EXTINF:-1 group-title="longlong",家庭剧场-1
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551608
-#EXTINF:-1 group-title="longlong",家庭剧场-2
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551408
-#EXTINF:-1 group-title="longlong",家庭剧场-3
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551613
-#EXTINF:-1 group-title="longlong",家庭生活
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551819
-#EXTINF:-1 group-title="longlong",海外剧场
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551614
-#EXTINF:-1 group-title="longlong",刑侦剧场
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551410
-#EXTINF:-1 group-title="longlong",大众影视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551618
-#EXTINF:-1 group-title="longlong",城市电视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551417
-#EXTINF:-1 group-title="longlong",卡通剧场
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551815
-#EXTINF:-1 group-title="longlong",探索集绵
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551617
-#EXTINF:-1 group-title="longlong",公共交通
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551349
-#EXTINF:-1 group-title="longlong",交通旅游
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551621
-#EXTINF:-1 group-title="longlong",地理杂志
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551317
-#EXTINF:-1 group-title="longlong",瓢虫汇
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551924
-#EXTINF:-1 group-title="longlong",宝贝家
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551652
-#EXTINF:-1 group-title="longlong",环球奇观
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551851
-#EXTINF:-1 group-title="longlong",武术世界
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551852
-#EXTINF:-1 group-title="longlong",梨园频道
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551643
-#EXTINF:-1 group-title="longlong",深圳DV生活
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551353
-#EXTINF:-1 group-title="longlong",现代女性
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551345
-#EXTINF:-1 group-title="longlong",摄影频道
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551645
-#EXTINF:-1 group-title="longlong",文物宝库
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551651
-#EXTINF:-1 group-title="longlong",天元围棋
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551650
-#EXTINF:-1 group-title="longlong",茶频道
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551449
-#EXTINF:-1 group-title="longlong",书画频道
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551443
-#EXTINF:-1 group-title="longlong",国学频道
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551352
-#EXTINF:-1 group-title="longlong",快乐垂钓
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551351
-#EXTINF:-1 group-title="longlong",重庆汽摩
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551642
-#EXTINF:-1 group-title="longlong",英语辅导
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551343
-#EXTINF:-1 group-title="longlong",江苏靓妆
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551342
-#EXTINF:-1 group-title="longlong",新动漫
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551823
-#EXTINF:-1 group-title="longlong",留学世界
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551840
-#EXTINF:-1 group-title="longlong",城市建设
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551842
-#EXTINF:-1 group-title="longlong",彩民在线
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551843
-#EXTINF:-1 group-title="longlong",网络棋牌
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551801
-#EXTINF:-1 group-title="longlong",电子体育
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551300
-#EXTINF:-1 group-title="longlong",游戏竞技
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551822
-#EXTINF:-1 group-title="longlong",家庭理财
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551318
-#EXTINF:-1 group-title="longlong",宜佳购物
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551332
-#EXTINF:-1 group-title="longlong",辽宁生活
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551633
-#EXTINF:-1 group-title="longlong",辽宁都市
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551412
-#EXTINF:-1 group-title="longlong",辽宁北方
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551602
-#EXTINF:-1 group-title="longlong",辽宁公共
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551457
-#EXTINF:-1 group-title="longlong",辽宁经济
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551356
-#EXTINF:-1 group-title="longlong",辽宁教育青少
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551302
-#EXTINF:-1 group-title="longlong",辽宁影视剧
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551331
-#EXTINF:-1 group-title="longlong",辽宁体育
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551619
-#EXTINF:-1 group-title="longlong",体育频道
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551936
-#EXTINF:-1 group-title="longlong",沈阳新闻综合
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551955
-#EXTINF:-1 group-title="longlong",河南卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551315
-#EXTINF:-1 group-title="longlong",陕西卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551309
-#EXTINF:-1 group-title="longlong",新疆卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551305
-#EXTINF:-1 group-title="longlong",青海卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551303
-#EXTINF:-1 group-title="longlong",四川卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551301
-#EXTINF:-1 group-title="longlong",兵团卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551455
-#EXTINF:-1 group-title="longlong",贵州卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551800
-#EXTINF:-1 group-title="longlong",旅游卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551805
-#EXTINF:-1 group-title="longlong",江西卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551809
-#EXTINF:-1 group-title="longlong",浙江卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551810
-#EXTINF:-1 group-title="longlong",东方卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551813
-#EXTINF:-1 group-title="longlong",山西卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551814
-#EXTINF:-1 group-title="longlong",厦门卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551427
-#EXTINF:-1 group-title="longlong",湖北卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551629
-#EXTINF:-1 group-title="longlong",安徽卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551628
-#EXTINF:-1 group-title="longlong",甘肃卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551816
-#EXTINF:-1 group-title="longlong",重庆卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551820
-#EXTINF:-1 group-title="longlong",广东卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551828
-#EXTINF:-1 group-title="longlong",广西卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551620
-#EXTINF:-1 group-title="longlong",吉林卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551623
-#EXTINF:-1 group-title="longlong",安徽卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551628
-#EXTINF:-1 group-title="longlong",北京卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402552426
-#EXTINF:-1 group-title="longlong",天津卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402552439
-#EXTINF:-1 group-title="longlong",湖南卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551425
-#EXTINF:-1 group-title="longlong",北京卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551330
-#EXTINF:-1 group-title="longlong",深圳卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551329
-#EXTINF:-1 group-title="longlong",黑龙江卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551328
-#EXTINF:-1 group-title="longlong",辽宁卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551327
-#EXTINF:-1 group-title="longlong",云南卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551322
-#EXTINF:-1 group-title="longlong",天津卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551439
-#EXTINF:-1 group-title="longlong",东南卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551612
-#EXTINF:-1 group-title="longlong",江苏卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551611
-#EXTINF:-1 group-title="longlong",内蒙古卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551610
-#EXTINF:-1 group-title="longlong",西藏卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551606
-#EXTINF:-1 group-title="longlong",宁夏卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551604
-#EXTINF:-1 group-title="longlong",河北卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551616
-#EXTINF:-1 group-title="longlong",农林卫视
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551354
-#EXTINF:-1 group-title="longlong",金鹰卡通
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551655
-#EXTINF:-1 group-title="longlong",嘉佳卡通
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551654
-#EXTINF:-1 group-title="longlong",炫动卡通
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551321
-#EXTINF:-1 group-title="longlong",优漫卡通
-http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551854
+
 #EXTINF:-1 group-title="longlong",凤凰中文HD
 http://183.251.61.207/PLTV/88888888/224/3221225900/index.m3u8
 #EXTINF:-1 group-title="longlong",凤凰资讯HD
@@ -4286,77 +3651,7 @@ http://183.251.61.207/PLTV/88888888/224/3221225895/index.m3u8
 http://183.251.61.207/PLTV/88888888/224/3221225896/index.m3u8
 #EXTINF:-1 group-title="longlong",CCTV-5HD
 http://183.251.61.207/PLTV/88888888/224/3221225915/index.m3u8
-#EXTINF:-1 group-title="longlong",爱上4K
-http://182.245.29.3:93/355/355.m3u8
-#EXTINF:-1 group-title="longlong",CHC高清
-http://182.245.29.3:93/381/381.m3u8
-#EXTINF:-1 group-title="longlong",凤凰卫视高清
-http://182.245.29.3:93/289/289.m3u8
-#EXTINF:-1 group-title="longlong",凤凰资讯高清
-http://182.245.29.3:93/290/290.m3u8
-#EXTINF:-1 group-title="longlong",云南卫视高清
-http://182.245.29.3:93/349/349.m3u8
-#EXTINF:-1 group-title="longlong",浙江卫视高清
-http://182.245.29.3:93/304/304.m3u8
-#EXTINF:-1 group-title="longlong",湖南卫视高清
-http://182.245.29.3:93/125/125.m3u8
-#EXTINF:-1 group-title="longlong",东方卫视高清
-http://182.245.29.3:93/127/127.m3u8
-#EXTINF:-1 group-title="longlong",江苏卫视高清
-http://182.245.29.3:93/126/126.m3u8
-#EXTINF:-1 group-title="longlong",CCTV-1高清
-http://182.245.29.3:93/193/193.m3u8
-#EXTINF:-1 group-title="longlong",CCTV-2高清
-http://182.245.29.3:93/243/243.m3u8
-#EXTINF:-1 group-title="longlong",CCTV-3高清
-http://182.245.29.3:93/344/344.m3u8
-#EXTINF:-1 group-title="longlong",CCTV-4高清
-http://182.245.29.3:93/278/278.m3u8
-#EXTINF:-1 group-title="longlong",CCTV-5高清
-http://182.245.29.3:93/345/345.m3u8
-#EXTINF:-1 group-title="longlong",CCTV-5+高清
-http://182.245.29.3:93/128/128.m3u8
-#EXTINF:-1 group-title="longlong",CCTV-6高清
-http://182.245.29.3:93/346/346.m3u8
-#EXTINF:-1 group-title="longlong",CCTV-7高清
-http://182.245.29.3:93/244/244.m3u8
-#EXTINF:-1 group-title="longlong",CCTV-8高清
-http://182.245.29.3:93/347/347.m3u8
-#EXTINF:-1 group-title="longlong",CCTV-9高清
-http://182.245.29.3:93/245/245.m3u8
-#EXTINF:-1 group-title="longlong",CCTV-10高清
-http://182.245.29.3:93/246/246.m3u8
-#EXTINF:-1 group-title="longlong",CCTV-12高清
-http://182.245.29.3:93/247/247.m3u8
-#EXTINF:-1 group-title="longlong",CCTV-14高清
-http://182.245.29.3:93/248/248.m3u8
-#EXTINF:-1 group-title="longlong",北京卫视高清
-http://182.245.29.3:93/124/124.m3u8
-#EXTINF:-1 group-title="longlong",北京纪实高清
-http://182.245.29.3:93/312/312.m3u8
-#EXTINF:-1 group-title="longlong",深圳卫视高清
-http://182.245.29.3:93/190/190.m3u8
-#EXTINF:-1 group-title="longlong",天津卫视高清
-http://182.245.29.3:93/192/192.m3u8 
-#EXTINF:-1 group-title="longlong",安徽卫视高清
-http://182.245.29.3:93/279/279.m3u8
-#EXTINF:-1 group-title="longlong",湖北卫视高清
-http://182.245.29.3:93/191/191.m3u8
-#EXTINF:-1 group-title="longlong",黑龙江卫视高清
-http://182.245.29.3:93/189/189.m3u8
-#EXTINF:-1 group-title="longlong",山东卫视高清
-http://182.245.29.3:93/338/338.m3u8
-#EXTINF:-1 group-title="longlong",辽宁卫视高清
-http://182.245.29.3:93/337/337.m3u8
-#EXTINF:-1 group-title="longlong",星空卫视
-http://182.245.29.3:93/291/291.m3u8
-#EXTINF:-1 group-title="longlong",CHC动作电影,106.57.175.10:8089/377/377.m3u8
-#EXTINF:-1 group-title="longlong",CHC家庭影院
-http://182.245.29.3:93/376/376.m3u8
-#EXTINF:-1 group-title="longlong",高清测试1
-http://182.245.29.3:93/371/371.m3u8
-#EXTINF:-1 group-title="longlong",高清测试2
-http://182.245.29.3:93/373/373.m3u8
+
 #EXTINF:-1 group-title="longlong",乐迷频道
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",乐视垫播
