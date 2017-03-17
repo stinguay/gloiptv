@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title=NEWS CHANNELS, tvg-logo="http://quicklink.tv/wp-content/uploads/2014/05/al-jazeera-logo.jpg",Aljazeera English
+#EXTINF:-1 group-title=NEWS CHANNELS, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png",Aljazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png",Aljazeera English
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
 #EXTINF:-1 tvg-logo="http://img4.wikia.nocookie.net/__cb20130610165528/logopedia/images/c/cd/ABC_News_2013.png",ABC News
 http://abclive.abcnews.com/i/abc_live08@318690/index_1200_av-p.m3u8?sd=10&b=400,500-2500&rebase=on
@@ -9,7 +12,7 @@ http://abclive.abcnews.com/i/abc_live08@318690/index_1200_av-p.m3u8?sd=10&b=400,
 #EXTINF:-1 tvg-logo="http://logonoid.com/images/arirang-logo.png",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png",BBC 
+#EXTINF:-1 tvg-logo="http://www.hollywoodreporter.com/sites/default/files/2013/01/bbc_news.png",BBC 
 http://kb1.ottclub.info:443/kitty/c677.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/BBC_Persian_logo.svg/640px-BBC_Persian_logo.svg.png",BBC PERSIAN
@@ -34,7 +37,7 @@ http://selevision9883-i.akamaihd.net/hls/live/219254/98838/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/1280px-Cnn.svg.png", CNN SD
 http://kb1.ottclub.info:443/kitty/c675.stream/playlist.m3u8
 
-#EXTINF:-1,CGTN
+#EXTINF:-1 tvg-logo="http://www.rologo.com/images/uploads/2017/01/cgtn-logo-13.jpg",CGTN
 http://183.251.61.207/PLTV/88888888/224/3221225822/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cpac.ca/wp-content/themes/cpac/_resources/_images/structure/642x220_cpac_main_logo.png",CPAC
@@ -112,6 +115,9 @@ http://liveclass.edgesuite.net/i/classcnbc_1@199799/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tivu.tv/_common/images/cover-canali/rai-news.jpg", RAI NEWS
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://img01.thedrum.com/s3fs-public/drum_basic_article/90586/main_images/sky%20news.jpg",Sky News
+http://80.25.87.6:9981/stream/channelid/1867717695
 
 #EXTINF:-1 tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/01/Sky-News-Arabia.png",Sky news
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
