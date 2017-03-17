@@ -1886,6 +1886,123 @@ http://94.43.239.178:8080/CHANNEL752/BITRATE0/playlist.m3u8
 http://94.43.239.178:8080/CHANNEL846/BITRATE0/playlist.m3u8
 
 
+#EXTINF:-1 group-title=RUSSIAN CHANNELS 2,tvg-logo="http://www.cineymas.com.ar/wp-content/uploads/2015/03/TNT-Series-Logo-660x460.jpg",2x2
+http://46.20.79.70:4022/udp/233.12.144.2:5050
+#EXTINF:-1,A-One
+http://46.20.79.70:4022/udp/233.12.144.3:5050
+#EXTINF:-1,Bridge
+http://46.20.79.70:4022/udp/233.12.144.4:5050
+#EXTINF:-1,Nautical Channel
+http://46.20.79.70:4022/udp/233.12.144.11:5050
+#EXTINF:-1,NickelodeonSD
+http://46.20.79.70:4022/udp/233.12.144.12:5050
+#EXTINF:-1,Ru TV
+http://46.20.79.70:4022/udp/233.12.144.14:5050
+#EXTINF:-1,Top Shop
+http://46.20.79.70:4022/udp/233.12.144.15:5050
+#EXTINF:-1,Sony Turbo
+http://46.20.79.70:4022/udp/233.12.144.16:5050
+#EXTINF:-1,AXN-ScFi-RU
+http://46.20.79.70:4022/udp/233.12.144.17:5050
+#EXTINF:-1,Spas
+http://46.20.79.70:4022/udp/233.12.144.21:5050
+#EXTINF:-1,Perec
+http://46.20.79.70:4022/udp/233.12.144.25:5050 
+#EXTINF:-1,Zee
+http://46.20.79.70:4022/udp/233.12.144.27:5050
+#EXTINF:-1,Vremya
+http://46.20.79.70:4022/udp/233.12.144.29:5050
+#EXTINF:-1,Detsky
+http://46.20.79.70:4022/udp/233.12.144.30:5050
+#EXTINF:-1,Disney
+http://46.20.79.70:4022/udp/233.12.144.32:5050
+#EXTINF:-1,Dom Kino
+http://46.20.79.70:4022/udp/233.12.144.33:5050
+#EXTINF:-1,Domashniy
+http://46.20.79.70:4022/udp/233.12.144.34:5050
+#EXTINF:-1,Drive
+http://46.20.79.70:4022/udp/233.12.144.35:5050
+#EXTINF:-1,Zvezda
+http://46.20.79.70:4022/udp/233.12.144.36:5050
+#EXTINF:-1,Karusel
+http://46.20.79.70:4022/udp/233.12.144.39:5050
+#EXTINF:-1,Illuzion+
+http://46.20.79.70:4022/udp/233.12.144.38:5050
+#EXTINF:-1,Yuvelirochka
+http://46.20.79.70:4022/udp/233.12.144.43:5050
+#EXTINF:-1,Mir24
+http://46.20.79.70:4022/udp/233.12.144.44:5050
+#EXTINF:-1,MuzTV
+http://46.20.79.70:4022/udp/233.12.144.46:5050
+#EXTINF:-1,Muzika Pervogo
+http://46.20.79.70:4022/udp/233.12.144.47:5050
+#EXTINF:-1,ObTV
+http://46.20.79.70:4022/udp/233.12.144.53:5050
+#EXTINF:-1,Ohota i ribalka
+http://46.20.79.70:4022/udp/233.12.144.54:5050 
+#EXTINF:-1,Pyatnica
+http://46.20.79.70:4022/udp/233.12.144.58:5050
+#EXTINF:-1,RBC
+http://46.20.79.70:4022/udp/233.12.144.60:5050
+#EXTINF:-1,Radost Moya
+http://46.20.79.70:4022/udp/233.12.144.59:5050
+#EXTINF:-1,Retro
+http://46.20.79.70:4022/udp/233.12.144.61:5050
+#EXTINF:-1,Rossiya 24 Region
+http://46.20.79.70:4022/udp/233.12.144.63:5050
+#EXTINF:-1,Rossiya HD
+http://46.20.79.70:4022/udp/233.12.144.64:5050
+#EXTINF:-1,RusskiyIlluzionTV
+http://46.20.79.70:4022/udp/233.12.144.67:5050
+#EXTINF:-1,5 Channel
+http://46.20.79.70:4022/udp/233.12.144.70:5050
+#EXTINF:-1,TV3
+http://46.20.79.70:4022/udp/233.12.144.74:5050
+#EXTINF:-1,TNT
+http://46.20.79.70:4022/udp/233.12.144.78:5050
+#EXTINF:-1,Telecafe
+http://46.20.79.70:4022/udp/233.12.144.76:5050
+#EXTINF:-1,Tatarstan NV
+http://46.20.79.70:4022/udp/233.12.144.77:5050
+#EXTINF:-1,U
+http://46.20.79.70:4022/udp/233.12.144.80:5050
+#EXTINF:-1,Usadba
+http://46.20.79.70:4022/udp/233.12.144.79:5050
+#EXTINF:-1,Service 1
+http://46.20.79.70:4022/udp/233.12.144.81:5050
+#EXTINF:-1,MTV HD
+http://46.20.79.70:4022/udp/233.12.144.84:5050
+#EXTINF:-1,Paramount Comedy HD
+http://46.20.79.70:4022/udp/233.12.144.83:5050
+#EXTINF:-1,Nick Jr
+http://46.20.79.70:4022/udp/233.12.144.85:5050
+#EXTINF:-1,MTV Rocks
+http://46.20.79.70:4022/udp/233.12.144.86:5050
+#EXTINF:-1,VH-1 Classic
+http://46.20.79.70:4022/udp/233.12.144.87:5050
+#EXTINF:-1,Mir HD
+http://46.20.79.70:4022/udp/233.12.144.90:5050
+#EXTINF:-1,ProDengi
+http://46.20.79.70:4022/udp/233.12.144.91:5050
+#EXTINF:-1,STS Love
+http://46.20.79.70:4022/udp/233.12.144.92:5050
+#EXTINF:-1,Amedia Hit HD
+http://46.20.79.70:4022/udp/233.12.144.95:5050
+#EXTINF:-1,France24
+http://46.20.79.70:4022/udp/233.12.144.107:5050
+#EXTINF:-1,History SD
+http://46.20.79.70:4022/udp/233.12.144.108:5050
+#EXTINF:-1,Gulli
+http://46.20.79.70:4022/udp/233.12.144.110:5050
+#EXTINF:-1,Russkiy Ekstrim
+http://46.20.79.70:4022/udp/233.12.144.127:5050
+#EXTINF:-1,Amedia2 SD
+http://46.20.79.70:4022/udp/233.12.144.181:5050
+#EXTINF:-1,TNT-Comedy
+http://46.20.79.70:4022/udp/233.12.144.202:5050
+#EXTINF:-1,NasheTV
+http://46.20.79.70:4022/udp/233.12.144.203:5050
+
 
 #EXTINF:-1 group-title=TESTING CHANNELS,tvg-logo=http://www.cineymas.com.ar/wp-content/uploads/2015/03/TNT-Series-Logo-660x460.jpg",CNN Headline
 http://58ad68d0b6c8d.streamlock.net/ios/cnninews/playlist.m3u8
