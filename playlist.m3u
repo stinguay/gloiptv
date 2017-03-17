@@ -2004,6 +2004,56 @@ http://46.20.79.70:4022/udp/233.12.144.202:5050
 http://46.20.79.70:4022/udp/233.12.144.203:5050
 
 
+
+#EXTINF:-1,Animal Planet 
+http://81.95.225.148:8888/Animal_Planet
+#EXTINF:-1,Discovery 
+http://81.95.225.148:8888/Discovery
+#EXTINF:-1,Discovery Science 
+http://81.95.225.148:8888/Discovery_Science
+#EXTINF:-1,Disney канал 
+http://81.95.225.148:8888/Disney
+#EXTINF:-1,Дом Кино 
+http://81.95.225.148:8888/Dom_Kino
+#EXTINF:-1,EuroNews 
+http://81.95.225.148:8888/EuroNews
+#EXTINF:-1,Eurosport 1 
+http://81.95.225.148:8888/Eurosport
+#EXTINF:-1,Viasat Explorer 
+http://81.95.225.148:8888/Explorer
+#EXTINF:-1,МАТЧ! Футбол 1 
+http://81.95.225.148:8888/Futbol
+#EXTINF:-1,Viasat History 
+http://81.95.225.148:8888/History
+#EXTINF:-1,Кинопоказ 
+http://81.95.225.148:8888/Kinopokaz
+#EXTINF:-1,Родное кино 
+http://81.95.225.148:8888/Nashe_Kino
+#EXTINF:-1,Nat Geo Wild 
+http://81.95.225.148:8888/Nat_Geo_Wild
+#EXTINF:-1,National Geographic Channel 
+http://81.95.225.148:8888/National_Geographic_Channel
+#EXTINF:-1,Кинопремьера 
+http://81.95.225.148:8888/Premiera
+#EXTINF:-1,RU TV 
+http://81.95.225.148:8888/RUTV
+#EXTINF:-1,Ретро 
+http://81.95.225.148:8888/Retro
+#EXTINF:-1,МАТЧ! Арена 
+http://81.95.225.148:8888/Sport_1
+#EXTINF:-1,Телекафе 
+http://81.95.225.148:8888/Telekafe
+#EXTINF:-1,Звезда 
+http://81.95.225.148:8888/Zvezda
+#EXTINF:-1,Детский Мир 
+http://81.95.225.148:8888/Detskiy_Mir
+#EXTINF:-1,Карусель 
+http://81.95.225.148:8888/Karusel 
+#EXTINF:-1,Fashion TV 
+http://81.95.225.148:8888/Fashion_TV
+
+
+
 #EXTINF:-1 group-title=TESTING CHANNELS,tvg-logo=http://www.cineymas.com.ar/wp-content/uploads/2015/03/TNT-Series-Logo-660x460.jpg",CNN Headline
 http://58ad68d0b6c8d.streamlock.net/ios/cnninews/playlist.m3u8
 
