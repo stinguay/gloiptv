@@ -602,13 +602,13 @@ http://selevision9887-i.akamaihd.net/hls/live/219292/98876/1.m3u8
 http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_max&t=ar
 
 #EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/mbc_ae_action_hd.png", MBC ACTION HD
-http://selevision9888-i.akamaihd.net/hls/live/219296/98880/1.m3u8
+http://130.185.144.63:8081/jppw/MBCAction/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcactionhd.png" ,MBC ACTION HD link2
 http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_action&t=ar
 
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png", MBC BOLLYWOOD
-http://selevision9894-i.akamaihd.net/hls/live/219366/98949/1.m3u8
+http://130.185.144.63:8081/jppw/MBCBolywood/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcbollywood.png" ,MBC BOLLYWOOD link2
 http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_bollywood&t=ar
@@ -988,10 +988,10 @@ http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc1hd.png", MBC 1 SD
-http://9886.akamai.live.selevision.com/live/9886/98867/1.m3u8
+http://130.185.144.63:8081/jppw/MBC1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc2hd.png", MBC 2 HD
-http://selevision9882-i.akamaihd.net/hls/live/219193/98820/1.m3u8
+http://130.185.144.63:8081/jppw/MBC2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc3hd.png", MBC 3 HD
 http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
@@ -1000,16 +1000,16 @@ http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc4hd.png", MBC 4 HD
-http://selevision9880-i.akamaihd.net/hls/live/219176/98803/1.m3u8
+http://130.185.144.63:8081/jppw/MBC4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc%2Bdramahd.png", MBC DRAMA+ HD
-http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
+http://130.185.144.63:8081/jppw/MBCDrama/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcmaxhd.png", MBC MAX HD
 http://selevision9887-i.akamaihd.net/hls/live/219292/98876/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcactionhd.png", MBC ACTION HD
-http://selevision9888-i.akamaihd.net/hls/live/219296/98880/1.m3u8
+http://130.185.144.63:8081/jppw/MBCAction/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcactionhd.png" ,MBC ACTION HD link2
 http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_action&t=ar
