@@ -547,6 +547,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gslqpd_1300&tag=live&ext=m3u8&
 #EXTINF:-1,letv Run
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_paobu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
+
 #EXTINF:-1,letv Fight
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_boji_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
@@ -555,6 +556,12 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsyx_1300&tag=live&ext=m3u8&si
 
 #EXTINF:-1,letv E-sports
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzjj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="longlong",Rugby
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_glq_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="longlong",Racing
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_F1_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 
 #EXTINF:-1 group-title=MOVIE CHANNELS,tvg-logo="http://gulf-up.com/do.php?img=271408",STAR Movies HD
@@ -580,6 +587,10 @@ http://dlhls.cdn.zhanqi.tv/zqlive/120565_5TBad.m3u8
 
 #EXTINF:1,Glo Cinemax 7
 http://dlhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8
+
+#EXTINF:-1,Music film
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eTNZhrGWOKc/VO-ywqZ5aJI/AAAAAAAAArw/tvBYevLQidM/s1600/Dubai%2BOne%2BLogo.png", Dubai One HD
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
@@ -668,6 +679,45 @@ http://live.gslb.letv.com/gslb?stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=li
 http://live.gslb.letv.com/gslb?stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="Films" tvg-logo="https://s30.postimg.org/iln54dv8h/movie.jpg", ® LE MOVIES 3
 http://live.gslb.letv.com/gslb?stream_id=lb_hk_HKperiodMovies_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1,小众美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,热门美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rmmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_meiju_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,超级英雄
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cjyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,跟播美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,经典美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jdmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,罪案烧脑
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zasn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,科幻美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_khmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,奇幻美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qhmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,喜剧美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xjmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,年代剧场
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ndjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,虐恋美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_nlmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,高冷美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_glmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,单元美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dymj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,肥皂美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,American drama 1
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzywmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,American drama 2
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,American drama 3
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qcoxmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,Zhang Ziyi Movie
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhangziyi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 
 
@@ -1029,23 +1079,25 @@ http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
 #EXTINF:-1,AnimalWorld
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
+#EXTINF:-1,Le Documentary
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1,Le FASHION
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fengshang_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
 #EXTINF:-1,DUBAI TV
 http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1,Amazing Facts TV
 http://bglive-w.bitgravity.com/amazingfacts/live/feed01
 
-#EXTINF:-1,Fashion TV
-http://37.194.121.4:1234/udp/239.1.3.13:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png", Russia Today
 http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index1600.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png", Russia Documentary
-http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.gospanishnow.com/wp-content/uploads/2015/12/Discovery-Channel-HD.png", DISCOVERY CHANNEL
 http://208.86.19.13:8080/live/31.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA TV HD
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/GONG-TV.SD.png", GONG
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://a398.idata.over-blog.com/5/70/95/81/CCC-images-suite/RMC-DECOUVERTE.jpg", RMC
@@ -2260,66 +2312,6 @@ http://89.38.8.131:39554
 http://89.38.8.131:39559
 
 
-
-
-#EXTINF:-1,Action Max 
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/353.rtmp
-#EXTINF:-1,AMC HD
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/314.rtmp
-#EXTINF:-1,Animal Planet HD
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/262.rtmp
-#EXTINF:-1,Cartoon Network 
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/258.rtmp
-#EXTINF:-1,Cinemax
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/350.rtmp
-#EXTINF:-1,Cinemax Thrillermax
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/313.rtmp
-#EXTINF:-1,Comedy Central
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/257.rtmp
-#EXTINF:-1,Discovery Channel
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/255.rtmp
-#EXTINF:-1,Discovery Science 
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/206.rtmp
-#EXTINF:-1,Disney Channel
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/347.rtmp
-#EXTINF:-1,FOX HD
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/318.rtmp
-#EXTINF:-1,FX
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/324.rtmp
-#EXTINF:-1,FXX
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/323.rtmp
-#EXTINF:-1,History 2
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/309.rtmp
-#EXTINF:-1,History 1
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/251.rtmp
-#EXTINF:-1,Hunting and Fishing 
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/305.rtmp
-#EXTINF:-1,Nat Geo Wild
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/157.rtmp
-#EXTINF:-1,Nat Geo Channel
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/247.rtmp
-#EXTINF:-1,NickJr
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/333.rtmp
-#EXTINF:-1,Nick
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/334.rtmp
-#EXTINF:-1,Nickolodeon
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/265.rtmp
-#EXTINF:-1,Showtime
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/332.rtmp
-#EXTINF:-1,Showtime 2
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/331.rtmp
-#EXTINF:-1,Starz Cinema
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/328.rtmp
-#EXTINF:-1,Starz East 
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/329.rtmp
-#EXTINF:-1,Syfy
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/245.rtmp
-#EXTINF:-1,The Movie Network
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/121.rtmp
-#EXTINF:-1,Fox Sport 1
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/188.rtmp
-#EXTINF:-1,Fox Sport 2
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/187.rtmp
 
 
 
@@ -3829,8 +3821,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_1300&tag=live&ext=m3u8&s
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",1080P
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",乐视动作电影
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
 #EXTINF:-1 group-title="longlong",香港电影
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",喜剧电影
@@ -4094,44 +4085,13 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_atm_1300&tag=live&ext=m3u8&sig
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bllxmx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",欧美卡通
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_omkt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",小众美剧
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",热门美剧
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rmmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
 #EXTINF:-1 group-title="longlong",都市剧场
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dsjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",脱单剧场
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",美剧
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_meiju_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",超级英雄
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cjyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",跟播美剧
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",经典美剧
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jdmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",罪案烧脑
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zasn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",科幻美剧
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_khmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",奇幻美剧
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qhmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",喜剧美剧
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xjmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",年代剧场
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ndjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",虐恋美剧
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_nlmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",高冷美剧
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_glmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",单元美剧
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dymj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",肥皂美剧
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",律政医务美剧
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzywmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",热血动作美剧
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
 #EXTINF:-1 group-title="longlong",重播之王
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cbzw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",神话剧场
@@ -4156,8 +4116,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cljc_1300&tag=live&ext=m3u8&si
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",姐妹淘剧场
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jmtjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",青春偶像美剧
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qcoxmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
 #EXTINF:-1 group-title="longlong",汪峰
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wf_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",邓紫棋
@@ -4190,8 +4149,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xuke_1300&tag=live&ext=m3u8&si
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hxm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",苏芒
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sumang_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",章子怡
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhangziyi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
 #EXTINF:-1 group-title="longlong",沈傲君
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_saj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",叶璇
@@ -4234,7 +4192,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lkw_1300&tag=live&ext=m3u8&sig
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cxc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",包贝尔
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bbe_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",乔任梁
+#EXTINF:-1 group-title="longlong",Qiao Renliang Movie
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qrl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",姜武
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -4244,9 +4202,9 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yz_1300&tag=live&ext=m3u8&sign
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",杜海涛
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dht_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",柳岩
+#EXTINF:-1 group-title="longlong",Liu Yan Movie
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ly_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",陈赫
+#EXTINF:-1 group-title="longlong",Chenhe Movie
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_chenhe_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",高露
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -4494,7 +4452,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zzl_1300&tag=live&ext=m3u8&sig
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_myl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",黄百鸣
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hbm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",王宝强
+#EXTINF:-1 group-title="longlong",Baoqiang Wang
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wbq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",余心恬
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yxt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -4614,8 +4572,6 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ms_1300&tag=live&ext=m3u8&sign
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",帆船
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",橄榄球
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_glq_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",台球
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_taiqiu_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",网球
@@ -4644,14 +4600,8 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_yijia_1300&tag=live&ext=m3u
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_yingchao_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",法甲
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_fajia_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",赛车
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_F1_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",自行车
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zixingche_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",跑步
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_paobu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",搏击
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_boji_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",乐视游戏
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",乐视生态
@@ -4666,8 +4616,6 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mzb_1300&tag=live&ext=m3u8&sig
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_nzsjb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",综合
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zonghe_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",乐视电影
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",乐视1080P
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",乐视音乐
@@ -4676,8 +4624,6 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_music_350&tag=live&ext=m3u8&si
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",乐视动漫
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_comic_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",科教.纪录片
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",电影片花
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_trailer_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",乐视综艺
@@ -4696,8 +4642,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_concert_720p&tag=live&ext=m3u8
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yule_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",乐视MV
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="longlong",乐视风尚
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fengshang_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
 #EXTINF:-1 group-title="longlong",古典音乐
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_classical_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="longlong",乐视戏曲
