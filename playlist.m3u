@@ -565,7 +565,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_F1_1800&tag=live&ext=m3u8&sign
 
 
 #EXTINF:-1 group-title=MOVIE CHANNELS,tvg-logo="http://gulf-up.com/do.php?img=271408",STAR Movies HD
-http://9898.akamai.live.selevision.com/live/9898/98988/master.m3u8
+http://130.185.144.63:8081/jppw/starmovieshd/playlist.m3u8
 
 #EXTINF:-1,Glo Cinemax 1
 http://dlhls.cdn.zhanqi.tv/zqlive/75885_IvfFq.m3u8
