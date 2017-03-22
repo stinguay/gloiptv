@@ -2575,171 +2575,107 @@ http://kb1.ottclub.info:443/kitty/c675.stream/playlist.m3u8
 http://kb1.ottclub.info:443/kitty/c677.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",BBClifestyle
 http://kb1.ottclub.info:443/kitty/c719.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",公视
+#EXTINF:-1 group-title= "LONGLONG", public television
 http://kb1.ottclub.info:443/kitty/c656.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",Z频道
+#EXTINF:-1 group-title= "LONGLONG", z channels
 http://kb1.ottclub.info:443/kitty/c729.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",民视
+#EXTINF:-1 group-title= "LONGLONG" FTV
 http://kb1.ottclub.info:443/kitty/c723.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",民视湾
+#EXTINF:-1 group-title= "LONGLONG", the video Bay
 http://kb1.ottclub.info:443/kitty/c693.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",湾电视
+#EXTINF:-1 group-title= "LONGLONG", Bay television
 http://kb1.ottclub.info:443/kitty/c558.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",中视
+#EXTINF:-1 group-title= "LONGLONG", the TV
 http://kb1.ottclub.info:443/kitty/c701.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",BRAVO菁采
+#EXTINF:-1 group-title= "LONGLONG" BRAVO the best mining
 http://kb1.ottclub.info:443/water/c739.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",大爱
+#EXTINF:-1 group-title= "LONGLONG", love
 http://kb1.ottclub.info:443/water/c559.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",华视
+#EXTINF:-1 group-title= "LONGLONG", CTS
 http://kb1.ottclub.info:443/kitty/c721.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",探索科学
+#EXTINF:-1 group-title= "LONGLONG", explore the science
 http://kb1.ottclub.info:443/kitty/c747.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",DMAX
 http://kb1.ottclub.info:443/kitty/c700.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",EVE
 http://kb1.ottclub.info:443/kitty/c743.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",国家地理野生
+#EXTINF:-1 group-title= "LONGLONG", national geographic wild
 http://kb1.ottclub.info:443/kitty/c707.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",国家地理频道
+#EXTINF:-1 group-title= "LONGLONG", National Geographic Channel
 http://kb1.ottclub.info:443/water/c706.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",Discovery
 http://kb1.ottclub.info:443/water/c744.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",TLC
 http://kb1.ottclub.info:443/water/c670.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",动物星球
+#EXTINF:-1 group-title= "LONGLONG", animal planet
 http://kb1.ottclub.info:443/water/c676.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",卡通频道
+#EXTINF:-1 group-title= "LONGLONG", cartoon network
 http://kb1.ottclub.info:443/water/c678.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",迪士尼频道
+#EXTINF:-1 group-title= "LONGLONG", Disney Channel
 http://kb1.ottclub.info:443/water/c698.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",MOMO亲子
+#EXTINF:-1 group-title= "LONGLONG" MOMO parent-child
 http://kb1.ottclub.info:443/kitty/c668.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",东森幼幼
+#EXTINF:-1 group-title= "LONGLONG", Eastern young young
 http://kb1.ottclub.info:443/water/c727.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",纬来综合
+#EXTINF:-1 group-title= "LONGLONG", Wei General
 http://kb1.ottclub.info:443/kitty/c735.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",八大第一
+#EXTINF:-1 group-title= "LONGLONG", the eight first
 http://kb1.ottclub.info:443/water/c657.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",八大综合
+#EXTINF:-1 group-title= "LONGLONG", eight integrated
 http://kb1.ottclub.info:443/water/c697.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",三立湾
+#EXTINF:-1 group-title= "LONGLONG" sanli Bay
 http://kb1.ottclub.info:443/water/c696.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",三立都会
+#EXTINF:-1 group-title= "LONGLONG" sanli
 http://kb1.ottclub.info:443/water/c659.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",卫视中文
+#EXTINF:-1 group-title= "LONGLONG", Star TV's Chinese
 http://kb1.ottclub.info:443/water/c658.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",东森综合
+#EXTINF:-1 group-title= "LONGLONG", Eastern consolidated
 http://kb1.ottclub.info:443/kitty/c737.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",超视
+#EXTINF:-1 group-title= "LONGLONG", Super
 http://kb1.ottclub.info:443/kitty/c695.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",ChannalM
 http://kb1.ottclub.info:443/kitty/c740.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",KMTV
 http://kb1.ottclub.info:443/kitty/c718.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",中天综合
+#EXTINF:-1 group-title= "LONGLONG", PTV
 http://kb1.ottclub.info:443/water/c720.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",东风卫视
+#EXTINF:-1 group-title= "LONGLONG", Asia Plus
 http://kb1.ottclub.info:443/kitty/c714.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",Much
 http://kb1.ottclub.info:443/kitty/c726.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",中天娱乐
+#EXTINF:-1 group-title= "LONGLONG", Sky Entertainment
 http://kb1.ottclub.info:443/water/c728.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",东森戏剧
+#EXTINF:-1 group-title= "LONGLONG" Eastern plays
 http://kb1.ottclub.info:443/water/c669.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",八大戏剧
+#EXTINF:-1 group-title= "LONGLONG", eight large play
 http://kb1.ottclub.info:443/water/c715.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",TVBS欢乐
+#EXTINF:-1 group-title= "LONGLONG" TVBS joy
 http://kb1.ottclub.info:443/water/c660.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",纬来戏剧
+#EXTINF:-1 group-title= "LONGLONG", latitude to play
 http://kb1.ottclub.info:443/water/c710.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",星卫娱乐
+#EXTINF:-1 group-title= "LONGLONG" star David entertainment
 http://kb1.ottclub.info:443/kitty/c742.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",卫视合家欢
+#EXTINF:-1 group-title= "LONGLONG", TV family
 http://kb1.ottclub.info:443/kitty/c711.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",JET综合
+#EXTINF:-1 group-title= "LONGLONG", integrated JET
 http://kb1.ottclub.info:443/water/c725.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",DIVA
 http://kb1.ottclub.info:443/water/c679.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",SYFY
 http://kb1.ottclub.info:443/kitty/c716.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",一电视新闻
+#EXTINF:-1 group-title= "LONGLONG", a TV news
 http://kb1.ottclub.info:443/water/c732.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",年代新闻
+#EXTINF:-1 group-title= "LONGLONG", dating news
 http://kb1.ottclub.info:443/water/c736.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",东森新闻
+#EXTINF:-1 group-title= "LONGLONG", ettv news
 http://kb1.ottclub.info:443/water/c691.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",中天新闻
+#EXTINF:-1 group-title= "LONGLONG", Sky News
 http://kb1.ottclub.info:443/water/c688.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",民视新闻
+#EXTINF:-1 group-title= "LONGLONG", the news
 http://kb1.ottclub.info:443/water/c687.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",三立新闻
+#EXTINF:-1 group-title= "LONGLONG" Sanlih news
 http://kb1.ottclub.info:443/water/c661.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",TVBS新闻
-http://kb1.ottclub.info:443/water/c662.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",TVBS
-http://kb1.ottclub.info:443/water/c689.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",东森财经新闻
-http://kb1.ottclub.info:443/water/c733.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",非凡新闻
-http://kb1.ottclub.info:443/water/c712.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",FOXCRIME
-http://kb1.ottclub.info:443/kitty/c655.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",一综合
-http://kb1.ottclub.info:443/kitty/c738.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",卫视电影
-http://kb1.ottclub.info:443/kitty/c667.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",东森电影
-http://kb1.ottclub.info:443/water/c734.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",星卫电影
-http://kb1.ottclub.info:443/water/c705.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",美亚电影
-http://kb1.ottclub.info:443/kitty/c704.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",HBO
-http://kb1.ottclub.info:443/water/c685.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",东森洋片
-http://kb1.ottclub.info:443/water/c694.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",福斯家庭电影
-http://kb1.ottclub.info:443/water/c702.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",Universal
-http://kb1.ottclub.info:443/kitty/c703.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",StarMovies
-http://kb1.ottclub.info:443/water/c746.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",CINEMAX
-http://kb1.ottclub.info:443/water/c699.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",纬来育乐
-http://kb1.ottclub.info:443/kitty/c666.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",纬来体育
-http://kb1.ottclub.info:443/water/c663.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",FOX3
-http://kb1.ottclub.info:443/water/c730.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",卫视体育
-http://kb1.ottclub.info:443/kitty/c665.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",纬来日本
-http://kb1.ottclub.info:443/water/c664.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",爱尔达体育
-http://kb1.ottclub.info:443/kitty/c717.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",国兴卫视
-http://kb1.ottclub.info:443/water/c713.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",FOX
-http://kb1.ottclub.info:443/water/c731.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",HBO原创
-http://kb1.ottclub.info:443/kitty/c690.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",HBO强档
-http://kb1.ottclub.info:443/kitty/c684.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",HBO温馨
-http://kb1.ottclub.info:443/kitty/c686.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",博斯高球II
-http://kb1.ottclub.info:443/kitty/c709.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",ANIMAX
-http://kb1.ottclub.info:443/kitty/c708.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",GOLFCHANNAL
-http://kb1.ottclub.info:443/kitty/c722.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",BabyTV
-http://kb1.ottclub.info:443/kitty/c724.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",MTV
-http://kb1.ottclub.info:443/kitty/c741.stream/playlist.m3u8
-#EXTINF:-1 group-title="longlong",霹雳湾
+#EXTINF:-1 group-title= "LONGLONG", TVBS news
 http://kb1.ottclub.info:443/water/c673.stream/playlist.m3u8
 #EXTINF:-1 group-title="longlong",ELEVENSPORTS
 http://kb1.ottclub.info:443/water/c560.stream/playlist.m3u8
