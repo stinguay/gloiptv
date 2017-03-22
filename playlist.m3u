@@ -743,33 +743,9 @@ http://176.106.66.156:8086/udp/239.71.92.46:1234
 #EXTINF:-1,MTV CHINA
 http://222.191.24.43:6610/004/2/ch00000090990000001154/index.m3u8?ispcode=3
 
-#EXTINF:-1,TraceURBAN音乐
-http://210.201.54.102/live2/traceurban.sdp/playlist.m3u8
-
-#EXTINF:-1,FOXCRIMEHD
-http://hp3.ottclub.info:1935/live/c655.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
-
-#EXTINF:-1,Channel[V]音乐
-http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000191
-
-#EXTINF:-1,AXN
-http://59.120.41.145/sta/ch5168034.m3u8
-
-#EXTINF:-1,CNN
-http://92.62.234.222:2222/udp/239.22.1.107:1234
 
 #EXTINF:-1,fixHD
 http://video.fixhd.tv:1935/fix/hd.stream/index.m3u8
-
-#EXTINF:-1,FLOW RAP AND R&B NONSTOP
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
-#EXTINF:-1,NASHVILLE THE BEST COUNTRY 24/7
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
-#EXTINF:-1,HITS ALL THE HITS 24/7
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
-
-#EXTINF:-1,SYFY
-http://iptv-blue.mine.nu/fwtv/71f197de056e499a85265c03b44bdab1.m3u8
 
 
 
@@ -834,6 +810,61 @@ http://www.djing.com/tv/i-05.m3u8
 http://cdn.djing.com/tv/d-05.m3u8
 #EXTINF:0,Djing Underground HD
 http://cdn.djing.com/tv/u-05.m3u8
+
+
+
+#EXTINF:-1,Alternative alternative
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/122/chunklist.m3u8
+#EXTINF:-1,Brits + Hits the UK hot song
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/143/chunklist.m3u8
+#EXTINF:-1,Brits + Hits the UK hot song
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/127/chunklist.m3u8
+#EXTINF:-1,Dance/EDM dance
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/127/chunklist.m3u8
+#EXTINF:-1,Hip-Hop And R&B Hip Hop Blues
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/106/chunklist.m3u8
+#EXTINF:-1,Hit List hot song
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/100/chunklist.m3u8
+#EXTINF:-1,Indie editorial independence
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/129/chunklist.m3u8
+#EXTINF:-1,Metal metal rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/139/chunklist.m3u8
+#EXTINF:-1,Pop rural and Country pop
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/132/chunklist.m3u8
+#EXTINF:-1,Pop Hits popular hot songs
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/133/chunklist.m3u8
+#EXTINF:-1,R&B Soul rhythm and blues
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/124/chunklist.m3u8
+#EXTINF:-1,Rap rap
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/125/chunklist.m3u8
+#EXTINF:-1,Rap 2K rap
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/141/chunklist.m3u8
+#EXTINF:-1,Rock Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/138/chunklist.m3u8
+#EXTINF:-1,Teen Beats young rhythm
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/118/chunklist.m3u8
+#EXTINF:-1,Todays Country today village
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/121/chunklist.m3u8
+#EXTINF:-1,90s 90
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/140/chunklist.m3u8
+#EXTINF:-1,Throwback Jamz nostalgia
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/142/chunklist.m3u8
+#EXTINF:-1,Y2K 20
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/145/chunklist.m3u8
+#EXTINF:-1,Mexicana Mexico
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/131/chunklist.m3u8
+#EXTINF:-1,Musica Urbana Latin city
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/128/chunklist.m3u8
+#EXTINF:-1,Pop Latino Latin pop
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/123/chunklist.m3u8
+#EXTINF:-1,Tropicales hot
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/137/chunklist.m3u8
+#EXTINF:-1,Kidz Only! in children
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/130/chunklist.m3u8
+#EXTINF:-1,Toddler Tunes for children
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/144/chunklist.m3u8
+#EXTINF:-1,MC Play called mark plays
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
 
 #EXTINF:-1 group-title=RELIGIOUS  CHANNELS,tvg-logo="http://www.tv14.net/wp-content/uploads/2010/01/CBN-News.jpg",CBN
