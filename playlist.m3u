@@ -743,6 +743,34 @@ http://176.106.66.156:8086/udp/239.71.92.46:1234
 #EXTINF:-1,MTV CHINA
 http://222.191.24.43:6610/004/2/ch00000090990000001154/index.m3u8?ispcode=3
 
+#EXTINF:-1,TraceURBAN音乐
+http://210.201.54.102/live2/traceurban.sdp/playlist.m3u8
+
+#EXTINF:-1,FOXCRIMEHD
+http://hp3.ottclub.info:1935/live/c655.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
+
+#EXTINF:-1,Channel[V]音乐
+http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000191
+
+#EXTINF:-1,AXN
+http://59.120.41.145/sta/ch5168034.m3u8
+
+#EXTINF:-1,CNN
+http://92.62.234.222:2222/udp/239.22.1.107:1234
+
+#EXTINF:-1,fixHD
+http://video.fixhd.tv:1935/fix/hd.stream/index.m3u8
+
+#EXTINF:-1,FLOW RAP AND R&B NONSTOP
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
+#EXTINF:-1,NASHVILLE THE BEST COUNTRY 24/7
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
+#EXTINF:-1,HITS ALL THE HITS 24/7
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+
+#EXTINF:-1,SYFY
+http://iptv-blue.mine.nu/fwtv/71f197de056e499a85265c03b44bdab1.m3u8
+
 
 
 #EXTINF:-1,Radionorba Tv
@@ -1245,6 +1273,9 @@ http://77.92.76.135:1935/tvce/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/TVC_News_Africa.jpg/200px-TVC_News_Africa.jpg",TVC News
 http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.photos.apo-opa.com/plog-content/images/apo/logos/channelstv.jpg",Channels TV
+http://67.212.234.94:1935/live/mobile2/playlist.m3u8
+
 #EXTINF:-1,alhadath LIBYAS TV 
 http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
 
@@ -1265,7 +1296,6 @@ rtmp://188.166.159.188:1935/live/nbs
 
 #EXTINF:-1, ANN7 Haber SOUTH AFRICA
 rtmp://46.4.25.213/live-ann7/ann7-hi.stream
-
 
 #EXTINF:-1,STAR TV TANZANIA
 http://hls1.livestreamingcdn.com/livecdn858/livecdn858/playlist.m3u8
