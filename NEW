@@ -1,0 +1,559 @@
+#EXTM3U
+#EXTINF:-1 group-title=NEWS CHANNELS, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png",Aljazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.hollywoodreporter.com/sites/default/files/2013/01/bbc_news.png",BBC 
+http://kb1.ottclub.info:443/kitty/c677.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/1280px-Cnn.svg.png", CNN
+http://selevision9883-i.akamaihd.net/hls/live/219254/98838/1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.rologo.com/images/uploads/2017/01/cgtn-logo-13.jpg",CGTN
+http://183.251.61.207/PLTV/88888888/224/3221225822/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cpac.ca/wp-content/themes/cpac/_resources/_images/structure/642x220_cpac_main_logo.png",CPAC
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://jcpa-lecape.org/wp-content/uploads/2014/08/france24.jpg",France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/960/img/photos/2014/01/28/cb/e4/FOX23_News_logo.jpg",FOX 23 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.wikia.nocookie.net/__cb20120408185250/logopedia/images/b/b9/WFXT_Fox_25_logo.jpg",FOX 25 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8
+
+#EXTINF:-1 tvg-logo="http://mediaweb.actionnewsjax.com/photo/2017/01/01/FOX30%20SOLO_20170102001005265_6945616_ver1.0_640_360.jpg",FOX 30 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.trakomatic.com/img/logo/cna_bar.png",Channel News Asia
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://aitogether.org/wp-content/uploads/2016/05/newsmax-tv-logo-480x360.jpg", Newsmax TV
+http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/NewsX-logo.jpg", News X HD
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png",NHK World
+https://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/200px-RT_America_Logo.png",RT America
+http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
+
+
+
+#EXTINF:-1 group-title=MOVIE CHANNELS,tvg-logo="http://gulf-up.com/do.php?img=271408",STAR Movies HD
+http://130.185.144.63:8081/jppw/starmovieshd/playlist.m3u8
+
+#EXTINF:-1,Glo Cinemax 1
+http://dlhls.cdn.zhanqi.tv/zqlive/75885_IvfFq.m3u8
+
+#EXTINF:1,Glo Cinemax 2
+http://dlhls.cdn.zhanqi.tv/zqlive/90819_iMmHS.m3u8
+
+#EXTINF:1,Glo Cinemax 3
+http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+
+#EXTINF:1,Glo Cinemax 4
+http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+
+#EXTINF:1,Glo Cinemax 5
+http://dlhls.cdn.zhanqi.tv/zqlive/45188_oT6Ed.m3u8
+
+#EXTINF:1,Glo Cinemax 6
+http://dlhls.cdn.zhanqi.tv/zqlive/120565_5TBad.m3u8
+
+#EXTINF:1,Glo Cinemax 7
+http://dlhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8
+
+#EXTINF:-1,FOX
+http://kb1.ottclub.info:443/water/c731.stream/playlist.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://kb1.ottclub.info:443/kitty/c690.stream/playlist.m3u8
+#EXTINF:-1,HBO HITS
+http://kb1.ottclub.info:443/kitty/c684.stream/playlist.m3u8
+#EXTINF:-1,HBO FAMILY
+http://kb1.ottclub.info:443/kitty/c686.stream/playlist.m3u8
+#EXTINF:-1,GOLF
+http://kb1.ottclub.info:443/kitty/c709.stream/playlist.m3u8
+#EXTINF:-1,ANIMAX
+http://kb1.ottclub.info:443/kitty/c708.stream/playlist.m3u8
+#EXTINF:-1,HBO
+http://kb1.ottclub.info:443/water/c685.stream/playlist.m3u8
+#EXTINF:-1,CBC HISTORY
+http://kb1.ottclub.info:443/water/c694.stream/playlist.m3u8
+#EXTINF:-1,FOX FAMILY 
+http://kb1.ottclub.info:443/water/c702.stream/playlist.m3u8
+#EXTINF:-1,Universal
+http://kb1.ottclub.info:443/kitty/c703.stream/playlist.m3u8
+#EXTINF:-1,StarMovies
+http://kb1.ottclub.info:443/water/c746.stream/playlist.m3u8
+#EXTINF:-1,CINEMAX
+http://kb1.ottclub.info:443/water/c699.stream/playlist.m3u8
+#EXTINF:-1,STAR WORLD
+http://kb1.ottclub.info:443/kitty/c711.stream/playlist.m3u8
+#EXTINF:-1,AXN
+http://kb1.ottclub.info:443/water/c679.stream/playlist.m3u8
+#EXTINF:-1,SYFY
+http://kb1.ottclub.info:443/kitty/c716.stream/playlist.m3u8
+ 
+#EXTINF:-1,Zing 
+http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp.m3u8
+
+#EXTINF:-1,Music film
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eTNZhrGWOKc/VO-ywqZ5aJI/AAAAAAAAArw/tvBYevLQidM/s1600/Dubai%2BOne%2BLogo.png", Dubai One HD
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-fkYU25SKsBo/VVuC2gwLw3I/AAAAAAAAAyM/v7Y2hY6yFyU/s1600/MBC-Max.PNG", MBC MAX HD
+http://selevision9887-i.akamaihd.net/hls/live/219292/98876/1.m3u8
+
+#EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/mbc_ae_action_hd.png", MBC ACTION HD
+http://130.185.144.63:8081/jppw/MBCAction/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png", MBC BOLLYWOOD
+http://130.185.144.63:8081/jppw/MBCBolywood/playlist.m3u8
+
+#EXTINF:-1, ® FOX ENTERTAINENT
+http://45.116.168.103:1935/live/bs16.stream/playlist.m3u8
+
+#EXTINF:-1, ® UNIVERSAL MOVIES
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1, ® MOVIES Mello Tv
+http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://s29.postimg.org/s0s7nmr87/cinemaworld.jpg", CINEMA WORLD
+http://live.gslb.letv.com/gslb?stream_id=pay_cinema_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://s29.postimg.org/6pw7rymk7/hollywoodmovie.jpg",Hollywood movie
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1,LE Movies 
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1,LE Action
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg", ® TOM & JERRY
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+#EXTINF:-1 group-title=MUSIC CHANNELS,tvg-logo="http://gulf-up.com/do.php?img=271",The Edge
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master.m3u8
+
+#EXTINF:0,Hit TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+
+#EXTINF:-1,KroneHit TV
+http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
+
+#EXTINF:-1,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0,MTV Dance
+http://176.106.66.156:8086/udp/239.71.92.46:1234
+
+#EXTINF:-1,MTV CHINA
+http://kb1.ottclub.info:443/kitty/c741.stream/playlist.m3u8
+
+#EXTINF:-1,Radionorba Tv
+http://85.17.80.132:80/radionorbatv/norbatv_source.stream/playlist.m3u8
+
+#EXTINF:-1,Radio bruno tv
+http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8
+
+#EXTINF:-1,JuCeTV US
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
+
+#EXTINF:-1,MUZ TV
+http://85.132.78.6:1935/live/muztv.stream/lihattv.m3u8
+
+#EXTINF:-1,SiTV
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+
+#EXTINF:-1,Vibee TV
+http://46.101.21.42:8081/live/live2/chunks.m3u8
+
+#EXTINF:-1,Beatz
+http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
+
+#EXTINF:-1,Radio Virgin TV
+http://fms.105.net:1935/live/virgin1/playlist.m3u8
+
+#EXTINF:-1,Indies Live
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+
+#EXTINF:-1,Heartv 
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:0,Telehit
+http://159.203.63.115:8081/rstm/Telehit/playlist.m3u8
+
+#EXTINF:-1,M6
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+#EXTINF:-1,M2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0, Azteca Guatemala
+http://aztecalive-lh.akamaihd.net/i/1ym9yab3c_1@66742/master.m3u8
+
+#EXTINF:-1,STV Folk
+http://str103.setplex.net:1935/228/stv_folk/f1tv.m3u8
+
+#EXTINF:-1,Clubbing
+http://live-m03.abweb.com/liveabm03/clubbingtv.smil/chunklist_f1tv_b1296000_slFRA.m3u8
+
+#EXTINF:-1,Gakku
+http://vs7.cdn.ott.otautv.kz:80/dtv/id42_KTR_SG--GakkuTV/03/plst.m3u8
+
+#EXTINF:-1,LE GRAMMY
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_glmyyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1,LE MUSIC
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_music_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1,LE MUSIC MV
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+#EXTINF:-1,[MUSIC CHOICE]Brits Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/143/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Metal Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/139/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Country pop
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/132/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/133/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Rap 2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/141/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/138/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]90s
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/140/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Throwback Jamz
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/142/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Y2K 20
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/145/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Mexicana
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/131/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Tropicales hot
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/137/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Kidz Only!
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/130/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Toddler tones
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/144/chunklist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title=RELIGIOUS  CHANNELS,tvg-logo="http://www.tv14.net/wp-content/uploads/2010/01/CBN-News.jpg",CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+
+#EXTINF:-1,DayStar 
+http://brightcove03-f.akamaihd.net/daystar_HD_720@112478?videoId=3794843439001&lineUpId=&pubId=1539097700001&playerId=3790151843001&affiliateId=&bandwidthEstimationTest=true&v=3.4.0&fp=WIN%2024,0,0,186&r=RFVIV&g=NLLBCBBEWBMI
+
+#EXTINF:0, God TV HD
+http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/master.m3u8
+
+#EXTINF:-1,Revelation TV
+http://dwun498y9o8lf.cloudfront.net/coder5/coder.channels.channel11/hls/3/playlist.m3u8
+
+#EXTINF:-1,SBN 
+http://sonlifeflash-lh.akamaihd.net/sonlifeflash_hdflash_2000@119698?bandwidthEstimationTest=true&v=3.3.0&fp=WIN%2024,0,0,186&r=KLUWX&g=CHFOJJXMHWGD
+
+#EXTINF:-1,Hope International
+http://bcliveuniv-lh.akamaihd.net/i/HopeInternational_1@193092/index_3192_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Hope Channel
+http://bcliveuniv-lh.akamaihd.net:80/i/HopeChannel_1@182961/master.m3u8
+
+#EXTINF:-1,CATHOLIC TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
+
+#EXTINF:0, TBN USA HD
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+
+#EXTINF:1, BYU Televisión
+http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/master.m3u8
+
+#EXTINF:-1,MFM TV
+http://rtmp2.ott.mx1.com/mfmtv/mfmtvmulti.smil/chunklist_w570661899_b250000_t64MTYwcA==.m3u8
+
+#EXTINF:-1,Emmanuel TV
+http://118965-lh.akamaihd.net/i/etv_live@74820/index_500_av-b.m3u8
+
+
+
+#EXTINF:-1 group-title=GENERAL CHANNELS,tvg-logo=http://www.speakoutchallenge.com/wp-content/uploads/2014/07/LondonLivelogo.jpg",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:-1,AMG TV
+http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist_2.m3u8
+
+#EXTINF:-1,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png", Russia Documentary
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
+
+#EXTINF:-1,AnimalWorld
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1,Le Documentary
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1,Le FASHION
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fengshang_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1,DUBAI TV
+http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,Amazing Facts TV
+http://bglive-w.bitgravity.com/amazingfacts/live/feed01
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png", Russia Today
+http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index1600.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gospanishnow.com/wp-content/uploads/2015/12/Discovery-Channel-HD.png", DISCOVERY CHANNEL
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+
+#EXTINF:-1 group-title="longlong",GOLF
+http://kb1.ottclub.info:443/kitty/c709.stream/playlist.m3u8
+
+http://kb1.ottclub.info:443/kitty/c721.stream/playlist.m3u8
+#EXTINF:-1 group-title="longlong",DISCOVERY SCIENCE
+http://kb1.ottclub.info:443/kitty/c747.stream/playlist.m3u8
+#EXTINF:-1 group-title="longlong",DMAX
+http://kb1.ottclub.info:443/kitty/c700.stream/playlist.m3u8
+#EXTINF:-1 group-title="longlong",EVE
+http://kb1.ottclub.info:443/kitty/c743.stream/playlist.m3u8
+#EXTINF:-1 group-title="longlong",NAT GEO WILD
+http://kb1.ottclub.info:443/kitty/c707.stream/playlist.m3u8
+#EXTINF:-1 group-title="longlong",NATIONAL GEOGRAPHIC
+http://kb1.ottclub.info:443/water/c706.stream/playlist.m3u8
+#EXTINF:-1 group-title="longlong",Discovery
+http://kb1.ottclub.info:443/water/c744.stream/playlist.m3u8
+#EXTINF:-1 group-title="longlong",TLC
+http://kb1.ottclub.info:443/water/c670.stream/playlist.m3u8
+#EXTINF:-1 group-title="longlong",ANIMAL PLANET
+http://kb1.ottclub.info:443/water/c676.stream/playlist.m3u8
+#EXTINF:-1 group-title="longlong",CN
+http://kb1.ottclub.info:443/water/c678.stream/playlist.m3u8
+#EXTINF:-1 group-title="longlong",DISNEY CHANNEL
+http://kb1.ottclub.info:443/water/c698.stream/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title=AFRICAN CHANNELS,tvg-logo="http://www.itver.cc/wp-content/uploads/2015/09/Joy-News-670x300.jpg",JoyNews backup
+http://149.202.221.100:8081/live/joy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://enterghana.com/wp-content/uploads/2015/02/TV3.png",TV3
+http://213.246.39.124:8081/live/tv3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://arts1091.unsw.wikispaces.net/file/view/gtv.jpeg/356302158/gtv.jpeg",GTV
+http://149.202.221.100:8081/live/gtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://photos.myjoyonline.com/photos/news/201502/6436510124812_6247078572762.jpg",Joy Prime
+http://213.246.39.124:8081/live/joyprime/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.ghanasoccernet.com/2015/12/GTV-Sports-Plus.jpg",GTV Sports+
+http://149.202.221.100:8081/live/gtvs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.modernghana.com/images/content/mqh6kxv33e_adomtv.jpg",Adom TV
+http://144.217.69.90:8081/live/adm/playlist.m3u8
+
+#EXTINF:-1,Ghana Entertainment Channel
+http://213.246.39.124:8081/live/gec/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/tvc_nigeria.jpg",TVC Entertainment
+http://77.92.76.135:1935/tvce/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/TVC_News_Africa.jpg/200px-TVC_News_Africa.jpg",TVC News
+http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.photos.apo-opa.com/plog-content/images/apo/logos/channelstv.jpg",Channels TV
+http://67.212.234.94:1935/live/mobile2/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title=UK CHANNELS,tvg-logo="http://go.sky.com/SVOD/SKYKIDS/IMAGES/Nick%20Jr/P/Peppa%20Pig%20S1/L_Peppa_S1.jpg",Nick Jr Peppa
+http://5.255.90.223:5000/play/a00c
+#EXTINF:-1,QUEST+1
+http://5.255.90.223:5000/play/a011
+#EXTINF:-1,MTV MUSIC
+http://5.255.90.223:5000/play/a00d
+#EXTINF:-1,Disc.Science
+http://5.255.90.223:5000/play/a01c
+#EXTINF:-1,Nick Jr Too
+http://5.255.90.223:5000/play/a009
+#EXTINF:-1,ID+1
+http://5.255.90.223:5000/play/a010
+#EXTINF:-1,HomeHealth+1
+http://5.255.90.223:5000/play/a015
+#EXTINF:-1,TLC+1
+http://5.255.90.223:5000/play/a014
+#EXTINF:-1,ComedyXtra+1
+http://5.255.90.223:5000/play/a007
+#EXTINF:-1,Disc.Sci+1
+http://5.255.90.223:5000/play/a00x
+#EXTINF:-1,DMAX
+http://5.255.90.223:5000/play/a00y
+#EXTINF:-1,Disc.History
+http://5.255.90.223:5000/play/a01d
+#EXTINF:-1,TLC
+http://5.255.90.223:5000/play/a01j
+#EXTINF:-1,Discovery+1
+http://5.255.90.223:5000/play/a01a
+#EXTINF:-1,Animal Plnt+1
+http://5.255.90.223:5000/play/a00w
+#EXTINF:-1,ID
+http://5.255.90.223:5000/play/a00v
+#EXTINF:-1,Nicktoons
+http://5.255.90.223:5000/play/a002
+#EXTINF:-1,ComedyCent+1
+http://5.255.90.223:5000/play/a003
+#EXTINF:-1,Home & Health
+http://5.255.90.223:5000/play/a01e
+#EXTINF:-1,Nick Jr.
+http://5.255.90.223:5000/play/a008
+#EXTINF:-1,ComedyCentral
+http://5.255.90.223:5000/play/a004
+#EXTINF:-1,ID
+http://5.255.90.223:5000/play/a01i
+#EXTINF:-1,Nickelodeon
+http://5.255.90.223:5000/play/a00b
+#EXTINF:-1,Disc.Turbo
+http://5.255.90.223:5000/play/a01f
+#EXTINF:-1,Disc.History+1
+http://5.255.90.223:5000/play/a012
+#EXTINF:-1,Discovery Shed
+http://5.255.90.223:5000/play/a013
+#EXTINF:-1,Discovery
+http://5.255.90.223:5000/play/a01g
+#EXTINF:-1,QUEST
+http://5.255.90.223:5000/play/a01h
+#EXTINF:-1,Animal Planet
+http://5.255.90.223:5000/play/a019
+#EXTINF:-1,DMAX+1
+http://5.255.90.223:5000/play/a00z
+#EXTINF:-1,Nick Jr+1
+http://5.255.90.223:5000/play/a00a
+#EXTINF:-1,TLC+2
+http://5.255.90.223:5000/play/a016
+#EXTINF:-1,ComedyXtra
+http://5.255.90.223:5000/play/a006
+
+#EXTINF:-1 group-title=UK2 CHANNELS,tvg-logo="http://www.throup.org.uk/images/doctor_who/bbc_one.png",BBC One Lon
+http://80.25.87.6:9981/stream/channelid/1936535934
+#EXTINF:-1,BBC Two Eng
+http://80.25.87.6:9981/stream/channelid/43367668
+#EXTINF:-1,Channel 4
+http://80.25.87.6:9981/stream/channelid/1350631950
+#EXTINF:-1,CITV
+http://80.25.87.6:9981/stream/channelid/407885248
+#EXTINF:-1,Film4
+http://80.25.87.6:9981/stream/channelid/1190871675
+#EXTINF:-1,Film4 +1
+http://80.25.87.6:9981/stream/channelid/1946254025
+#EXTINF:-1,ITV
+http://80.25.87.6:9981/stream/channelid/196970287
+#EXTINF:-1,ITV +1
+http://80.25.87.6:9981/stream/channelid/2133516227
+#EXTINF:-1,ITV2
+http://80.25.87.6:9981/stream/channelid/1199711227
+#EXTINF:-1,ITV4
+http://80.25.87.6:9981/stream/channelid/1864888803
+#EXTINF:-1,ITV4+1
+http://80.25.87.6:9981/stream/channelid/1279886416
+#EXTINF:-1,ITVBe
+http://80.25.87.6:9981/stream/channelid/359890709
+#EXTINF:-1,More4 +1
+http://80.25.87.6:9981/stream/channelid/292897667
+#EXTINF:-1,Pick
+http://80.25.87.6:9981/stream/channelid/1237001161
+#EXTINF:-1,Pick+1
+http://80.25.87.6:9981/stream/channelid/1500252112
+#EXTINF:-1,Sky News
+http://80.25.87.6:9981/stream/channelid/1867717695
+
+
+
+#EXTINF:-1 group-title=UK3 CHANNELS,tvg-logo=http://www.throup.org.uk/images/doctor_who/bbc_one.png",BOOMERANG
+http://50.7.69.42:8899/GB/UK/BOOMERANG/index.m3u8
+#EXTINF: -1,VH1 
+http://50.7.69.42:8899/GB/UK/VH1/index.m3u8 
+#EXTINF: -1,QUEST 
+http://50.7.69.42:8899/GB/UK/QUEST/index.m3u8 
+#EXTINF: -1,HISTORY 
+http://50.7.69.42:8899/GB/UK/HISTORY/index.m3u8 
+#EXTINF: -1,DMAX 
+http://50.7.69.42:8899/GB/UK/DMAX/index.m3u8 
+#EXTINF: -1,BOXNATION 
+http://50.7.69.42:8899/GB/UK/BOXNATION/index.m3u8 
+#EXTINF: -1,GOLD 
+http://50.7.69.42:8899/GB/UK/GOLD/index.m3u8 
+#EXTINF: -1,DRAMA 
+http://50.7.69.42:8899/GB/UK/DRAMA/index.m3u8
+#EXTINF: -1,FOX NEWS
+http://50.7.69.42:8899/GB/UK/FOX_NEWS/index.m3u8
+
+
+
+#EXTINF:-1,BT Mosaic
+http://5.135.139.19:1935/server7/stream8.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 1
+http://5.135.139.19:1935/server7/stream10.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 2
+http://5.135.139.19:1935/server7/stream11.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 3
+http://5.135.139.19:1935/server7/stream12.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 4
+http://5.135.139.19:1935/server7/stream13.stream/playlist.m3u8?token=
+#EXTINF:-1,N/A
+http://5.135.139.19:1935/server7/stream18.stream/playlist.m3u8?token=
+#EXTINF:-1,ITV
+http://5.135.139.19:1935/server7/stream19.stream/playlist.m3u8?token=
+#EXTINF:-1,N/A
+http://5.135.139.19:1935/server7/stream20.stream/playlist.m3u8?token=
+#EXTINF:-1,BBC Alba
+http://5.135.139.19:1935/server7/stream21.stream/playlist.m3u8?token=
+#EXTINF:-1,STV
+http://5.135.139.19:1935/server7/stream22.stream/playlist.m3u8?token=
+#EXTINF:-1,ITV Encore
+http://5.135.139.19:1935/server7/stream24.stream/playlist.m3u8?token=
+#EXTINF:-1,BBC 1 Wales
+http://5.135.139.19:1935/server7/stream29.stream/playlist.m3u8?token=
+#EXTINF:-1,N/A
+http://5.135.139.19:1935/server7/stream30.stream/playlist.m3u8?token=
+#EXTINF:-1,ITV
+http://5.135.139.19:1935/server7/stream31.stream/playlist.m3u8?token=
+#EXTINF:-1,Spike
+http://5.135.139.19:1935/server7/stream32.stream/playlist.m3u8?token=
+#EXTINF:-1,S4C
+http://5.135.139.19:1935/server7/stream33.stream/playlist.m3u8?token=
+#EXTINF:-1,BBC Parliament
+http://5.135.139.19:1935/server7/stream34.stream/playlist.m3u8?token=
+#EXTINF:-1,AMC
+http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
+#EXTINF:-1,C ITV
+http://5.135.139.19:1935/server7/stream36.stream/playlist.m3u8?token=
+#EXTINF:-1,BabyTV
+http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
+
+#EXTINF:-1,Brit Asia TV 
+http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8
+
+
+
