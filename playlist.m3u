@@ -2506,6 +2506,386 @@ http://89.38.8.131:39559
 
 
 
+#EXTINF:-1,6TER
+
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+
+#EXTINF:-1,AfricaBox Series
+
+http://chkg.tdf-cdn.com/8037/index.m3u8
+
+#EXTINF:-1,AfricaBox TV
+
+http://chkg.tdf-cdn.com/8038/index.m3u8
+
+#EXTINF:-1,Animania
+
+http://tv.ut.cx/animania.mp4?start=0
+
+#EXTINF:-1,Animania
+
+http://teleclub.fr/animania.mp4?start=0
+
+#EXTINF:-1,Antenne Centre TV
+
+http://vm109.imust.org:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1,Arte
+
+http://frlive.artestras.cshls.lldns.net/artestras/frlive/frlive/frlive_925.m3u8
+
+#EXTINF:-1,arte fr m3u8
+
+http://pebbles101-lh.akamaihd.net/i/artefr_1@97346/master.m3u8
+
+#EXTINF:-1,Assemblée Nationale
+
+http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+
+#EXTINF:-1,Best Music HD
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1,BFM
+
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/03.m3u8
+
+#EXTINF:-1,BFM Business
+
+http://bfmlive-i.akamaihd.net/hls/live/218341/876450612001/bfmbusiness/04.m3u8
+
+#EXTINF:-1,BFM TV
+
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+
+#EXTINF:-1,Canal 9 HD
+
+http://httpstream.canal9.ch/canal9live.m3u8
+
+#EXTINF:-1,Chasse et Peche
+
+http://87.248.160.8/edge/smil:chassepeche/playlist.m3u8
+
+#EXTINF:-1,chkg tdf cdn
+
+http://chkg.tdf-cdn.com/5707/stream1.m3u8
+
+#EXTINF:-1,Ciné Fil
+
+http://teleclub.fr/cinefil.mp4?start=0
+
+#EXTINF:-1,CineFil
+
+http://tv.ut.cx/cinefil.mp4?start=0
+
+#EXTINF:-1,Cinetoile
+
+http://teleclub.fr/cinetoile.mp4?start=0
+
+#EXTINF:-1,Cinetoile
+
+http://tv.ut.cx/cinetoile.mp4?start=0
+
+#EXTINF:-1,Cinq+
+
+http://tv.ut.cx/cinqplus.mp4?start=0
+
+#EXTINF:-1,Cinq+
+
+http://teleclub.fr/cinqplus.mp4?start=0
+
+#EXTINF:-1,Club 1
+
+http://teleclub.fr/club1.mp4?start=0
+
+#EXTINF:-1,CNA
+rtmp://str81.creacast.com:80/cna/live.sdp
+#EXTINF:-1,D8
+
+http://stream.streaming-hub.com:8180/live/hls/d8-clair-v3-sd-andr7/and-sd-clair/d8-clair-v3-sd-audio_fra_56000_121%3D56000-video%3D1500000.m3u8
+
+#EXTINF:-1,Documania
+
+http://teleclub.fr/documania.mp4?start=0
+
+#EXTINF:-1,ENCYCLO
+
+http://87.248.160.8/edge/smil:encyclo/playlist.m3u8
+
+#EXTINF:-1,Enorme TV
+
+http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
+
+#EXTINF:-1,Eurosport 400P
+
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+
+#EXTINF:-1,FRANCE
+
+http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_4/hls_v1/France_4-audio_AACL_fra_70000_335=70000-video=1404000.m3u8
+
+#EXTINF:-1,FRANCE 2
+
+http://fast-fortress-4864.herokuapp.com/stream.streaming-hub.com:8080/simulcast/France_2/hls_v1/France_2-audio_AACL_fra_70000_315=70000-video=1404000.m3u8
+
+#EXTINF:-1,france 2
+
+http://pebbles101-lh.akamaihd.net/i/france2_1@97347/master.m3u8
+
+#EXTINF:-1,France 24
+
+http://tv.flux.france24.com/4684/05.m3u8
+
+#EXTINF:-1,France 24 640*330
+
+http://tv.flux.france24.com/4684/02.m3u8
+
+#EXTINF:-1,france 24 720*480
+
+http://tv.flux.france24.com/4684/05.m3u8
+
+#EXTINF:-1,France 3
+
+http://u.to/o7pVCg
+
+#EXTINF:-1,FRANCE 3
+
+http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_3/hls_v1/France_3-audio_AACL_fra_70000_325=70000-video=1404000.m3u8
+
+#EXTINF:-1,france 3 m3u8
+
+http://pebbles100-lh.akamaihd.net/i/france3_1@97329/master.m3u8
+
+#EXTINF:-1,France 4
+
+http://u.to/pLpVCg
+
+#EXTINF:-1,FRANCE 4
+
+http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_4/hls_v1/France_4-audio_AACL_fra_70000_335=70000-video=1404000.m3u8
+
+#EXTINF:-1,France 5
+
+http://u.to/pbpVCg
+
+#EXTINF:-1,france 5 m3u8
+
+http://pebbles102-lh.akamaihd.net/i/france5_1@97351/master.m3u8
+
+#EXTINF:-1,Gloubi
+
+http://tv.ut.cx/gloubi.mp4?start=0
+
+#EXTINF:-1,Gloubi
+
+http://teleclub.fr/gloubi.mp4?start=0
+
+#EXTINF:-1,Grand Lille TV
+rtsp://str81.creacast.com/grandlilletv/high
+#EXTINF:-1,i24 News
+
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+
+#EXTINF:-1,IL TV
+rtmp://str81.creacast.com:80/iltv/high
+#EXTINF:-1,KTO
+
+http://mobile.ktotv.com/live/KTO_Layer1.m3u8
+
+#EXTINF:-1,KZ TV
+
+http://ec.playmedia.fr/kztv/live/playlist.m3u8
+
+#EXTINF:-1,La Chaine Normande
+
+http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+
+#EXTINF:-1,LA CHAINE NORMANDIE
+rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+#EXTINF:-1,La Deux
+
+http://rtmp.infomaniak.ch/livecast/ladeux/playlist.m3u8
+
+#EXTINF:-1,la meteo rtsp
+rtsp://a988.v101995.c10199.e.vm.akamaistream.net/7/988/10199/3f97c7e6/ftvigrp.download.akamai.com/10199/horsgv/regions/siege/france2/meteo/meteo_GT.wmv
+#EXTINF:-1,La Tele
+
+http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
+
+#EXTINF:-1,Link Antenne Réunion
+
+http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
+
+#EXTINF:-1,M6
+
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
+
+#EXTINF:-1,M6 MUSIC
+
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+#EXTINF:-1,Ma Tele 640p
+
+http://streaming06.axeweb.be:1935/matele_live/_definst_/live.stream/playlist.m3u8
+
+#EXTINF:-1,Minimax 7h-19h
+
+http://teleclub.fr/minimax.mp4?start=0
+
+#EXTINF:-1,Mirabelle TV
+
+http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+
+#EXTINF:-1,MONACO INFOS
+rtmp://46.105.34.238/livepkgr/livestream2.flv
+#EXTINF:-1,Mosaique
+
+http://teleclub.fr/mosaique.mp4?start=0
+
+#EXTINF:-1,Motors TV
+
+http://95.188.116.4:1234/udp/233.7.70.206:5000
+
+#EXTINF:-1,MTV
+
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8
+
+#EXTINF:-1,MTV Live HD
+
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8
+
+#EXTINF:-1,Music Box 80 7h-19h
+
+http://teleclub.fr/musicbox80.mp4?start=0
+
+#EXTINF:-1,MusicBox
+
+http://teleclub.fr/musicbox.mp4?start=0
+
+#EXTINF:-1,No Tele BE
+rtmp://streaming06.axeweb.be:1935/live/direct.stream
+#EXTINF:-1,notele
+rtmp://streaming06.axeweb.be:1935/live/direct.stream
+#EXTINF:-1,OM5 TV
+
+http://ec.playmedia.fr/om5-tv/live/playlist.m3u8
+
+#EXTINF:-1,OUI TV
+
+http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
+
+#EXTINF:-1,Party Tv HD
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:-1,PTC BE
+
+http://media.rtc.be/vod/mp4:166597.mp4/playlist.m3u8
+
+#EXTINF:-1,Rock Tv HD
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:-1,Rouge tv
+
+http://rtmp.infomaniak.ch/livecast/rougetv/SAT_TOTAL.m3u8
+
+#EXTINF:-1,RTC
+
+http://media.webtvlive.eu/rtc/_definst_/mp4:live_720p.stream/playlist.m3u8
+
+#EXTINF:-1,RTC
+
+http://media.webtvlive.eu/rtc/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1,RTC TÃ©lÃ© LiÃ¨ge
+
+http://media.webtvlive.eu/rtc/_definst_/mp4:live_720p.stream/playlist.m3u8
+
+#EXTINF:-1,TÃ©lÃ© Bielingue
+
+http://rtmp.infomaniak.ch/livecast/telebielinguech/playlist.m3u8
+
+#EXTINF:-1,Tébéo
+rtmp://tebeo.e-declic.tv/tebeo_live/myStream.sdp
+#EXTINF:-1,Tele Bielingue
+
+http://rtmp.infomaniak.ch/livecast/telebielinguech/playlist.m3u8
+
+#EXTINF:-1,Télé MB
+
+http://vm109.imust.org:1935/live/telemb-live/playlist.m3u8
+
+#EXTINF:-1,Télé Vesdre
+rtmp://wowza.tvlux.imust.org/live/tvlux-live
+#EXTINF:-1,Télé Vesdre
+
+http://vm109.imust.org:1935/live/televesdre-live/playlist.m3u8
+
+#EXTINF:-1,TF1
+
+http://109.87.253.58:8888/udp/238.0.16.66:1234
+
+#EXTINF:-1,TIJI
+
+http://88.212.15.20:5000/live/tiji/tiji.m3u8
+
+#EXTINF:-1,Trek TV
+
+http://178.218.112.51:7781/udp/234.5.2.43:1234/playlist.mp4?start=0
+
+#EXTINF:-1,TV Com
+rtsp://37.59.47.86:8000/tvcom_live2.sdp
+#EXTINF:-1,TV Fil 78
+
+http://rtmp.infomaniak.ch/livecast/tvfil78/playlist.m3u8
+
+#EXTINF:-1,TV Rennes 35
+
+http://streaming1.interactivplatform.fr/tvrennes35-live/_definst_/smil:tvrennes35mob.smil/playlist.m3u8
+
+#EXTINF:-1,TV5 MONDE
+
+http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8
+
+#EXTINF:-1,TVA Sport
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
+#EXTINF:-1,TVM 3
+
+http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
+
+#EXTINF:-1,TVM Est Parisien
+
+http://rtmp.infomaniak.ch/livecast/cineplume/TVMEstParisien.m3u8
+
+#EXTINF:-1,Vevo
+
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1,Vevo 2
+
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1,Vevo 3
+
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1,VH1
+
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8
+
+#EXTINF:-1,Virgin
+rtmp://fms.105.net:1935/live/virgin1 swfUrl=http://myfreetv.ucoz.net/mediaplayer-3.swf live=1 pageUrl=http://myfreetv.ucoz.net/index/virgin_radio_tv/0-253
+
+#EXTINF:-1,Vosges TÃ©lÃ©vision
+http://live.vosgestelevision.tv/live/vosgestv/ngrp:vosgestv_all/pls.m3u8
+
+#EXTINF:-1,VOX Music HD
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+#EXTINF:-1,W9
+
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
+
+#EXTINF:-1,Weo
+rtmp://str82.creacast.com:80/weo/low
+#EXTINF:-1,Weo (hd)
+rtmp://str81.creacast.com:80/weo/high
+
+
 
 
 
