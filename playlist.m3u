@@ -734,6 +734,9 @@ http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
 #EXTINF:-1,KroneHit TV
 http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 
+#EXTINF:-1,KRONEHIT German Music TV 
+http://bitcdn-kronehit-live.bitmovin.com/hls/1100k/bitcodin.m3u8 
+
 #EXTINF:-1,Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 
@@ -742,12 +745,6 @@ http://176.106.66.156:8086/udp/239.71.92.46:1234
 
 #EXTINF:-1,MTV CHINA
 http://222.191.24.43:6610/004/2/ch00000090990000001154/index.m3u8?ispcode=3
-
-
-#EXTINF:-1,fixHD
-http://video.fixhd.tv:1935/fix/hd.stream/index.m3u8
-
-
 
 #EXTINF:-1,Radionorba Tv
 http://85.17.80.132:80/radionorbatv/norbatv_source.stream/playlist.m3u8
@@ -763,6 +760,18 @@ http://85.132.78.6:1935/live/muztv.stream/lihattv.m3u8
 
 #EXTINF:-1,SiTV
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+
+#EXTINF:-1,Vibee TV
+http://46.101.21.42:8081/live/live2/chunks.m3u8
+
+#EXTINF:-1,Beatz
+http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
+
+#EXTINF:-1,Radio Virgin TV
+http://fms.105.net:1935/live/virgin1/playlist.m3u8
+
+#EXTINF:-1,Indies Live
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 
 #EXTINF:-1,Heartv 
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
@@ -800,23 +809,48 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_music_1300&tag=live&ext=m3u8&s
 #EXTINF:-1,LE MUSIC MV
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
-#EXTINF:0,DjinG
-http://cdn.djing.com/tv/d-05.m3u8
-#EXTINF:0,Djing Animation HD
-http://cdn.djing.com/tv/a-05.m3u8
-#EXTINF:0,Djing Classic HD
-http://www.djing.com/tv/i-05.m3u8
-#EXTINF:0,Djing Ibiza HD
-http://cdn.djing.com/tv/d-05.m3u8
-#EXTINF:0,Djing Underground HD
-http://cdn.djing.com/tv/u-05.m3u8
 
-
-
-#EXTINF:-1,[MUSIC CHOICE]Alternative
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/122/chunklist.m3u8
 #EXTINF:-1,[MUSIC CHOICE]Brits Hits
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/143/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Metal Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/139/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Country pop
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/132/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/133/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Rap 2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/141/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/138/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]90s
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/140/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Throwback Jamz
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/142/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Y2K 20
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/145/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Mexicana
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/131/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Tropicales hot
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/137/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Kidz Only!
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/130/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Toddler tones
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/144/chunklist.m3u8
+
+#EXTINF:-1,[MUSIC CHOICE]Teen Beats
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/118/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Todays Country
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/121/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Latin Urbana
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/128/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/123/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]MC Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]R&B
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/124/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Rap
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/125/chunklist.m3u8
 #EXTINF:-1,[MUSIC CHOICE]UK Hits
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/127/chunklist.m3u8
 #EXTINF:-1,[MUSIC CHOICE]Dance/EDM
@@ -827,44 +861,29 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/106/chunklist.
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/100/chunklist.m3u8
 #EXTINF:-1,[MUSIC CHOICE]Indie
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/129/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Metal Rock
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/139/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Country pop
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/132/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Pop Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/133/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]R&B
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/124/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Rap
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/125/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Rap 2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/141/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Rock
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/138/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Teen Beats
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/118/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Todays Country
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/121/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]90s
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/140/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Throwback Jamz
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/142/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Y2K 20
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/145/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Mexicana
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/131/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Latin Urbana
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/128/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Pop Latino
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/123/chunklist.m3u8
-#EXTINF:-1[MUSIC CHOICE],Tropicales hot
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/137/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Kidz Only!
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/130/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Toddler tones
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/144/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]MC Play
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]UK Hits
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/127/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Dance/EDM
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/127/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Hip-Hop
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/106/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Hits
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/100/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Indie
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/129/chunklist.m3u8
+#EXTINF:-1,[MUSIC CHOICE]Alternative
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/122/chunklist.m3u8
+
+#EXTINF:0,DjinG
+http://cdn.djing.com/tv/d-05.m3u8
+#EXTINF:0,Djing Animation HD
+http://cdn.djing.com/tv/a-05.m3u8
+#EXTINF:0,Djing Classic HD
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:0,Djing Ibiza HD
+http://cdn.djing.com/tv/d-05.m3u8
+#EXTINF:0,Djing Underground HD
+http://cdn.djing.com/tv/u-05.m3u8
 
 
 #EXTINF:-1 group-title=RELIGIOUS  CHANNELS,tvg-logo="http://www.tv14.net/wp-content/uploads/2010/01/CBN-News.jpg",CBN
