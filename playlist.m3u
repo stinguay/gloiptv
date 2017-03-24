@@ -1559,72 +1559,66 @@ http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096
 
 
 
-#EXTINF:-1 group-title=UK CHANNELS,tvg-logo="http://go.sky.com/SVOD/SKYKIDS/IMAGES/Nick%20Jr/P/Peppa%20Pig%20S1/L_Peppa_S1.jpg",Nick Jr Peppa
-http://5.255.90.223:5000/play/a00c
-#EXTINF:-1,QUEST+1
-http://5.255.90.223:5000/play/a011
-#EXTINF:-1,MTV MUSIC
-http://5.255.90.223:5000/play/a00d
-#EXTINF:-1,Disc.Science
-http://5.255.90.223:5000/play/a01c
-#EXTINF:-1,Nick Jr Too
-http://5.255.90.223:5000/play/a009
-#EXTINF:-1,ID+1
-http://5.255.90.223:5000/play/a010
-#EXTINF:-1,HomeHealth+1
-http://5.255.90.223:5000/play/a015
-#EXTINF:-1,TLC+1
-http://5.255.90.223:5000/play/a014
-#EXTINF:-1,ComedyXtra+1
-http://5.255.90.223:5000/play/a007
-#EXTINF:-1,Disc.Sci+1
-http://5.255.90.223:5000/play/a00x
-#EXTINF:-1,DMAX
-http://5.255.90.223:5000/play/a00y
-#EXTINF:-1,Disc.History
-http://5.255.90.223:5000/play/a01d
-#EXTINF:-1,TLC
-http://5.255.90.223:5000/play/a01j
-#EXTINF:-1,Discovery+1
-http://5.255.90.223:5000/play/a01a
-#EXTINF:-1,Animal Plnt+1
-http://5.255.90.223:5000/play/a00w
-#EXTINF:-1,ID
-http://5.255.90.223:5000/play/a00v
-#EXTINF:-1,Nicktoons
-http://5.255.90.223:5000/play/a002
-#EXTINF:-1,ComedyCent+1
-http://5.255.90.223:5000/play/a003
-#EXTINF:-1,Home & Health
-http://5.255.90.223:5000/play/a01e
-#EXTINF:-1,Nick Jr.
-http://5.255.90.223:5000/play/a008
-#EXTINF:-1,ComedyCentral
-http://5.255.90.223:5000/play/a004
-#EXTINF:-1,ID
-http://5.255.90.223:5000/play/a01i
-#EXTINF:-1,Nickelodeon
-http://5.255.90.223:5000/play/a00b
-#EXTINF:-1,Disc.Turbo
-http://5.255.90.223:5000/play/a01f
-#EXTINF:-1,Disc.History+1
-http://5.255.90.223:5000/play/a012
-#EXTINF:-1,Discovery Shed
-http://5.255.90.223:5000/play/a013
-#EXTINF:-1,Discovery
-http://5.255.90.223:5000/play/a01g
-#EXTINF:-1,QUEST
-http://5.255.90.223:5000/play/a01h
-#EXTINF:-1,Animal Planet
-http://5.255.90.223:5000/play/a019
-#EXTINF:-1,DMAX+1
-http://5.255.90.223:5000/play/a00z
-#EXTINF:-1,Nick Jr+1
-http://5.255.90.223:5000/play/a00a
-#EXTINF:-1,TLC+2
-http://5.255.90.223:5000/play/a016
-#EXTINF:-1,ComedyXtra
-http://5.255.90.223:5000/play/a006
+#EXTINF:-1 group-title=UK CHANNELS,tvg-logo="http://go.sky.com/SVOD/SKYKIDS/IMAGES/Nick%20Jr/P/Peppa%20Pig%20S1/L_Peppa_S1.jpg",TV 3 
+http://149.202.200.137:8080/tv3/index.m3u8 
+#EXTINF:-1,TV 12 
+http://149.202.200.137:8080/tv12/index.m3u8 
+#EXTINF:-1,Animal Planet 
+http://149.202.200.137:8080/animalplanet/index.m3u8 
+#EXTINF:-1,FOX 
+http://149.202.200.137:8080/fox/index.m3u8 
+#EXTINF:-1,Discovery 
+http://149.202.200.137:8080/discovery/index.m3u8 
+#EXTINF:-1,Disney 
+http://149.202.200.137:8080/disney/index.m3u8 
+#EXTINF:-1,Eurosport 2 
+http://149.202.200.137:8080/eurosport2/index.m3u8 
+#EXTINF:-1,Euronews 
+http://149.202.200.137:8080/euronews/index.m3u8 
+#EXTINF:-1,Nat Geo 
+http://149.202.200.137:8080/natgeo/index.m3u8 
+#EXTINF:-1,TLC 
+http://149.202.200.137:8080/tlc/index.m3u8 
+#EXTINF:-1,VH1 
+http://149.202.200.137:8080/vh1/index.m3u8 
+#EXTINF:-1,viasat sport 
+http://149.202.200.137:8080/viasatsport/index.m3u8 
+#EXTINF:-1,TV4 
+http://149.202.200.137:8080/tv4/index.m3u8 
+#EXTINF:-1,Travel CHannel 
+http://149.202.200.137:8080/travelchannel/index.m3u8 
+#EXTINF:-1,TG4 
+http://149.202.200.137:8080/tg4/index.m3u8 
+#EXTINF:-1,Setanta 
+http://149.202.200.137:8080/setanta/index.m3u8 
+#EXTINF:-1,nickjunior 
+http://149.202.200.137:8080/nickjunior/index.m3u8 
+#EXTINF:-1,mtvdance 
+http://149.202.200.137:8080/mtvdance/index.m3u8 
+#EXTINF:-1,mtvrocks 
+http://149.202.200.137:8080/mtvrocks/index.m3u8 
+#EXTINF:-1,itvencore 
+http://149.202.200.137:8080/itvencore/index.m3u8 
+#EXTINF:-1,history 
+http://149.202.200.137:8080/history/index.m3u8 
+#EXTINF:-1,home 
+http://149.202.200.137:8080/home/index.m3u8 
+#EXTINF:-1,Eurosport1 
+http://149.202.200.137:8080/eurosport1/index.m3u8 
+#EXTINF:-1,five 
+http://149.202.200.137:8080/five/index.m3u8 
+#EXTINF:-1,cnn 
+http://149.202.200.137:8080/cnn/index.m3u8 
+#EXTINF:-1,cbsdrama 
+http://149.202.200.137:8080/cbsdrama/index.m3u8 
+#EXTINF:-1,bbc1ni 
+http://149.202.200.137:8080/bbc1ni/index.m3u8 
+#EXTINF:-1,bbcnews 
+http://149.202.200.137:8080/bbcnews/index.m3u8 
+#EXTINF:-1,bbc2ni 
+http://149.202.200.137:8080/bbc2ni/index.m3u8
+
+
 
 #EXTINF:-1 group-title=UK2 CHANNELS,tvg-logo="http://www.throup.org.uk/images/doctor_who/bbc_one.png",BBC One Lon
 http://80.25.87.6:9981/stream/channelid/1936535934
