@@ -1559,7 +1559,7 @@ http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096
 
 
 
-#EXTINF:-1 group-title=UK CHANNELS,tvg-logo="http://go.sky.com/SVOD/SKYKIDS/IMAGES/Nick%20Jr/P/Peppa%20Pig%20S1/L_Peppa_S1.jpg",TV 3 
+#EXTINF:-1 group-title=UK-RU CHANNELS,tvg-logo="http://go.sky.com/SVOD/SKYKIDS/IMAGES/Nick%20Jr/P/Peppa%20Pig%20S1/L_Peppa_S1.jpg",TV 3 
 http://149.202.200.137:8080/tv3/index.m3u8 
 #EXTINF:-1,TV 12 
 http://149.202.200.137:8080/tv12/index.m3u8 
@@ -1617,6 +1617,34 @@ http://149.202.200.137:8080/bbc1ni/index.m3u8
 http://149.202.200.137:8080/bbcnews/index.m3u8 
 #EXTINF:-1,bbc2ni 
 http://149.202.200.137:8080/bbc2ni/index.m3u8
+#EXTINF:-1,alibi 
+http://149.202.200.137:8080/alibi/index.m3u8 
+#EXTINF:-1,horror 
+http://149.202.200.137:8080/horror/index.m3u8 
+#EXTINF:-1,syfy 
+http://149.202.200.137:8080/syfy/index.m3u8 
+#EXTINF:-1,sky atlantic 
+http://149.202.200.137:8080/skyatlantic/index.m3u8 
+#EXTINF:-1,sky living 
+http://149.202.200.137:8080/skyliving/index.m3u8 
+#EXTINF:-1,watch 
+http://149.202.200.137:8080/watch/index.m3u8 
+#EXTINF:-1,dave 
+http://149.202.200.137:8080/dave/index.m3u8 
+#EXTINF:-1,quest 
+http://149.202.200.137:8080/quest/index.m3u8 
+#EXTINF:-1,universal channel 
+http://149.202.200.137:8080/universal/index.m3u8 
+#EXTINF:-1,itv1 
+http://149.202.200.137:8080/itv1/index.m3u8 
+#EXTINF:-1,itv2 
+http://149.202.200.137:8080/itv2/index.m3u8 
+#EXTINF:-1,itv3 
+http://149.202.200.137:8080/itv3/index.m3u8 
+#EXTINF:-1,itv4 
+http://149.202.200.137:8080/itv4/index.m3u8 
+#EXTINF:-1,film4 
+http://149.202.200.137:8080/film4/index.m3u8 :)
 
 
 
