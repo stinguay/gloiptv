@@ -113,8 +113,8 @@ http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index1600.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Class_CNBC.svg/952px-Class_CNBC.svg.png", Class-Cnbc
 http://liveclass.edgesuite.net/i/classcnbc_1@199799/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tivu.tv/_common/images/cover-canali/rai-news.jpg", RAI NEWS
-http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
+#EXTINF:-1,RTE News Now Ireland
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://img01.thedrum.com/s3fs-public/drum_basic_article/90586/main_images/sky%20news.jpg",Sky News
 http://80.25.87.6:9981/stream/channelid/1867717695
@@ -2085,16 +2085,6 @@ http://87.239.87.142:9981/stream/channelid/1593781054
 
 
 
-
-#EXTINF:-1 group-title=GERMANY CHANNELS 2,tvg-logo="http://www.cineymas.com.ar/wp-content/uploads/2015/03/TNT-Series-Logo-660x460.jpg",Eurosport 1 HD
-http://178.196.220.26:9981/play/a00z
-
-
-
-
-
-
-
 #EXTINF:-1 group-title=GEORGIA CHANNELS 2,tvg-logo="http://www.cineymas.com.ar/wp-content/uploads/2015/03/TNT-Series-Logo-660x460.jpg",1_Arxi
 http://94.43.239.178:8080/CHANNEL826/BITRATE0/playlist.m3u8
 #EXTINF:0,Artarea
@@ -2356,16 +2346,65 @@ http://58ad68d0b6c8d.streamlock.net/ios/cnninews/playlist.m3u8
 #EXTINF: -1,BBC News
 http://37.235.160.61:81/udp/225.50.66.21:1234?mp4
 
+#EXTINF: -1,BBC News
+http://92.62.234.202:2222/udp/239.2.1.105:1234
+#EXTINF: -1,CNN1
+http://164.132.160.221:8888/play/a00m/index.m3u8
+#EXTINF:-1,cnn live
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
+#EXTINF: -1,CNN2
+http://125.227.239.37/sta/ch5168036.m3u8
+#EXTINF: -1,CNN3
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L720P/chunklist_b700000.m3u8
+#EXTINF: -1,CNN4
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P/playlist.m3u8
+#EXTINF:-1,ROMA TV HD
+http://77.78.130.123/hls/hd.m3u8
+#EXTINF:- WORLD
+http://www.sonus.fm:1935/public/stream/playlist.m3u8
+#EXTINF:-1,iNews (Israel)
+
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+#EXTINF:-1 ,TSN SPORT 1
+
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna1/index.m3u8
+
+#EXTINF:-1 ,TSN SPORT 2
+
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna2/index.m3u8
+
+#EXTINF:-1 ,TSN SPORT 3
+
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna3/index.m3u8
+
+#EXTINF:-1 ,TSN SPORT 4
+
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna4/index.m3u8
+
+#EXTINF:-1 ,TSN SPORT 5
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna5/index.m3u8
+
+
+
+ #EXTINF:-1,USA_Astro_SUPERSPORT_04 
+ http://164.132.160.221:8888/play/a00l/index.m3u8
+ #EXTINF:-1,USA_ESPN_2 
+ http://164.132.160.221:8888/play/a00g/index.m3u8
+ #EXTINF:-1,USA_Astro_SUPERSPORT_03 
+ http://164.132.160.221:8888/play/a00k/index.m3u8
+ #EXTINF:-1,USA_FOX_SPORT_1 
+ http://164.132.160.221:8888/play/a00d/index.m3u8
+ #EXTINF:-1,SE: C More Live 2 
+ http://164.132.160.221:8888/play/a007/index.m3u8
+
+
+
 
 #EXTINF:-1,Zing
 http://46.249.213.87/iPhone/HLS_TS/mptslive/zing-mobile.3gp.m3u8
 
 #EXTINF:-1,TV3 (TV3play)
 https://tv3live.data.lt/tv3live/smil:live.smil/playlist.m3u8
-
-
-
-
 #EXTINF:-1,Antenne Centre TV
 http://vm109.imust.org:1935/live/livestream/playlist.m3u8
 
