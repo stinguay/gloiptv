@@ -2836,6 +2836,27 @@ http://109.226.92.253:4022/udp/232.0.2.59:1235
 http://109.226.92.253:4022/udp/232.0.2.63:1235
 
 
+#EXTINF:-1,ar-bein1-low
+http://51.255.77.23:7777/live/0628724613/ew6GyCmBiJ/4852.ts
+#EXTINF:-1,ar-bein2-low
+http://51.255.77.23:7777/live/0628724613/ew6GyCmBiJ/4853.ts
+#EXTINF:-1,ar-bein3-low
+http://51.255.77.23:7777/live/0628724613/ew6GyCmBiJ/4854.ts
+#EXTINF:-1,ar-bein4-low
+http://51.255.77.23:7777/live/0628724613/ew6GyCmBiJ/4855.ts
+#EXTINF:-1,ar-bein5-low
+http://51.255.77.23:7777/live/0628724613/ew6GyCmBiJ/4856.ts
+#EXTINF:-1,ar-bein6-low
+http://51.255.77.23:7777/live/0628724613/ew6GyCmBiJ/4857.ts
+#EXTINF:-1,ar-bein7-low
+http://51.255.77.23:7777/live/0628724613/ew6GyCmBiJ/4858.ts
+#EXTINF:-1,ar-bein8-low
+http://51.255.77.23:7777/live/0628724613/ew6GyCmBiJ/4859.ts
+#EXTINF:-1,ar-bein9-low
+http://51.255.77.23:7777/live/0628724613/ew6GyCmBiJ/4860.ts
+
+
+
 
 #EXTINF:-1,DIGI SPORT 1 
 http://89.38.8.130:39440 
