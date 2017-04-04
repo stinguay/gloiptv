@@ -34,8 +34,8 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/1280px-Cnn.svg.png", CNN
 http://selevision9883-i.akamaihd.net/hls/live/219254/98838/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/1280px-Cnn.svg.png", CNN SD
-http://kb1.ottclub.info:443/kitty/c675.stream/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN PHILIPPIN
+rtmp://54.251.134.121/live/15273.sdp
 
 #EXTINF:-1 tvg-logo="http://www.rologo.com/images/uploads/2017/01/cgtn-logo-13.jpg",CGTN
 http://gslbserv.itv.cmvideo.cn/cctvnews.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=4864750119738201239&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
