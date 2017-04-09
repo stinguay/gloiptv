@@ -22,8 +22,7 @@ http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/index_800_av-b.m3u8
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://litmotors.com/wp-content/uploads/2014/01/BLOOMBERG-tv-LOGO.png",Bloomberg
-http://btvuk-i.akamaihd.net/hls/live/203321-b/btvuk_ios/P1/M24K.m3u8
-
+http://217.66.99.235:1234/udp/225.1.1.135:4001
 
 #EXTINF:-1 tvg-logo="http://www.coxmediagroup.com/rw/Pub/Web/Corp/Special%20Contents/Properties/Images/JAX%20CBS47%20ACTION%20NEWS.png",CBS 47
 http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
