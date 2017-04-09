@@ -425,15 +425,6 @@ http://183.251.61.207/PLTV/88888888/224/3221225905/index.m3u8
 #EXTINF:-1,NewTV Sports HD
 http://183.207.249.7/PLTV/3/224/3221225543/index.m3u8
 
-
-#EXTINF:-1,纬来体育
-http://kb1.ottclub.info:443/water/c663.stream/playlist.m3u8
-#EXTINF:-1,纬来日本
-http://kb1.ottclub.info:443/water/c664.stream/playlist.m3u8
-#EXTINF:-1,ELTA HD
-http://kb1.ottclub.info:443/kitty/c717.stream/playlist.m3u8
-
-
 #EXTINF:-1,letv Sports
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sports_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
@@ -1525,12 +1516,6 @@ http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VbReWaqgrBw/VYv3BE1T-1I/AAAAAAAAARs/tau-9ijn7i0/s1600/hudalog900tr.png",Huda
 http://199.167.151.237:1935/live/dub_1_ch1126/playlist.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/z1he9qtBTJ9fTQWMJZ5xR754mQvVCDK94Y7ac6pFxvMwwA6rJRHzEj4TTg2jI1dxBsHj=w300",[COLOR yellow] ENGLISH CHANNELS [/COLOR]
-***********
-
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png/revision/latest?cb=20130610165528", ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1 tvg-logo="http://victorygroup.com/wp-content/uploads/FOX-NEWS-864x445.png", FOX NEWS
@@ -1541,6 +1526,107 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 http://208.86.19.13:8080/live/15.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_(TV)_logo_2015.png", Mangas
 http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title=ARABIC CHANNELS,tvg-logo="http://store6.up-00.com/2017-03/14909709530962.png",[COLOR green] Bein  [/COLOR]
+http://s1.wssiptv.com:8000/live/mobiletv/freeapp/32.ts|User-Agent= ww1ssssSI&.ts
+
+
+#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 1
+http://s1.wssiptv.com:8000/live/mobiletv/freeapp/32.ts|User-Agent= ww1ssssSI&.ts
+#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 2
+http://s1.wssiptv.com:8000/live/mobiletv/freeapp/33.ts|User-Agent= ww1ssssSI&.ts
+#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 3
+http://s1.wssiptv.com:8000/live/mobiletv/freeapp/34.ts|User-Agent= ww1ssssSI&.ts
+#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 4
+http://s1.wssiptv.com:8000/live/mobiletv/freeapp/35.ts|User-Agent= ww1ssssSI&.ts
+#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 5
+http://s1.wssiptv.com:8000/live/mobiletv/freeapp/36.ts|User-Agent= ww1ssssSI&.ts
+#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 6
+http://s1.wssiptv.com:8000/live/mobiletv/freeapp/37.ts|User-Agent= ww1ssssSI&.ts
+#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 7
+http://s1.wssiptv.com:8000/live/mobiletv/freeapp/38.ts|User-Agent= ww1ssssSI&.ts
+#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 8
+http://s1.wssiptv.com:8000/live/mobiletv/freeapp/39.ts|User-Agent= ww1ssssSI&.ts
+#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 9
+http://s1.wssiptv.com:8000/live/mobiletv/freeapp/40.ts|User-Agent= ww1ssssSI&.ts
+#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 10
+http://s1.wssiptv.com:8000/live/mobiletv/freeapp/41.ts|User-Agent= ww1ssssSI&.ts
+
+
+
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD1
+http://camerta.com:8000/live/riadh7070/riadh7070/1.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD2
+http://camerta.com:8000/live/riadh7070/riadh7070/307.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD3
+http://camerta.com:8000/live/riadh7070/riadh7070/308.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD4
+http://camerta.com:8000/live/riadh7070/riadh7070/309.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD4
+http://camerta.com:8000/live/riadh7070/riadh7070/4.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD5
+http://camerta.com:8000/live/riadh7070/riadh7070/310.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD6
+http://camerta.com:8000/live/riadh7070/riadh7070/311.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD7
+http://camerta.com:8000/live/riadh7070/riadh7070/312.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD8
+http://camerta.com:8000/live/riadh7070/riadh7070/313.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD9
+http://camerta.com:8000/live/riadh7070/riadh7070/314.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD10
+http://camerta.com:8000/live/riadh7070/riadh7070/10.m3u8
+
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA 1
+http://camerta.com:8000/live/riadh7070/riadh7070/300.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD2
+http://camerta.com:8000/live/riadh7070/riadh7070/2.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD3
+http://camerta.com:8000/live/riadh7070/riadh7070/3.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD5
+http://camerta.com:8000/live/riadh7070/riadh7070/5.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD6
+http://camerta.com:8000/live/riadh7070/riadh7070/6.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD7
+http://camerta.com:8000/live/riadh7070/riadh7070/7.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD8
+http://camerta.com:8000/live/riadh7070/riadh7070/8.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRAH D9
+http://camerta.com:8000/live/riadh7070/riadh7070/9.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA 10
+http://camerta.com:8000/live/riadh7070/riadh7070/301.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Fr-BEINSPORTEXTRA 3
+http://camerta.com:8000/live/riadh7070/riadh7070/2741.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA 11
+http://camerta.com:8000/live/riadh7070/riadh7070/302.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD11
+http://camerta.com:8000/live/riadh7070/riadh7070/11.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA 12
+http://camerta.com:8000/live/riadh7070/riadh7070/303.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD12
+http://camerta.com:8000/live/riadh7070/riadh7070/12.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA 13
+http://camerta.com:8000/live/riadh7070/riadh7070/304.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD13
+http://camerta.com:8000/live/riadh7070/riadh7070/13.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA 14
+http://camerta.com:8000/live/riadh7070/riadh7070/305.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA 16
+http://camerta.com:8000/live/riadh7070/riadh7070/16.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD14-2
+http://camerta.com:8000/live/riadh7070/riadh7070/15.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD15-2
+http://camerta.com:8000/live/riadh7070/riadh7070/14.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRANews HD
+http://camerta.com:8000/live/riadh7070/riadh7070/299.m3u8
 
 
 
