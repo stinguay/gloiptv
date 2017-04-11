@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title=NEWS CHANNELS, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png",Aljazeera English [QA]
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
-#EXTINF:-1 tvg-logo="http://logonoid.com/images/arirang-logo.png",Arirang [KO]
+#EXTINF:-1 tvg-logo="http://logonoid.com/images/arirang-logo.png",Arirang [KR]
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.hollywoodreporter.com/sites/default/files/2013/01/bbc_news.png",BBC[UK]
