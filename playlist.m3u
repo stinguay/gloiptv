@@ -839,6 +839,25 @@ http://cdn.djing.com/tv/d-05.m3u8
 #EXTINF:0,Djing Underground HD
 http://cdn.djing.com/tv/u-05.m3u8
 
+#EXTINF:-1 tvg-id="MTV.ch" group-title="Music" tvg-logo="0145.png",[COLOR FFFF00FF]MTV HD[/COLOR]
+http://62.65.140.149:80/session/eedc3e84-e36f-11e5-8e46-005056bc49ac/nvnv5a/1/1033/index.m3u8?token=3f74790d0ef115c6ee2dcc014a77bd0b_1457336958_1457336958&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="9001" group-title="Music" tvg-logo="0145.png",[COLOR orange]MTV Rocks[/COLOR]
+http://st02.brn03.iptv.czechbone.net:8083/rel/pc/1/244/0.k.m3u8
+#EXTINF:-1 tvg-id="9001" group-title="Music" tvg-logo="0145.png",[COLOR orange]MTV Hits[/COLOR]
+http://st02.brn03.iptv.czechbone.net:8083/rel/pc/1/247/0.k.m3u8
+#EXTINF:-1 tvg-id="9001" group-title="Music" tvg-logo="9001.png",[COLOR orange]VEVO US/CA 1[/COLOR]
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/05/prog_index.m3u8
+#EXTINF:-1 tvg-id="9002" group-title="Music" tvg-logo="9001.png",[COLOR orangered]VEVO US/CA 1 HD[/COLOR]
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
+#EXTINF:-1 tvg-id="9003" group-title="Music" tvg-logo="9001.png",[COLOR orange]VEVO US/CA 2[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1 tvg-id="9004" group-title="Music" tvg-logo="9001.png",[COLOR orangered]VEVO US/CA 2 HD[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 tvg-id="9005" group-title="Music" tvg-logo="9001.png",[COLOR orange]VEVO US/CA 3[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1 tvg-id="9006" group-title="Music" tvg-logo="9001.png",[COLOR orangered]VEVO US/CA 3 HD[/COLOR]
+
+
 
 #EXTINF:-1 group-title=RELIGIOUS  CHANNELS,tvg-logo="http://www.tv14.net/wp-content/uploads/2010/01/CBN-News.jpg",CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
