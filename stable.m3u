@@ -15,7 +15,8 @@ http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
 http://183.251.61.207/PLTV/88888888/224/3221225822/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/1280px-Cnn.svg.png", CNN [US]
-http://selevision9883-i.akamaihd.net/hls/live/219254/98838/1.m3u8
+http://208.86.19.123:8080/live/20.stream/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.cpac.ca/wp-content/themes/cpac/_resources/_images/structure/642x220_cpac_main_logo.png",CPAC [CA]
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
@@ -564,5 +565,39 @@ http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
 #EXTINF:-1,Brit Asia TV 
 http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8
 
+
+
+#EXTINF:-1 group-title=UK3 CHANNELS,tvg-logo=http://www.throup.org.uk/images/doctor_who/bbc_one.png",BBC One Lon
+http://80.25.87.6:9981/stream/channelid/1936535934
+#EXTINF:-1,BBC Two Eng
+http://80.25.87.6:9981/stream/channelid/43367668
+#EXTINF:-1,Channel 4
+http://80.25.87.6:9981/stream/channelid/1350631950
+#EXTINF:-1,CITV
+http://80.25.87.6:9981/stream/channelid/407885248
+#EXTINF:-1,Film4
+http://80.25.87.6:9981/stream/channelid/1190871675
+#EXTINF:-1,Film4 +1
+http://80.25.87.6:9981/stream/channelid/1946254025
+#EXTINF:-1,ITV
+http://80.25.87.6:9981/stream/channelid/196970287
+#EXTINF:-1,ITV +1
+http://80.25.87.6:9981/stream/channelid/2133516227
+#EXTINF:-1,ITV2
+http://80.25.87.6:9981/stream/channelid/1199711227
+#EXTINF:-1,ITV4
+http://80.25.87.6:9981/stream/channelid/1864888803
+#EXTINF:-1,ITV4+1
+http://80.25.87.6:9981/stream/channelid/1279886416
+#EXTINF:-1,ITVBe
+http://80.25.87.6:9981/stream/channelid/359890709
+#EXTINF:-1,More4 +1
+http://80.25.87.6:9981/stream/channelid/292897667
+#EXTINF:-1,Pick
+http://80.25.87.6:9981/stream/channelid/1237001161
+#EXTINF:-1,Pick+1
+http://80.25.87.6:9981/stream/channelid/1500252112
+#EXTINF:-1,Sky News
+http://80.25.87.6:9981/stream/channelid/1867717695
 
 
