@@ -520,48 +520,6 @@ http://50.7.69.42:8899/GB/UK/DRAMA/index.m3u8
 http://50.7.69.42:8899/GB/UK/FOX_NEWS/index.m3u8
 
 
-
-#EXTINF:-1,BT Mosaic
-http://5.135.139.19:1935/server7/stream8.stream/playlist.m3u8?token=
-#EXTINF:-1,BT Sports Extra 1
-http://5.135.139.19:1935/server7/stream10.stream/playlist.m3u8?token=
-#EXTINF:-1,BT Sports Extra 2
-http://5.135.139.19:1935/server7/stream11.stream/playlist.m3u8?token=
-#EXTINF:-1,BT Sports Extra 3
-http://5.135.139.19:1935/server7/stream12.stream/playlist.m3u8?token=
-#EXTINF:-1,BT Sports Extra 4
-http://5.135.139.19:1935/server7/stream13.stream/playlist.m3u8?token=
-#EXTINF:-1,N/A
-http://5.135.139.19:1935/server7/stream18.stream/playlist.m3u8?token=
-#EXTINF:-1,ITV
-http://5.135.139.19:1935/server7/stream19.stream/playlist.m3u8?token=
-#EXTINF:-1,N/A
-http://5.135.139.19:1935/server7/stream20.stream/playlist.m3u8?token=
-#EXTINF:-1,BBC Alba
-http://5.135.139.19:1935/server7/stream21.stream/playlist.m3u8?token=
-#EXTINF:-1,STV
-http://5.135.139.19:1935/server7/stream22.stream/playlist.m3u8?token=
-#EXTINF:-1,ITV Encore
-http://5.135.139.19:1935/server7/stream24.stream/playlist.m3u8?token=
-#EXTINF:-1,BBC 1 Wales
-http://5.135.139.19:1935/server7/stream29.stream/playlist.m3u8?token=
-#EXTINF:-1,N/A
-http://5.135.139.19:1935/server7/stream30.stream/playlist.m3u8?token=
-#EXTINF:-1,ITV
-http://5.135.139.19:1935/server7/stream31.stream/playlist.m3u8?token=
-#EXTINF:-1,Spike
-http://5.135.139.19:1935/server7/stream32.stream/playlist.m3u8?token=
-#EXTINF:-1,S4C
-http://5.135.139.19:1935/server7/stream33.stream/playlist.m3u8?token=
-#EXTINF:-1,BBC Parliament
-http://5.135.139.19:1935/server7/stream34.stream/playlist.m3u8?token=
-#EXTINF:-1,AMC
-http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
-#EXTINF:-1,C ITV
-http://5.135.139.19:1935/server7/stream36.stream/playlist.m3u8?token=
-#EXTINF:-1,BabyTV
-http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
-
 #EXTINF:-1,Brit Asia TV 
 http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8
 
