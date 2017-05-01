@@ -31,7 +31,7 @@ http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/1280px-Cnn.svg.png", CNN
-http://selevision9883-i.akamaihd.net/hls/live/219254/98838/1.m3u8
+http://208.86.19.123:8080/live/20.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN PHILIPPIN
 rtmp://54.251.134.121/live/15273.sdp
@@ -285,14 +285,7 @@ http://edge1.movcast.tv:1935/live3/mbc-pro2_source/chunklist_w1271109606.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 Link2
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer02/index.m3u8
 
-#EXTINF:-1,TyC Sports HD
-http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32-v1-a1.m3u8
-#EXTINF:-1,TyC Sports
-http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s35-v1-a1.m3u8
-#EXTINF:-1,TyC Sports
-http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s34-v1-a1.m3u8
-#EXTINF:-1,TyC Sports
-http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s33-v1-a1.m3u8
+
 
 #EXTINF:-1, •SPORTS ® fUTEBOL1 [Liga Nos]
 http://82.200.127.58:8080/udp/239.54.6.153:1224
@@ -424,6 +417,18 @@ http://chinanet.live.bestvcdn.com.cn/live/program/Dbst.mobile.live.bestvcdn.com.
 http://183.251.61.207/PLTV/88888888/224/3221225905/index.m3u8
 #EXTINF:-1,NewTV Sports HD
 http://183.207.249.7/PLTV/3/224/3221225543/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png",TSN SPORT 1
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_2_aug2014.png",TSN SPORT 2
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna2/index.m3u8
+#EXTINF:-1 tvg-logo="http://bellaliant.bell.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_3_aug2014.png",TSN SPORT 3
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna3/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_4_aug2014.png",TSN SPORT 4
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna4/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png",TSN SPORT 5
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna5/index.m3u8
+
 
 #EXTINF:-1,letv Sports
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sports_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -1850,6 +1855,41 @@ http://5.255.90.223:2082/play/NickJrToo
 #EXTINF:-1,MTV MUSIC 
 http://5.255.90.223:2082/play/mtv
 
+
+
+
+#EXTINF:-1,BBC One Lon
+http://80.25.87.6:9981/stream/channelid/1936535934
+#EXTINF:-1,BBC Two Eng
+http://80.25.87.6:9981/stream/channelid/43367668
+#EXTINF:-1,Channel 4
+http://80.25.87.6:9981/stream/channelid/1350631950
+#EXTINF:-1,CITV
+http://80.25.87.6:9981/stream/channelid/407885248
+#EXTINF:-1,Film4
+http://80.25.87.6:9981/stream/channelid/1190871675
+#EXTINF:-1,Film4 +1
+http://80.25.87.6:9981/stream/channelid/1946254025
+#EXTINF:-1,ITV
+http://80.25.87.6:9981/stream/channelid/196970287
+#EXTINF:-1,ITV +1
+http://80.25.87.6:9981/stream/channelid/2133516227
+#EXTINF:-1,ITV2
+http://80.25.87.6:9981/stream/channelid/1199711227
+#EXTINF:-1,ITV4
+http://80.25.87.6:9981/stream/channelid/1864888803
+#EXTINF:-1,ITV4+1
+http://80.25.87.6:9981/stream/channelid/1279886416
+#EXTINF:-1,ITVBe
+http://80.25.87.6:9981/stream/channelid/359890709
+#EXTINF:-1,More4 +1
+http://80.25.87.6:9981/stream/channelid/292897667
+#EXTINF:-1,Pick
+http://80.25.87.6:9981/stream/channelid/1237001161
+#EXTINF:-1,Pick+1
+http://80.25.87.6:9981/stream/channelid/1500252112
+#EXTINF:-1,Sky News
+http://80.25.87.6:9981/stream/channelid/1867717695
 
 
 #EXTINF:-1 group-title=UK3 CHANNELS,tvg-logo=http://www.throup.org.uk/images/doctor_who/bbc_one.png",BT Mosaic
