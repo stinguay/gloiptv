@@ -187,6 +187,8 @@ http://78.129.239.105:8080/je3nNaM00tAacehlsee/Strm/index.m3u8
 http://78.129.239.105:8080/je3nNaM00tAaelfseea/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
 http://78.129.239.105:8080/je3nNaM00tAaemyou0T/Strm/index.m3u8
+#EXTINF:-1,Sevilla FC TV
+http://sevillafc_live-lh.akamaihd.net/i/radio_0@354144/index_0700_av-b.m3u8?sd=10&rebase=on
 
 
 
@@ -252,6 +254,19 @@ http://81.7.13.162/hls/ss3/index.m3u8
 #EXTINF:-1,Superport 4 
 http://81.7.13.162/hls/ss4/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 1
+http://zona-live-tv.com/Chan/Sport/SkySports1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 2
+http://zona-live-tv.com/Chan/Sport/SkySports2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 3
+http://zona-live-tv.com/Chan/Sport/SkySports3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 4
+http://zona-live-tv.com/Chan/Sport/SkySports4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 5
+http://zona-live-tv.com/Chan/Sport/SkySports5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png",WWE
+http://zona-live-tv.com/Chan/Sport/WWE.m3u8
+
 #EXTINF:-1, SPORT1 (lit)
 http://193.8.246.110:8880/play/10045
 
@@ -290,23 +305,23 @@ http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer02/index.m3u8
 
 
 
-#EXTINF:-1, •SPORTS ® fUTEBOL1 [Liga Nos]
+#EXTINF:-1,fUTEBOL1 [Liga Nos]
 http://82.200.127.58:8080/udp/239.54.6.153:1224
 
  
-#EXTINF:-1, • SPORTS ® DIEMA SPORT1
+#EXTINF:-1,DIEMA SPORT1
 http://130.185.232.92:1234/DiemaSp.m3u8
-#EXTINF:-1, • SPORTS ® DIEMA SPORT2
+#EXTINF:-1,DIEMA SPORT2
 http://130.185.232.92:1234/DiemaSp2.m3u8
-#EXTINF:-1, • SPORTS ® SETANTA SPORT
+#EXTINF:-1,SETANTA SPORT
 http://178.124.183.11/hls/CH_SETANTASPORT/variant.m3u8?version=2
-#EXTINF:-1, • SPORTS ® SETANTA SPORT+
+#EXTINF:-1,SETANTA SPORT+
 http://178.124.183.11/hls/CH_SETANTASPORTPLUS/variant.m3u8?version=2
 
 
 
 
-#EXTINF:-1, •SPORT ® NAUTICAL [mudar audio para UK]
+#EXTINF:-1,NAUTICAL [mudar audio para UK]
 http://82.200.127.58:8080/udp/233.12.144.11:5050
 
 
@@ -1349,11 +1364,73 @@ http://africatv.live.net.sa:1935/live/africatv4/playlist.m3u8?wowzasessionid
 #EXTINF:-1,NBS UGANDA
 rtmp://188.166.159.188:1935/live/nbs
 
-#EXTINF:-1, ANN7 Haber SOUTH AFRICA
-rtmp://46.4.25.213/live-ann7/ann7-hi.stream
+
+#EXTINF:-1,NBS (Uganda)
+rtmp://174.138.84.246:1935/live/myStream
+
+#EXTINF:-1, ANN7 NEWS South Africa
+http://46.4.25.213:1935/live-ann7/ann7-hi.stream/playlist.m3u8
+
 
 #EXTINF:-1,STAR TV TANZANIA
 http://hls1.livestreamingcdn.com/livecdn858/livecdn858/playlist.m3u8
+
+#EXTINF:-1,RTB (Burkina Faso)
+rtmp://84.16.66.105/livecast/rtbtvlive1
+
+#EXTINF:-1,TCV (Cape Verde)
+http://213.13.26.43:1935/live/rtc_teste/playlist.m3u8
+
+#EXTINF:-1,CNA (Algeria)
+http://str81.creacast.com:80/cna/live.sdp/playlist.m3u8
+
+#EXTINF:-1,ENCA South Africa
+http://urtmpkal-f.akamaihd.net/i/1ciwepkyc_1@431710/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,ZBC Zimbabwe
+rtmp://41.221.144.210/live/russia
+
+#EXTINF:-1,RTV (Rwanda)
+http://197.243.19.131:1935/rtv/rtv/playlist.m3u8
+
+#EXTINF:-1,ORTM (Mali)
+http://xmaliactux.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,TVS São Tomé and Príncipe
+http://iphone-streaming.ustream.tv/uhls/22730418/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,TV PLUS Madagascar
+http://iphone-streaming.ustream.tv/uhls/22156232/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,ADBN
+http://rtmp.ottdemo.rrsat.com:1935/adbn/adbn1/index.m3u8
+
+#EXTINF:-1,NBC1 Namibia
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@122803/index_150_av-p.m3u8?sd=6&rebase=on
+
+#EXTINF:-1,Gloire TV Gabon
+http://188.165.127.64:1935/live/smil:gloiretv.smil/chunklist_w2103027801_b1628000_sleng.m3u8
+
+#EXTINF:-1,KTN Kenya
+http://iphone-streaming.ustream.tv/uhls/18597323/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,AYV TV Sierra Leone
+http://gghdlive-lh.akamaihd.net/i/ayvtv5_1@323148/master.m3u8
+
+#EXTINF:-1,Mouride TV (Senegal)
+rtmp://162.212.178.131:1935/Livemouridetv/mouridetv
+
+#EXTINF:-1,TV Western Sahara
+rtmp://cast.streamingconnect.tv:1935/rasdtv/rasdtv
+
+#EXTINF:-1,BENIE TV(Cote d’ivoire)
+rtmp://rdccongo3.ddns.net/live/livestream2
+
+#EXTINF:-1,T_chad
+http://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
+
+#EXTINF:-1,RTI 1 (Cote d’ivoire)
+http://85.25.207.10:1935/live/smil:rti1.smil/chunklist_w1332892980_b398000_sleng.m3u8
 
 
 
