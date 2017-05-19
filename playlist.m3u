@@ -3,40 +3,6 @@
 #EXTINF:-1 group-title=NEWS CHANNELS, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png",Aljazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
-#EXTINF:-1,FOX新闻
-http://live.3xgd.com/VJTVPlayer.swf?src=http://122.155.180.8:9021/live/97?pid=0800270E38B3@5060KML&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-
-#EXTINF:-1,BBC新闻
-http://live.3xgd.com/VJTVPlayer.swf?src=http://122.155.180.8:9021/live/418?pid=0800270E38B3@5868SJI&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-
-#EXTINF:-1,CNN新闻
-http://live.3xgd.com/VJTVPlayer.swf?src=http://122.155.180.8:9021/live/428?pid=0800270E38B3@5868SJI&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-
-#EXTINF:-1,AXN电影
-http://live.3xgd.com/VJTVPlayer.swf?src=http://122.155.180.8:9021/live/102?pid=0800270E38B3@5128DME&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-
-#EXTINF:-1,HBO
-http://live.3xgd.com/VJTVPlayer.swf?src=http://122.155.180.8:9021/live/236?pid=0800270E38B3@5884JVY&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-
-#EXTINF:-1,HBO HD
-http://live.3xgd.com/VJTVPlayer.swf?src=http://122.155.180.8:9021/live/261?pid=0800270E38B3@5329ECN&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-
-#EXTINF:-1,HBO温馨
-http://live.3xgd.com/VJTVPlayer.swf?src=http://122.155.180.8:9021/live/181?pid=0800270E38B3@5966QGY&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-
-#EXTINF:-1,HBO强档
-http://live.3xgd.com/VJTVPlayer.swf?src=http://122.155.180.8:9021/live/238?pid=0800270E38B3@5521VAM&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-
-#EXTINF:-1,国家地理野生
-http://live.3xgd.com/VJTVPlayer.swf?src=http://122.155.180.8:9021/live/263?pid=0800270E38B3@5257HOP&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-
-#EXTINF:-1,国家地理HD
-http://live.3xgd.com/VJTVPlayer.swf?src=http://122.155.180.8:9021/live/115?pid=0800270E38B3@5035KQQ&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-
-#EXTINF:-1,国家地理HD
-http://live.3xgd.com/VJTVPlayer.swf?src=vjms://198.255.90.44:8500:3502/live/cid=115&showTime=0
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png",Aljazeera English
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
