@@ -116,7 +116,7 @@ http://liveclass.edgesuite.net/i/classcnbc_1@199799/master.m3u8
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://img01.thedrum.com/s3fs-public/drum_basic_article/90586/main_images/sky%20news.jpg",Sky News
-http://80.25.87.6:9981/stream/channelid/1867717695
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/01/Sky-News-Arabia.png",Sky news
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
@@ -1511,91 +1511,6 @@ http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096
 
 
 
-
-
-#EXTINF:-1 group-title=TAIWAN CHANNELS,tvg-logo="http://go.sky.com/SVOD/SKYKIDS/IMAGES/Nick%20Jr/P/Peppa%20Pig%20S1/L_Peppa_S1.jpg",National Geography 
-http://a.q8kk.com/c.php?id=gjdlpd
-
-#EXTINF:-1,Geographic Wild
-http://a.q8kk.com/c.php?id=gjdlyspd
-
-#EXTINF:-1,HBOHD
-http://a.q8kk.com/c.php?id=hbohd
-
-#EXTINF:-1,HBO hits
-http://a.q8kk.com/c.php?id=hboqdjx
-
-#EXTINF:-1,HBO signature
-http://a.q8kk.com/c.php?id=hboycjx
-
-#EXTINF:-1,Fox action movies
-http://a.q8kk.com/c.php?id=foxdzdy
-
-#EXTINF:-1,Fox Family Movies
-http://a.q8kk.com/c.php?id=foxyzdy
-
-#EXTINF:-1,Fox Home Theater
-http://a.q8kk.com/c.php?id=foxjtyy
-
-#EXTINF:-1,Star Guardian HD movie
-http://a.q8kk.com/c.php?id=xwhddy
-
-#EXTINF:-1,Crestal Movie
-http://a.q8kk.com/c.php?id=tydy
-
-#EXTINF:-1,FXHD
-http://a.q8kk.com/c.php?id=fxhd
-
-#EXTINF:-1,History 2
-http://a.q8kk.com/c.php?id=ls2t
-
-#EXTINF:-1,Life Fashion
-http://a.q8kk.com/c.php?id=lifesssh
-
-#EXTINF:-1,UNIVERSAL
-http://a.q8kk.com/c.php?id=universal
-
-#EXTINF:-1,BABYHD
-http://a.q8kk.com/c.php?id=babyhd
-
-#EXTINF:-1,CNN
-http://a.q8kk.com/c.php?id=cnn
-
-#EXTINF:-1,CNBC
-http://a.q8kk.com/c.php?id=cnbc
-
-#EXTINF:-1,FOX
-http://a.q8kk.com/c.php?id=fox
-
-#EXTINF:-1,MTVLIVE
-http://a.q8kk.com/c.php?id=mtvlive
-
-#EXTINF:-1,V Music
-http://a.q8kk.com/c.php?id=vyy
-
-#EXTINF:-1,Animax
-http://a.q8kk.com/c.php?id=animax
-
-#EXTINF:-1,Animal Planet
-http://a.q8kk.com/c.php?id=dwxq
-
-#EXTINF:-1,ESPN
-http://a.q8kk.com/c.php?id=espn
-
-#EXTINF:-1,Foxsports
-http://a.q8kk.com/c.php?id=foxsports
-
-#EXTINF:-1,KBSSPORT
-http://a.q8kk.com/c.php?id=kbssport
-
-#EXTINF:-1,ELTA synthesis
-Http://a.q8kk.com/c.php?id=eltazh
-
-#EXTINF:-1,Weft to sports
-http://a.q8kk.com/c.php?id=wlty
-
-#EXTINF:-1,TVI
-http://a.q8kk.com/c.php?id=tvi
 
 
 
