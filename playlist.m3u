@@ -1206,6 +1206,10 @@ rtmp://cdn.ghanatvon.com/liveUTV/ playpath=UTVe=1472638242&st=sbpeXD53MVQdrohFhg
 #EXTINF:-1 tvg-logo="https://cdn.modernghana.com/images/content/mqh6kxv33e_adomtv.jpg",Adom TV
 http://144.217.69.90:8081/live/adm/playlist.m3u8
 
+
+#EXTINF:-1,Vox Africa
+https://edge-03.playmedia-cdn.net/origin02/amlst:voxafrica/chunklist_w1650655294_b300000.m3u8?dar=ws&t=
+
 #EXTINF:-1,Ghana Entertainment Channel
 http://213.246.39.124:8081/live/gec/playlist.m3u8
 
