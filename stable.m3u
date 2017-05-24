@@ -383,11 +383,68 @@ http://africatv.live.net.sa:1935/live/africatv4/playlist.m3u8?wowzasessionid
 #EXTINF:-1,NBS UGANDA
 rtmp://188.166.159.188:1935/live/nbs
 
-#EXTINF:-1, ANN7 Haber SOUTH AFRICA
-rtmp://46.4.25.213/live-ann7/ann7-hi.stream
+#EXTINF:-1,Vox Africa
+https://edge-03.playmedia-cdn.net/origin02/amlst:voxafrica/chunklist_w1650655294_b300000.m3u8?dar=ws&t=
+
+#EXTINF:-1, ANN7 NEWS South Africa
+http://46.4.25.213:1935/live-ann7/ann7-hi.stream/playlist.m3u8
 
 #EXTINF:-1,STAR TV TANZANIA
 http://hls1.livestreamingcdn.com/livecdn858/livecdn858/playlist.m3u8
+
+#EXTINF:-1,TCV (Cape Verde)
+http://213.13.26.43:1935/live/rtc_teste/playlist.m3u8
+
+#EXTINF:-1,CNA (Algeria)
+http://str81.creacast.com:80/cna/live.sdp/playlist.m3u8
+
+#EXTINF:-1,ENCA South Africa
+http://urtmpkal-f.akamaihd.net/i/1ciwepkyc_1@431710/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,RTV (Rwanda)
+http://197.243.19.131:1935/rtv/rtv/playlist.m3u8
+
+#EXTINF:-1,ORTM (Mali)
+http://xmaliactux.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,TVS São Tomé and Príncipe
+http://iphone-streaming.ustream.tv/uhls/22730418/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,TV PLUS Madagascar
+http://iphone-streaming.ustream.tv/uhls/22156232/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,ADBN
+http://rtmp.ottdemo.rrsat.com:1935/adbn/adbn1/index.m3u8
+
+#EXTINF:-1,NBC1 Namibia
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@122803/index_150_av-p.m3u8?sd=6&rebase=on
+
+#EXTINF:-1,Gloire TV Gabon
+http://188.165.127.64:1935/live/smil:gloiretv.smil/chunklist_w2103027801_b1628000_sleng.m3u8
+
+#EXTINF:-1,KTN Kenya
+http://iphone-streaming.ustream.tv/uhls/18597323/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,AYV TV Sierra Leone
+http://gghdlive-lh.akamaihd.net/i/ayvtv5_1@323148/master.m3u8
+
+#EXTINF:-1,T_chad
+http://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
+
+#EXTINF:-1,RTI 1 (Cote d’ivoire)
+http://85.25.207.10:1935/live/smil:rti1.smil/chunklist_w1332892980_b398000_sleng.m3u8
+
+#EXTINF:-1,TV Western Sahara
+http://cast.streamingconnect.tv:1935/rasdtv/rasdtv/playlist.m3u8
+
+#EXTINF:-1,RTB (Burkina Faso)
+http://84.16.66.105/livecast/rtbtvlive1/playlist.m3u8
+
+#EXTINF:-1,Mouride TV (Senegal)
+http://162.212.178.131:1935/Livemouridetv/mouridetv/playlist.m3u8
+
+#EXTINF:-1,ZBC Zimbabwe
+http://41.221.144.210/live/russia/playlist.m3u8
 
 
 
