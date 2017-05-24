@@ -216,32 +216,6 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_music_1300&tag=live&ext=m3u8&s
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 
-#EXTINF:-1,[MUSIC CHOICE]Brits Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/143/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Metal Rock
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/139/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Country pop
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/132/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Pop Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/133/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Rap 2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/141/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Rock
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/138/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]90s
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/140/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Throwback Jamz
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/142/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Y2K 20
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/145/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Mexicana
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/131/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Tropicales hot
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/137/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Kidz Only!
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/130/chunklist.m3u8
-#EXTINF:-1,[MUSIC CHOICE]Toddler tones
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/144/chunklist.m3u8
 
 
 
