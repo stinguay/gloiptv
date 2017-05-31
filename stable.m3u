@@ -197,7 +197,7 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m
 http://176.106.66.156:8086/udp/239.71.92.46:1234
 
 #EXTINF:-1,MTV CHINA
-http://kb1.ottclub.info:443/kitty/c741.stream/playlist.m3u8
+Http://222.191.24.7:6610/2/2/ch00000090990000001154/index.m3u8?ispcode=3
 
 #EXTINF:-1,Radionorba Tv
 http://85.17.80.132:80/radionorbatv/norbatv_source.stream/playlist.m3u8
@@ -466,7 +466,28 @@ http://41.221.144.210/live/russia/playlist.m3u8
 
 
 
-
+#EXTINF:-1 group-title=TURKEY CHANNELS,tvg-logo="http://www.akifturan.com/wp-content/uploads/2015/04/trt-1-hd.png",TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1,TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:-1,TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:-1,TRT COCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1,TRT DIYANET
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:-1,TRT HABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
+#EXTINF:-1,TRT MUZIK
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1,TRT OKUL
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT Spor
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:-1,TRT TURK
+http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.m3u8
+#EXTINF:-1,TRT WORLD ENG
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 
 
