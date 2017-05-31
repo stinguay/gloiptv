@@ -237,6 +237,28 @@ http://81.7.13.162/hls/ss2/index.m3u8
 http://81.7.13.162/hls/ss3/index.m3u8  
 #EXTINF:-1,Superport 4 
 http://81.7.13.162/hls/ss4/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 1
+http://185.142.239.164:3135/1/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 2
+http://185.142.239.164:3135/2/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 3
+http://185.142.239.164:3135/3/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 4
+http://185.142.239.164:3135/4/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 5
+http://185.142.239.164:3135/5/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
+
+
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 SD
+http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 SD
+http://bl.movcast.tv:1935/icoolkora/mbc-pro2_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 3 SD
+http://bl.movcast.tv:1935/icoolkora/mbc-pro3_360p/playlist.m3u8
+
+
 #EXTINF:-1, SPORT1 (lit)
 http://193.8.246.110:8880/play/10045
 
@@ -250,15 +272,6 @@ http://93.87.85.71/PLTV/88888888/224/3221226665/04.m3u8?accountinfo=ZeAV8U9WVhMr
 http://83.142.232.246:1935/live/efir/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1
-http://edge1.movcast.tv:1935/live3/mbc-pro1_source/chunklist_w209799898.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2
-http://edge1.movcast.tv:1935/live3/mbc-pro2_source/chunklist_w1271109606.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 Link2
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer02/index.m3u8
 
 
 
@@ -1525,180 +1538,6 @@ http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096
 
 
 
-#EXTINF:-1 group-title=INDIAN CHANNELS,tvg-logo="http://go.sky.com/SVOD/SKYKIDS/IMAGES/Nick%20Jr/P/Peppa%20Pig%20S1/L_Peppa_S1.jpg",NTV
-http://95.0.194.146:8000/play/a052
-#EXTINF:-1,POLIMER
-http://95.0.194.146:8000/play/a02y
-#EXTINF:-1,MAKKAL TV
-http://95.0.194.146:8000/play/a02n
-#EXTINF:-1,E NEWS
-http://95.0.194.146:8000/play/a054
-#EXTINF:-1,CAPTAIN TV
-http://95.0.194.146:8000/play/a02k
-#EXTINF:-1,Sabzbaat TV
-http://95.0.194.146:8000/play/a01v
-#EXTINF:-1,MK TELEVISION
-http://95.0.194.146:8000/play/a034
-#EXTINF:-1,Joo Music
-http://95.0.194.146:8000/play/a061
-#EXTINF:-1,PUTHIYA THALAIMURAI
-http://95.0.194.146:8000/play/a02s
-#EXTINF:-1,Ahlebait TV
-http://95.0.194.146:8000/play/a05s
-#EXTINF:-1,Champion TV
-http://95.0.194.146:8000/play/a062
-#EXTINF:-1,PUBLIC MUSIC
-http://95.0.194.146:8000/play/a037
-#EXTINF:-1,ARYMusik
-http://95.0.194.146:8000/play/a00g
-#EXTINF:-1,Jet TV
-http://95.0.194.146:8000/play/a064
-#EXTINF:-1,WIN TV
-http://95.0.194.146:8000/play/a02x
-#EXTINF:-1,KALAIGNAR ISAI ARUVI
-http://95.0.194.146:8000/play/a05g
-#EXTINF:-1,Filmasia
-http://95.0.194.146:8000/play/a05x
-#EXTINF:-1,BARKAT TV
-http://95.0.194.146:8000/play/a018
-#EXTINF:-1,TAMILAN TELEVISION
-http://95.0.194.146:8000/play/a02v
-#EXTINF:-1,IMAYAM TV
-http://95.0.194.146:8000/play/a02l
-#EXTINF:-1,PAK NEWS
-http://95.0.194.146:8000/play/a055
-#EXTINF:-1,Movie Box TV
-http://95.0.194.146:8000/play/a051
-#EXTINF:-1,Sahara Filmi
-http://95.0.194.146:8000/play/a00w
-#EXTINF:-1,KALAIGNAR TV
-http://95.0.194.146:8000/play/a05e
-#EXTINF:-1,PUTHUYUGAM
-http://95.0.194.146:8000/play/a036
-#EXTINF:-1,ARYNewsAsia
-http://95.0.194.146:8000/play/a00j
-#EXTINF:-1,HUM TV
-http://95.0.194.146:8000/play/a01y
-#EXTINF:-1,LTV
-http://95.0.194.146:8000/play/a01f
-#EXTINF:-1,MLQ MOVIES
-http://95.0.194.146:8000/play/a01r
-#EXTINF:-1,VASANTH TV
-http://95.0.194.146:8000/play/a02w
-#EXTINF:-1,B4U APAC Channel
-http://95.0.194.146:8000/play/a05r
-#EXTINF:-1,247 NEWS
-http://95.0.194.146:8000/play/a056
-#EXTINF:-1,Delhi News
-http://95.0.194.146:8000/play/a01g
-#EXTINF:-1,WE
-http://95.0.194.146:8000/play/a02q
-#EXTINF:-1,POLIMER NEWS
-http://95.0.194.146:8000/play/a033
-#EXTINF:-1,KALAIGNAR SIRIPPOLI
-http://95.0.194.146:8000/play/a05h
-#EXTINF:-1,JAN TV
-http://95.0.194.146:8000/play/a01s
-#EXTINF:-1,Non-Stop Samachar India Test
-http://95.0.194.146:8000/play/a01l
-#EXTINF:-1,ARYDigitalAsia
-http://95.0.194.146:8000/play/a00d
-#EXTINF:-1,KAIRALI ARABIA
-http://95.0.194.146:8000/play/a038
-#EXTINF:-1,ATV
-http://95.0.194.146:8000/play/a063
-#EXTINF:-1,Falak TV
-http://95.0.194.146:8000/play/a060
-#EXTINF:-1,PRAISE TV
-http://95.0.194.146:8000/play/a053
-#EXTINF:-1,KALAIGNAR CHITHIRAM
-http://95.0.194.146:8000/play/a05i
-#EXTINF:-1,DTV
-http://95.0.194.146:8000/play/a05z
-#EXTINF:-1,Star Max
-http://95.0.194.146:8000/play/a05y
-#EXTINF:-1,Starlite
-http://95.0.194.146:8000/play/a05w
-#EXTINF:-1,Super Screen
-http://95.0.194.146:8000/play/a05v
-#EXTINF:-1,MASALA TV
-http://95.0.194.146:8000/play/a01z
-#EXTINF:-1,HUM NEWS
-http://95.0.194.146:8000/play/a024
-#EXTINF:-1,BARKAT TV
-http://95.0.194.146:8000/play/a05u
-#EXTINF:-1,PEOPLE
-http://95.0.194.146:8000/play/a02p
-#EXTINF:-1,Aalami Sahara
-http://95.0.194.146:8000/play/a00u
-#EXTINF:-1,NEWS7 TAMIL
-http://95.0.194.146:8000/play/a05m
-#EXTINF:-1,B4U_MOVIES_INDIA
-http://95.0.194.146:8000/play/a019
-#EXTINF:-1,ARYQTV
-http://95.0.194.146:8000/play/a00f
-#EXTINF:-1,MK TUNES
-http://95.0.194.146:8000/play/a05o
-#EXTINF:-1,AYUSH TV
-http://95.0.194.146:8000/play/a05n
-#EXTINF:-1,MK SIX
-http://95.0.194.146:8000/play/a05p
-#EXTINF:-1,SAIRAM TV
-http://95.0.194.146:8000/play/a05l
-#EXTINF:-1,GR8
-http://95.0.194.146:8000/play/a01p
-#EXTINF:-1,LIVING INDIA NEWS TEST
-http://95.0.194.146:8000/play/a01m
-#EXTINF:-1,VENDHAR TV
-http://95.0.194.146:8000/play/a05k
-#EXTINF:-1,SILVERSCREEN
-http://95.0.194.146:8000/play/a01o
-#EXTINF:-1,ARYZindagi
-http://95.0.194.146:8000/play/a00b
-#EXTINF:-1,DM DIGITAL
-http://95.0.194.146:8000/play/a057
-#EXTINF:-1,KALAIGNAR MURASU
-http://95.0.194.146:8000/play/a05j
-#EXTINF:-1,India News
-http://95.0.194.146:8000/play/a01e
-#EXTINF:-1,MADHA TV
-http://95.0.194.146:8000/play/a02m
-#EXTINF:-1,KALAIGNAR SEITHIGAL
-http://95.0.194.146:8000/play/a05f
-#EXTINF:-1,Ahlebait TV
-http://95.0.194.146:8000/play/a016
-#EXTINF:-1,TV 5
-http://95.0.194.146:8000/play/a032
-#EXTINF:-1,Sahara ONE
-http://95.0.194.146:8000/play/a00o
-#EXTINF:-1,MOON TV
-http://95.0.194.146:8000/play/a02r
-#EXTINF:-1,NEWS X
-http://95.0.194.146:8000/play/a01j
-#EXTINF:-1,Bethat TV
-http://95.0.194.146:8000/play/a05t
-#EXTINF:-1,STUDIO N
-http://95.0.194.146:8000/play/a02z
-#EXTINF:-1,PUBLIC TV
-http://95.0.194.146:8000/play/a030
-#EXTINF:-1,N News
-http://95.0.194.146:8000/play/a01w
-#EXTINF:-1,Global Punjabi
-http://95.0.194.146:8000/play/a01u
-#EXTINF:-1,B4U_MUSIC_INDIA
-http://95.0.194.146:8000/play/a01a
-#EXTINF:-1,PRIME ASIA
-http://95.0.194.146:8000/play/a01q
-#EXTINF:-1,SRI SANKARA
-http://95.0.194.146:8000/play/a02t
-#EXTINF:-1,CAPTAIN NEWS
-http://95.0.194.146:8000/play/a031
-#EXTINF:-1,HUM SITARY
-http://95.0.194.146:8000/play/a020
-#EXTINF:-1,FIRANGI
-http://95.0.194.146:8000/play/a00x
-#EXTINF:-1,Mehak TV
-http://95.0.194.146:8000/play/a01t
 
 
 
@@ -1953,127 +1792,108 @@ http://183.88.212.205:8010/play/a01h
 
 
 
-#EXTINF:-1 group-title=UK-RU CHANNELS,tvg-logo="http://go.sky.com/SVOD/SKYKIDS/IMAGES/Nick%20Jr/P/Peppa%20Pig%20S1/L_Peppa_S1.jpg",GOLD 
-http://5.255.90.223:2082/play/gold
-#EXTINF:-1,Alibi 
-http://5.255.90.223:2082/play/alibi
-#EXTINF:-1,Nicktoons 
-http://5.255.90.223:2082/play/Nicktoons
-#EXTINF:-1,Nick Jr+1 
-http://5.255.90.223:2082/play/NickJr1
-#EXTINF:-1,BT Sport Extra 5 
-http://5.255.90.223:2082/play/a01p 
-#EXTINF:-1,BT Sport Extra 4 
-http://5.255.90.223:2082/play/a01o
-#EXTINF:-1,ComedyXtra+1 
-http://5.255.90.223:2082/play/ComedyXtra1
-#EXTINF:-1,BT Sport Extra 3 
-http://5.255.90.223:2082/play/a01n
-#EXTINF:-1,BT Sport Extra 6 
-http://5.255.90.223:2082/play/a01q
-#EXTINF:-1,BT Sport//ESPN 
-http://5.255.90.223:2082/play/a01w
-#EXTINF:-1,Sony Chnl +1 
-http://5.255.90.223:2082/play/a01r
-#EXTINF:-1,Motorsport TV 
-http://5.255.90.223:2082/play/a01s
-#EXTINF:-1,Nickelodeon 
-http://5.255.90.223:2082/play/Nickelodeon
-#EXTINF:-1,ComedyCentral 
-http://5.255.90.223:2082/play/ComedyCentral
-#EXTINF:-1,ComedyXtra 
-http://5.255.90.223:2082/play/ComedyXtra
-#EXTINF:-1,Nick Jr. 
-http://5.255.90.223:2082/play/NickJr
-#EXTINF:-1,BT Sport 2 
-http://5.255.90.223:2082/play/a01u
-#EXTINF:-1,BT Sport Extra 2 
-http://5.255.90.223:2082/play/a01m
-#EXTINF:-1,BT Sport 2 
-http://5.255.90.223:2082/play/a01t
-#EXTINF:-1,ComedyCent+1 
-http://5.255.90.223:2082/play/ComedyCent1
-#EXTINF:-1,Showcase 3 
-http://5.255.90.223:2082/play/a01l
-#EXTINF:-1,Nick Jr Too 
-http://5.255.90.223:2082/play/NickJrToo
-#EXTINF:-1,MTV MUSIC 
-http://5.255.90.223:2082/play/mtv
+#EXTINF:-1 group-title=UK-RU CHANNELS,tvg-logo="http://go.sky.com/SVOD/SKYKIDS/IMAGES/Nick%20Jr/P/Peppa%20Pig%20S1/L_Peppa_S1.jpg",bbc one
+http://185.62.86.6:8081/hls/bbcone.m3u8
+#EXTINF:-1,bbc two
+http://185.62.86.6:8081/hls/bbctwo.m3u8
+#EXTINF:-1,bbc three
+http://185.62.86.6:8081/hls/bbcthree.m3u8 
+#EXTINF:-1,bbc four 
+http://185.62.86.6:8081/hls/bbcfour.m3u8 
+#EXTINF:-1,itv 
+http://185.62.86.6:8081/hls/itv.m3u8 
+#EXTINF:-1,channel 4 
+http://185.62.86.6:8081/hls/channel4.m3u8 
+#EXTINF:-1,channel 5 
+http://185.62.86.6:8081/hls/channel5.m3u8 
+#EXTINF:-1,itv 2 
+http://185.62.86.6:8081/hls/itv2.m3u8 
+#EXTINF:-1,itv 3 
+http://185.62.86.6:8081/hls/itv3.m3u8 
+#EXTINF:-1,pick 
+http://185.62.86.6:8081/hls/pick.m3u8 
+#EXTINF:-1,dave 
+http://185.62.86.6:8081/hls/dave.m3u8 
+#EXTINF:-1,more 4 
+http://185.62.86.6:8081/hls/more4.m3u8 
+#EXTINF:-1,film 4 
+http://185.62.86.6:8081/hls/film4.m3u8 
+#EXTINF:-1,really 
+http://185.62.86.6:8081/hls/really.m3u8 
+#EXTINF:-1,yesterday 
+http://185.62.86.6:8081/hls/yesterday.m3u8 
+#EXTINF:-1,drama 
+http://185.62.86.6:8081/hls/drama.m3u8 
+#EXTINF:-1,itv 4 
+http://185.62.86.6:8081/hls/itv4.m3u8 
+#EXTINF:-1,5usa 
+http://185.62.86.6:8081/hls/5usa.m3u8 
+#EXTINF:-1,home 
+http://185.62.86.6:8081/hls/home.m3u8 
+#EXTINF:-1,itv be 
+http://185.62.86.6:8081/hls/itvbe.m3u8 
+#EXTINF:-1,e4 
+http://185.62.86.6:8081/hls/e4.m3u8 
+#EXTINF:-1,5star 
+http://185.62.86.6:8081/hls/5star.m3u8 
+#EXTINF:-1,spike uk 
+http://185.62.86.6:8081/hls/spike.m3u8 
+#EXTINF:-1,sony 
+http://185.62.86.6:8081/hls/sonymoviechannel.m3u8 
+#EXTINF:-1,quest 
+http://185.62.86.6:8081/hls/quest.m3u8 
+#EXTINF:-1,food network 
+http://185.62.86.6:8081/hls/foodnetwork.m3u8 
+#EXTINF:-1,challenge 
+http://185.62.86.6:8081/hls/challenge.m3u8 
+#EXTINF:-1,4seven 
+http://185.62.86.6:8081/hls/4seven.m3u8 
+#EXTINF:-1,movie4men 
+http://185.62.86.6:8081/hls/movies4men.m3u8 
+#EXTINF:-1,cbsaction 
+http://185.62.86.6:8081/hls/cbsaction.m3u8 
+#EXTINF:-1,cbsreality 
+http://185.62.86.6:8081/hls/cbsreality.m3u8 
+#EXTINF:-1,horrorchannel 
+http://185.62.86.6:8081/hls/horrorchannel.m3u8 
+#EXTINF:-1,yourtv 
+http://185.62.86.6:8081/hls/yourtv.m3u8 
+#EXTINF:-1,blaze 
+http://185.62.86.6:8081/hls/blaze.m3u8 
+#EXTINF:-1,4music 
+http://185.62.86.6:8081/hls/4music.m3u8 
+#EXTINF:-1,travelchannel 
+http://185.62.86.6:8081/hls/travelchannel.m3u8 
+#EXTINF:-1,cbsdrama 
+http://185.62.86.6:8081/hls/cbsdrama.m3u8 
+#EXTINF:-1,trytv 
+http://185.62.86.6:8081/hls/trutv.m3u8 
+#EXTINF:-1,my5 
+http://185.62.86.6:8081/hls/my5.m3u8
+
+#EXTINF:-1,pick 
+http://79.172.241.74:8081/hls/pick.m3u8 
+#EXTINF:-1,quest 
+http://79.172.241.74:8081/hls/quest.m3u8 
+#EXTINF:-1,challenge 
+http://79.172.241.74:8081/hls/challenge.m3u8 
+#EXTINF:-1,ITV4 
+http://79.172.241.74:8081/hls/itv4.m3u8 
+#EXTINF:-1,cbs action 
+http://79.172.241.74:8081/hls/cbsaction.m3u8 
+#EXTINF:-1,drama 
+http://79.172.241.74:8081/hls/drama.m3u8
 
 
 
-#EXTINF:-1 group-title=UK2 CHANNELS,tvg-logo="http://www.throup.org.uk/images/doctor_who/bbc_one.png",BBC One Lon
-http://80.25.87.6:9981/stream/channelid/1936535934
-#EXTINF:-1,BBC Two Eng
-http://80.25.87.6:9981/stream/channelid/43367668
-#EXTINF:-1,Channel 4
-http://80.25.87.6:9981/stream/channelid/1350631950
-#EXTINF:-1,CITV
-http://80.25.87.6:9981/stream/channelid/407885248
-#EXTINF:-1,Film4
-http://80.25.87.6:9981/stream/channelid/1190871675
-#EXTINF:-1,Film4 +1
-http://80.25.87.6:9981/stream/channelid/1946254025
-#EXTINF:-1,ITV
-http://80.25.87.6:9981/stream/channelid/196970287
-#EXTINF:-1,ITV +1
-http://80.25.87.6:9981/stream/channelid/2133516227
-#EXTINF:-1,ITV2
-http://80.25.87.6:9981/stream/channelid/1199711227
-#EXTINF:-1,ITV4
-http://80.25.87.6:9981/stream/channelid/1864888803
-#EXTINF:-1,ITV4+1
-http://80.25.87.6:9981/stream/channelid/1279886416
-#EXTINF:-1,ITVBe
-http://80.25.87.6:9981/stream/channelid/359890709
-#EXTINF:-1,More4 +1
-http://80.25.87.6:9981/stream/channelid/292897667
-#EXTINF:-1,Pick
-http://80.25.87.6:9981/stream/channelid/1237001161
-#EXTINF:-1,Pick+1
-http://80.25.87.6:9981/stream/channelid/1500252112
-#EXTINF:-1,Sky News
-http://80.25.87.6:9981/stream/channelid/1867717695
 
 
 
 
 
-#EXTINF:-1,BBC One Lon
-http://80.25.87.6:9981/stream/channelid/1936535934
-#EXTINF:-1,BBC Two Eng
-http://80.25.87.6:9981/stream/channelid/43367668
-#EXTINF:-1,Channel 4
-http://80.25.87.6:9981/stream/channelid/1350631950
-#EXTINF:-1,CITV
-http://80.25.87.6:9981/stream/channelid/407885248
-#EXTINF:-1,Film4
-http://80.25.87.6:9981/stream/channelid/1190871675
-#EXTINF:-1,Film4 +1
-http://80.25.87.6:9981/stream/channelid/1946254025
-#EXTINF:-1,ITV
-http://80.25.87.6:9981/stream/channelid/196970287
-#EXTINF:-1,ITV +1
-http://80.25.87.6:9981/stream/channelid/2133516227
-#EXTINF:-1,ITV2
-http://80.25.87.6:9981/stream/channelid/1199711227
-#EXTINF:-1,ITV4
-http://80.25.87.6:9981/stream/channelid/1864888803
-#EXTINF:-1,ITV4+1
-http://80.25.87.6:9981/stream/channelid/1279886416
-#EXTINF:-1,ITVBe
-http://80.25.87.6:9981/stream/channelid/359890709
-#EXTINF:-1,More4 +1
-http://80.25.87.6:9981/stream/channelid/292897667
-#EXTINF:-1,Pick
-http://80.25.87.6:9981/stream/channelid/1237001161
-#EXTINF:-1,Pick+1
-http://80.25.87.6:9981/stream/channelid/1500252112
-#EXTINF:-1,Sky News
-http://80.25.87.6:9981/stream/channelid/1867717695
 
 
-#EXTINF:-1 group-title=UK3 CHANNELS,tvg-logo=http://www.throup.org.uk/images/doctor_who/bbc_one.png",BT Mosaic
+#EXTINF:-1 group-title=UK2 CHANNELS,tvg-logo=http://www.throup.org.uk/images/doctor_who/bbc_one.png",BT Mosaic
 http://5.135.139.19:1935/server7/stream8.stream/playlist.m3u8?token=
 #EXTINF:-1,BT Sports Extra 1
 http://5.135.139.19:1935/server7/stream10.stream/playlist.m3u8?token=
@@ -2275,8 +2095,7 @@ http://94.43.239.178:8080/CHANNEL752/BITRATE0/playlist.m3u8
 http://94.43.239.178:8080/CHANNEL846/BITRATE0/playlist.m3u8
 
 
-#EXTINF:-1 group-title=RUSSIAN CHANNELS 2,tvg-logo="http://www.cineymas.com.ar/wp-content/uploads/2015/03/TNT-Series-Logo-660x460.jpg",2x2
-http://46.20.79.70:4022/udp/233.12.144.2:5050
+
 
 
 
