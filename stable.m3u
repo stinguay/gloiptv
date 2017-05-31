@@ -64,6 +64,8 @@ http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 
+
+
 #EXTINF:-1 group-title=MOVIE CHANNELS,tvg-logo="http://gulf-up.com/do.php?img=271408",STAR Movies HD
 http://130.185.144.63:8081/jppw/starmovieshd/playlist.m3u8
 
@@ -134,6 +136,48 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&si
 
 
 
+
+
+#EXTINF:-1 group-title=SPORTS CHANNELS,tvg-logo="http://gulf-up.com/do.php?img=271",Can be off
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgelive/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2013/6/174294.png",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2013/6/174294.png",REAL MADRID TV L2
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2013/6/174294.png",Sevilla FC TV
+http://sevillafc_live-lh.akamaihd.net/i/radio_0@354144/index_0700_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.swstarone.com/wp-content/uploads/2016/11/Chelsea-TV.png",Chelsea
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 1
+http://185.142.239.164:3135/1/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 2
+http://185.142.239.164:3135/2/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 3
+http://185.142.239.164:3135/3/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 4
+http://185.142.239.164:3135/4/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 5
+http://185.142.239.164:3135/5/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
+
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 3
+http://alkass-i.akamaihd.net/hls/live/205534/2/live_43s20.m3u8
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 5
+
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 SD
+http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 SD
+http://bl.movcast.tv:1935/icoolkora/mbc-pro2_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 3 SD
+http://bl.movcast.tv:1935/icoolkora/mbc-pro3_360p/playlist.m3u8
 
 
 
@@ -429,105 +473,86 @@ http://41.221.144.210/live/russia/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title=UK CHANNELS,tvg-logo="http://go.sky.com/SVOD/SKYKIDS/IMAGES/Nick%20Jr/P/Peppa%20Pig%20S1/L_Peppa_S1.jpg",Nick Jr Peppa
-http://5.255.90.223:5000/play/a00c
-#EXTINF:-1,QUEST+1
-http://5.255.90.223:5000/play/a011
-#EXTINF:-1,MTV MUSIC
-http://5.255.90.223:5000/play/a00d
-#EXTINF:-1,Disc.Science
-http://5.255.90.223:5000/play/a01c
-#EXTINF:-1,Nick Jr Too
-http://5.255.90.223:5000/play/a009
-#EXTINF:-1,ID+1
-http://5.255.90.223:5000/play/a010
-#EXTINF:-1,HomeHealth+1
-http://5.255.90.223:5000/play/a015
-#EXTINF:-1,TLC+1
-http://5.255.90.223:5000/play/a014
-#EXTINF:-1,ComedyXtra+1
-http://5.255.90.223:5000/play/a007
-#EXTINF:-1,Disc.Sci+1
-http://5.255.90.223:5000/play/a00x
-#EXTINF:-1,DMAX
-http://5.255.90.223:5000/play/a00y
-#EXTINF:-1,Disc.History
-http://5.255.90.223:5000/play/a01d
-#EXTINF:-1,TLC
-http://5.255.90.223:5000/play/a01j
-#EXTINF:-1,Discovery+1
-http://5.255.90.223:5000/play/a01a
-#EXTINF:-1,Animal Plnt+1
-http://5.255.90.223:5000/play/a00w
-#EXTINF:-1,ID
-http://5.255.90.223:5000/play/a00v
-#EXTINF:-1,Nicktoons
-http://5.255.90.223:5000/play/a002
-#EXTINF:-1,ComedyCent+1
-http://5.255.90.223:5000/play/a003
-#EXTINF:-1,Home & Health
-http://5.255.90.223:5000/play/a01e
-#EXTINF:-1,Nick Jr.
-http://5.255.90.223:5000/play/a008
-#EXTINF:-1,ComedyCentral
-http://5.255.90.223:5000/play/a004
-#EXTINF:-1,ID
-http://5.255.90.223:5000/play/a01i
-#EXTINF:-1,Nickelodeon
-http://5.255.90.223:5000/play/a00b
-#EXTINF:-1,Disc.Turbo
-http://5.255.90.223:5000/play/a01f
-#EXTINF:-1,Disc.History+1
-http://5.255.90.223:5000/play/a012
-#EXTINF:-1,Discovery Shed
-http://5.255.90.223:5000/play/a013
-#EXTINF:-1,Discovery
-http://5.255.90.223:5000/play/a01g
-#EXTINF:-1,QUEST
-http://5.255.90.223:5000/play/a01h
-#EXTINF:-1,Animal Planet
-http://5.255.90.223:5000/play/a019
-#EXTINF:-1,DMAX+1
-http://5.255.90.223:5000/play/a00z
-#EXTINF:-1,Nick Jr+1
-http://5.255.90.223:5000/play/a00a
-#EXTINF:-1,TLC+2
-http://5.255.90.223:5000/play/a016
-#EXTINF:-1,ComedyXtra
-http://5.255.90.223:5000/play/a006
+#EXTINF:-1 group-title=UK CHANNELS,tvg-logo="http://go.sky.com/SVOD/SKYKIDS/IMAGES/Nick%20Jr/P/Peppa%20Pig%20S1/L_Peppa_S1.jpg",Sky News – 4706 
+http://37.152.128.66:6535/play/a015 
+#EXTINF:-1,Sky News 
+http://37.152.128.66:6535/play/a005 
+#EXTINF:-1,Pick+1 
+http://37.152.128.66:6535/play/a00s 
+#EXTINF:-1,Sky News – 4568 
+http://37.152.128.66:6535/play/a00w 
+#EXTINF:-1,Sky News – 4567 
+http://37.152.128.66:6535/play/a00v 
+#EXTINF:-1,Pick 
+http://37.152.128.66:6535/play/a007 
+#EXTINF:-1,Community 
+http://37.152.128.66:6535/play/a009 
+#EXTINF:-1,SONY SAB 
+http://37.152.128.66:6533/play/a00i 
+#EXTINF:-1,Al Arabiya 
+http://37.152.128.66:6533/play/a017 
+#EXTINF:-1,Glory TV 
+http://37.152.128.66:6533/play/a016 
+#EXTINF:-1,Horse & Country 
+http://37.152.128.66:6533/play/a00c 
+#EXTINF:-1,TV Warehouse 
+http://37.152.128.66:6533/play/a013 
+#EXTINF:-1,Best Direct 
+http://37.152.128.66:6533/play/a014 
+#EXTINF:-1,AAJ TAK 
+http://37.152.128.66:6533/play/a00z 
+#EXTINF:-1,ABP News 
+http://37.152.128.66:6533/play/a018 
+#EXTINF:-1,Retail TV 
+http://37.152.128.66:6533/play/a01b 
+#EXTINF:-1,RT 
+http://37.152.128.66:6533/play/a00y 
+#EXTINF:-1,GEO TV 
+http://37.152.128.66:6533/play/a015 
+#EXTINF:-1,Sony Channel 
+http://37.152.128.66:6533/play/a00f 
+#EXTINF:-1,SONY MIX 
+http://37.152.128.66:6533/play/a00g 
+#EXTINF:-1,Travel Channel 
+http://37.152.128.66:6533/play/a00q 
+#EXTINF:-1,JML Direct 
+http://37.152.128.66:6533/play/a01c 
+#EXTINF:-1,Tristar 
+http://37.152.128.66:6533/play/a011 
+#EXTINF:-1,IQRA BANGLA 
+http://37.152.128.66:6532/play/a00o 
+#EXTINF:-1,IQRA TV 
+http://37.152.128.66:6532/play/a00u 
+#EXTINF:-1,London Live 
+http://37.152.128.66:6532/play/a00c 
+#EXTINF:-1,B4U Music 
+http://37.152.128.66:6532/play/a00a 
+#EXTINF:-1,STV2 
+http://37.152.128.66:6532/play/a00v 
+#EXTINF:-1,CNBC 
+http://37.152.128.66:6532/play/a003 
+#EXTINF:-1,Madani Chnl 
+http://37.152.128.66:6532/play/a00p 
+#EXTINF:-1,Vox Africa 
+http://37.152.128.66:6532/play/a00q 
+#EXTINF:-1,PTV Global 
+http://37.152.128.66:6532/play/a00l 
+#EXTINF:-1,TVC News 
+http://37.152.128.66:6532/play/a00w 
+#EXTINF:-1,Hidayat TV 
+http://37.152.128.66:6532/play/a00n 
+#EXTINF:-1,B4U Movies 
+http://37.152.128.66:6532/play/a00g 
+#EXTINF:-1,Channel i 
+http://37.152.128.66:6532/play/a00s 
+#EXTINF:-1,Venus TV 
+http://37.152.128.66:6532/play/a00m 
 
-#EXTINF:-1 group-title=UK2 CHANNELS,tvg-logo="http://www.throup.org.uk/images/doctor_who/bbc_one.png",BBC One Lon
-http://80.25.87.6:9981/stream/channelid/1936535934
-#EXTINF:-1,BBC Two Eng
-http://80.25.87.6:9981/stream/channelid/43367668
-#EXTINF:-1,Channel 4
-http://80.25.87.6:9981/stream/channelid/1350631950
-#EXTINF:-1,CITV
-http://80.25.87.6:9981/stream/channelid/407885248
-#EXTINF:-1,Film4
-http://80.25.87.6:9981/stream/channelid/1190871675
-#EXTINF:-1,Film4 +1
-http://80.25.87.6:9981/stream/channelid/1946254025
-#EXTINF:-1,ITV
-http://80.25.87.6:9981/stream/channelid/196970287
-#EXTINF:-1,ITV +1
-http://80.25.87.6:9981/stream/channelid/2133516227
-#EXTINF:-1,ITV2
-http://80.25.87.6:9981/stream/channelid/1199711227
-#EXTINF:-1,ITV4
-http://80.25.87.6:9981/stream/channelid/1864888803
-#EXTINF:-1,ITV4+1
-http://80.25.87.6:9981/stream/channelid/1279886416
-#EXTINF:-1,ITVBe
-http://80.25.87.6:9981/stream/channelid/359890709
-#EXTINF:-1,More4 +1
-http://80.25.87.6:9981/stream/channelid/292897667
-#EXTINF:-1,Pick
-http://80.25.87.6:9981/stream/channelid/1237001161
-#EXTINF:-1,Pick+1
-http://80.25.87.6:9981/stream/channelid/1500252112
-#EXTINF:-1,Sky News
-http://80.25.87.6:9981/stream/channelid/1867717695
+
+
+
+
+
 
 
 
