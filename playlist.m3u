@@ -354,6 +354,44 @@ http://37.26.84.98:9999/play/a00p
 #EXTINF:-1, SuperSport 5 
 http://37.26.84.98:9999/play/a00q
 
+#EXTINF:-1,fox-NBA
+http://ws01.sg911.net/sat/us011/playlist.m3u8
+#EXTINF:-1,MLB-us
+http://ws01.sg911.net/sat/us041/playlist.m3u8
+#EXTINF:-1,FOXsun
+http://ws01.sg911.net/sat/us051/playlist.m3u8
+#EXTINF:-1,sportsman運動家
+http://ws01.sg911.net/sat/us071/playlist.m3u8
+#EXTINF:-1,FOX體育
+http://ws01.sg911.net/sat/us081/playlist.m3u8
+#EXTINF:-1,sky體育足球
+http://ws01.sg911.net/sat/us101/playlist.m3u8
+#EXTINF:-1,NBC-4
+http://ws01.sg911.net/sat/us121/playlist.m3u8
+#EXTINF:-1,NBC-UNIVERSO影劇
+http://ws01.sg911.net/sat/us151/playlist.m3u8
+
+
+#EXTINF:-1,Jsports 3
+http://ws01.sg911.net/sat/jp011/playlist.m3u8
+#EXTINF:-1,Jsports 2
+http://ws01.sg911.net/sat/jp021/playlist.m3u8
+#EXTINF:-1,Fox sports
+http://ws01.sg911.net/sat/jp031/playlist.m3u8
+#EXTINF:-1,Tutle two
+http://ws01.sg911.net/sat/jp041/playlist.m3u8
+#EXTINF:-1,FOX體育
+http://ws01.sg911.net/sat/jp051/playlist.m3u8
+#EXTINF:-1,jsports1
+http://ws01.sg911.net/sat/jp061/playlist.m3u8
+#EXTINF:-1, BS
+http://ws01.sg911.net/sat/jp071/playlist.m3u8
+#EXTINF:-1,GREEN
+http://ws01.sg911.net/sat/jp081/playlist.m3u8
+#EXTINF:-1, 棒球
+http://ws01.sg911.net/sat/jp101/playlist.m3u8
+
+
 
 
 
@@ -1213,20 +1251,19 @@ http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8?wowzasessionid
 #EXTINF:-1,African TV 4 sudan
 http://africatv.live.net.sa:1935/live/africatv4/playlist.m3u8?wowzasessionid
 
+
+
 #EXTINF:-1,NBS UGANDA
 rtmp://188.166.159.188:1935/live/nbs
 
-#EXTINF:-1,NBS (Uganda)
-rtmp://174.138.84.246:1935/live/myStream
+#EXTINF:-1,Vox Africa
+https://edge-03.playmedia-cdn.net/origin02/amlst:voxafrica/chunklist_w1650655294_b300000.m3u8?dar=ws&t=
 
 #EXTINF:-1, ANN7 NEWS South Africa
 http://46.4.25.213:1935/live-ann7/ann7-hi.stream/playlist.m3u8
 
 #EXTINF:-1,STAR TV TANZANIA
 http://hls1.livestreamingcdn.com/livecdn858/livecdn858/playlist.m3u8
-
-#EXTINF:-1,RTB (Burkina Faso)
-rtmp://84.16.66.105/livecast/rtbtvlive1
 
 #EXTINF:-1,TCV (Cape Verde)
 http://213.13.26.43:1935/live/rtc_teste/playlist.m3u8
@@ -1236,9 +1273,6 @@ http://str81.creacast.com:80/cna/live.sdp/playlist.m3u8
 
 #EXTINF:-1,ENCA South Africa
 http://urtmpkal-f.akamaihd.net/i/1ciwepkyc_1@431710/index_1_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,ZBC Zimbabwe
-rtmp://41.221.144.210/live/russia
 
 #EXTINF:-1,RTV (Rwanda)
 http://197.243.19.131:1935/rtv/rtv/playlist.m3u8
@@ -1267,20 +1301,23 @@ http://iphone-streaming.ustream.tv/uhls/18597323/streams/live/iphone/playlist.m3
 #EXTINF:-1,AYV TV Sierra Leone
 http://gghdlive-lh.akamaihd.net/i/ayvtv5_1@323148/master.m3u8
 
-#EXTINF:-1,Mouride TV (Senegal)
-rtmp://162.212.178.131:1935/Livemouridetv/mouridetv
-
-#EXTINF:-1,TV Western Sahara
-rtmp://cast.streamingconnect.tv:1935/rasdtv/rasdtv
-
-#EXTINF:-1,BENIE TV(Cote d’ivoire)
-rtmp://rdccongo3.ddns.net/live/livestream2
-
 #EXTINF:-1,T_chad
 http://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 
 #EXTINF:-1,RTI 1 (Cote d’ivoire)
 http://85.25.207.10:1935/live/smil:rti1.smil/chunklist_w1332892980_b398000_sleng.m3u8
+
+#EXTINF:-1,TV Western Sahara
+http://cast.streamingconnect.tv:1935/rasdtv/rasdtv/playlist.m3u8
+
+#EXTINF:-1,RTB (Burkina Faso)
+http://84.16.66.105/livecast/rtbtvlive1/playlist.m3u8
+
+#EXTINF:-1,Mouride TV (Senegal)
+http://162.212.178.131:1935/Livemouridetv/mouridetv/playlist.m3u8
+
+#EXTINF:-1,ZBC Zimbabwe
+http://41.221.144.210/live/russia/playlist.m3u8
 
 
 
