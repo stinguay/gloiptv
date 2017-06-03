@@ -172,151 +172,24 @@ http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
 http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/02/NFL-Now.jpg" ,NFL NOW
-https://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW_1200k.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2013/6/174294.png",REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.swstarone.com/wp-content/uploads/2016/11/Chelsea-TV.png",Chelsea TV
-http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.swstarone.com/wp-content/uploads/2016/11/Chelsea-TV.png",Chelsea L2
-http://78.129.239.105:8080/je3nNaM00tAacehlsee/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png",LFC
-http://78.129.239.105:8080/je3nNaM00tAaelfseea/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
-http://78.129.239.105:8080/je3nNaM00tAaemyou0T/Strm/index.m3u8
 #EXTINF:-1,Sevilla FC TV
 http://sevillafc_live-lh.akamaihd.net/i/radio_0@354144/index_0700_av-b.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="http://www.swstarone.com/wp-content/uploads/2016/11/Chelsea-TV.png",Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 1 HD
-http://alkass-i.akamaihd.net/hls/live/205534/1/live_38s8.m3u8
-
-#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 1 HD
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-
-#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 2 HD
-http://alkass-i.akamaihd.net/hls/live/205534/2/live_43s20.m3u8
-
-#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 3 HD
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-
-#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 4 HD
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-
-#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 5 HD
-http://alkass-i.akamaihd.net/hls/live/205534/5/live_30s20.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
-http://123.30.185.126/hls/vtc3.m3u8
-
-
-#EXTINF:-1,BT Mosaic
-http://5.135.139.19:1935/server7/stream8.stream/playlist.m3u8?token=
-#EXTINF:-1,BT Sports Extra 1
-http://5.135.139.19:1935/server7/stream10.stream/playlist.m3u8?token=
-#EXTINF:-1,BT Sports Extra 2
-http://5.135.139.19:1935/server7/stream11.stream/playlist.m3u8?token=
-#EXTINF:-1,BT Sports Extra 3
-http://5.135.139.19:1935/server7/stream12.stream/playlist.m3u8?token=
-#EXTINF:-1,BT Sports Extra 4
-http://5.135.139.19:1935/server7/stream13.stream/playlist.m3u8?token=
-
-
-#EXTINF:0 , SuperSport 1 
-http://81.7.13.162/hls/ss1/index.m3u8 
-#EXTINF:0 , SuperSport 2 
-http://81.7.13.162/hls/ss2/index.m3u8 
-#EXTINF:0 , SuperSport 3 
-http://81.7.13.162/hls/ss3/index.m3u8  
-#EXTINF:-1,Superport 4 
-http://81.7.13.162/hls/ss4/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 1
-http://185.142.239.164:3135/1/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 2
-http://185.142.239.164:3135/2/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 3
-http://185.142.239.164:3135/3/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 4
-http://185.142.239.164:3135/4/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 5
-http://185.142.239.164:3135/5/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
-
-
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 SD
-http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 SD
-http://bl.movcast.tv:1935/icoolkora/mbc-pro2_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 3 SD
-http://bl.movcast.tv:1935/icoolkora/mbc-pro3_360p/playlist.m3u8
-
-
-#EXTINF:-1, SPORT1 (lit)
-http://193.8.246.110:8880/play/10045
+#EXTINF:-1 tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/02/NFL-Now.jpg" ,NFL NOW
+https://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW_1200k.m3u8
 
 #EXTINF:-1,GTV Sports +
 http://149.202.71.47:8081/live/gtvs/chunks.m3u8
 
-#EXTINF:-1,ArenaSport5
-http://93.87.85.71/PLTV/88888888/224/3221226665/04.m3u8?accountinfo=ZeAV8U9WVhMrjDgysCOSkWa3SEm0jTynU03wrqt2VrH6iDj2gaqeLRUUcQQk1m1HV%2FOodSRuoQbm4%2FV4q9BJpFd9c9uG7pV6YEvCbjf8aOEWmHEXJgX2It2fsvy71sHJl6mtJ2huIrNIRDXQ6jZFOD2pealq0Oc33T93gAHeVv5tdpZjgWkl7Gd4IUs%2FxBc1%2Curn%2C,END&GuardEncType=2
-
-#EXTINF:-1,XSPORT
-http://83.142.232.246:1935/live/efir/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1,fUTEBOL1 [Liga Nos]
-http://82.200.127.58:8080/udp/239.54.6.153:1224
-
- 
-#EXTINF:-1,DIEMA SPORT1
-http://130.185.232.92:1234/DiemaSp.m3u8
-#EXTINF:-1,DIEMA SPORT2
-http://130.185.232.92:1234/DiemaSp2.m3u8
-#EXTINF:-1,SETANTA SPORT
-http://178.124.183.11/hls/CH_SETANTASPORT/variant.m3u8?version=2
-#EXTINF:-1,SETANTA SPORT+
-http://178.124.183.11/hls/CH_SETANTASPORTPLUS/variant.m3u8?version=2
-
-
-
-
-#EXTINF:-1,NAUTICAL [mudar audio para UK]
-http://82.200.127.58:8080/udp/233.12.144.11:5050
-
-
-
-
-#EXTINF:-1,Dubai Sports 
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-
-#EXTINF:-1,Dubai Racing 1
-http://dmivll.mangomolo.com/events/smil:events.smil/playlist.m3u8
-
-#EXTINF:-1,Dubai Racing 2
-http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-
-#EXTINF:-1,Dubai Sports 3
-http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/master.m3u8
-
-#EXTINF:-1,DUBAI SPORTS 4
-http://selevision9890-i.akamaihd.net/hls/live/219326/98909/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://photosarab.com/wp-content/uploads/2016/11/sharjah-sport-off.png", Sharjah Sports HD
-http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/blog/wp-content/uploads/2015/03/Red-Bull-TV-logo.png",Red Bull Tv
-https://elementaldelta2.redbull.tv/30_5.m3u8
+#EXTINF:1,BFMSPORT
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-4.m3u8
 
 #EXTINF:-1,Pac 12 Arizona 
 http://xrxs.net/video/live-p12ariz-2328.m3u8
@@ -333,141 +206,35 @@ http://xrxs.net/video/live-p12losa-2328.m3u8
 #EXTINF:1,Pac 12 WashINGTON
 http://xrxs.net/video/live-p12wash-2328.m3u8
 
-#EXTINF:-1, TRING SPORT NEWS HD 
-http://37.26.84.98:9999/play/a021
-#EXTINF:-1, Tring Sport 1 HD 
-http://37.26.84.98:9999/play/a025
-#EXTINF:-1, Tring Sport 2 HD 
-http://37.26.84.98:9999/play/a026
-#EXTINF:-1, Tring Sport 3 HD 
-http://37.26.84.98:9999/play/a027
-#EXTINF:-1, Tring Sport 4 HD 
-http://37.26.84.98:9999/play/a029
-#EXTINF:-1, SuperSport 1 
-http://37.26.84.98:9999/play/a00m
-#EXTINF:-1, SuperSport 2 
-http://37.26.84.98:9999/play/a00n
-#EXTINF:-1, SuperSport 3 
-http://37.26.84.98:9999/play/a00o
-#EXTINF:-1, SuperSport 4 
-http://37.26.84.98:9999/play/a00p
-#EXTINF:-1, SuperSport 5 
-http://37.26.84.98:9999/play/a00q
 
-#EXTINF:-1,fox-NBA
-http://ws01.sg911.net/sat/us011/playlist.m3u8
-#EXTINF:-1,MLB-us
-http://ws01.sg911.net/sat/us041/playlist.m3u8
-#EXTINF:-1,FOXsun
-http://ws01.sg911.net/sat/us051/playlist.m3u8
-#EXTINF:-1,sportsman運動家
-http://ws01.sg911.net/sat/us071/playlist.m3u8
-#EXTINF:-1,FOX體育
-http://ws01.sg911.net/sat/us081/playlist.m3u8
-#EXTINF:-1,sky體育足球
-http://ws01.sg911.net/sat/us101/playlist.m3u8
-#EXTINF:-1,NBC-4
-http://ws01.sg911.net/sat/us121/playlist.m3u8
-#EXTINF:-1,NBC-UNIVERSO影劇
-http://ws01.sg911.net/sat/us151/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 1 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 2 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 
-#EXTINF:-1,Jsports 3
-http://ws01.sg911.net/sat/jp011/playlist.m3u8
-#EXTINF:-1,Jsports 2
-http://ws01.sg911.net/sat/jp021/playlist.m3u8
-#EXTINF:-1,Fox sports
-http://ws01.sg911.net/sat/jp031/playlist.m3u8
-#EXTINF:-1,Tutle two
-http://ws01.sg911.net/sat/jp041/playlist.m3u8
-#EXTINF:-1,FOX體育
-http://ws01.sg911.net/sat/jp051/playlist.m3u8
-#EXTINF:-1,jsports1
-http://ws01.sg911.net/sat/jp061/playlist.m3u8
-#EXTINF:-1, BS
-http://ws01.sg911.net/sat/jp071/playlist.m3u8
-#EXTINF:-1,GREEN
-http://ws01.sg911.net/sat/jp081/playlist.m3u8
-#EXTINF:-1, 棒球
-http://ws01.sg911.net/sat/jp101/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 3 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 4 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 5 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 SD
+http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 SD
+http://bl.movcast.tv:1935/icoolkora/mbc-pro2_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 3 SD
+http://bl.movcast.tv:1935/icoolkora/mbc-pro3_360p/playlist.m3u8
 
-
-#EXTINF:-1,ALL SPORTS TV [BR]
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-
-#EXTINF:-1,VIASAT SPORT
-http://vs8.cdn.ott.otautv.kz:80/dtv/id73_KTR_SG--ViasatSport/03/plst.m3u8
-
-#EXTINF:1,BFMSPORT
-http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-4.m3u8
-
-#EXTINF:1,Olympic Channel
-http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8
-
-#EXTINF:-1,OLYMPIC CHANNEL 2
-http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_6_3514000.m3u8
-
-#EXTINF:-1,FISH TV
-http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream2/chunklist.m3u8
-
-
-#EXTINF:-1,Luna Sport
-http://vs2.streamcaster.net:1935/test_live/lunasport/playlist.m3u8
-#EXTINF:-1, VTC3  
-http://123.30.185.126/hls/vtc3.m3u8
-#EXTINF:-1, OMA SPORT
-http://38.96.148.30:1935/live/omantv2/playlist.m3u8
-#EXTINF:-1,Ptv Sports [EN]
-http://live1.1dnsgeo.com:1935/live/ptvsports/player.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.haoqu.net/uploadfile/2014/0107/20140107082248835.jpg",BTV Sports
-http://btv6.vtime.cntv.cloudcdn.net/cache/314_/seg0/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.haoqu.net/uploadfile/2014/0718/20140718061617261.jpg",Guangdong sports
-http://125.88.92.166:30001/PLTV/88888956/224/3221227703/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://a2.att.hudong.com/25/25/20300001024098139640257191556.jpg",GDTV SPORTS
-http://eshare.live.otvcloud.com/otv/nyz/live/channel32/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/ff/fox_sports_1_cl.png",FOX SPORTS 1
-http://61.222.191.25/live/ch12/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/ff/fox_sports_2_africa.png",FOX SPORTS 2
-http://kb1.ottclub.info:443/kitty/c665.stream/playlist.m3u8
-
-#EXTINF:-1,FOX SPORTS3
-http://kb1.ottclub.info:443/water/c730.stream/playlist.m3u8
-
-#EXTINF:-1,CCTV-Football
-http://60.220.196.154/livehls1-cnc.wasu.cn/fyzq/z.m3u8
-
-#EXTINF:-1, HK Sports201HD
-http://120.52.73.7/61.10.2.137/live_conmobile/_definst_/4-2a021def-1479807195-1479807495-9e6dabffed40667db0f20c19ecf45106-8d412fe0f261630_67a-03/hd201_h.live/chunklist_w386011701.m3u8?uid=8169adc297a66a924239d20609ba947f
-#EXTINF:1,HK Sports202HD
-http://120.52.73.7/61.10.2.137/live_conmobile/_definst_/4-2a021def-1479808836-1479809136-9ba719f8a20a5c2db06f427f3d4544ce-8d41301e1a4911a_5ec-03/hd202_h.live/chunklist_w303611369.m3u8?uid=8169adc297a66a924239d20609ba947f
-#EXTINF:1,HK Sports203HD
-http://120.52.73.7/61.10.2.137/live_conmobile/_definst_/4-2a021def-1479809025-1479809325-968fed7f8a09180c0d54059d8afd8438-8d41302526d0e86_80c-03/hd203_h.live/chunklist_w13875024.m3u8?uid=8169adc297a66a924239d20609ba947f
 #EXTINF:-1,CCTV-5+HD
 http://183.251.61.207/PLTV/88888888/224/3221225821/index.m3u8
 #EXTINF:-1,CCTV-5HD
 http://183.251.61.207/PLTV/88888888/224/3221225803/index.m3u8
-
-#EXTINF:-1,CCTV5
-http://chinanet.live.bestvcdn.com.cn/live/program/Dbst.mobile.live.bestvcdn.com.cnD/_MH_keyM_H_/live/cctv5/1300000/mnf.m3u8
-
-#EXTINF:-1,5Star Sports HD
-http://183.251.61.207/PLTV/88888888/224/3221225914/index.m3u8
-#EXTINF:-1,5Star Sports
-http://chinanet.live.bestvcdn.com.cn/live/program/Dbst.mobile.live.bestvcdn.com.cnD/_MH_keyM_H_/live/ssty/2300000/mnf.m3u8
 #EXTINF:-1,BesTV NBA-1
 http://183.251.61.207/PLTV/88888888/224/3221225905/index.m3u8
-#EXTINF:-1,NewTV Sports HD
-http://183.207.249.7/PLTV/3/224/3221225543/index.m3u8
-
 
 
 #EXTINF:-1,letv Sports
@@ -562,6 +329,117 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_glq_1800&tag=live&ext=m3u8&sig
 
 #EXTINF:-1 group-title="longlong",Racing
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_F1_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:0 , SuperSport 1 
+http://81.7.13.162/hls/ss1/index.m3u8 
+#EXTINF:0 , SuperSport 2 
+http://81.7.13.162/hls/ss2/index.m3u8 
+#EXTINF:0 , SuperSport 3 
+http://81.7.13.162/hls/ss3/index.m3u8  
+#EXTINF:-1,Superport 4 
+http://81.7.13.162/hls/ss4/index.m3u8
+
+
+
+#EXTINF:-1,Dubai Sports 
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai Racing 1
+http://dmivll.mangomolo.com/events/smil:events.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai Racing 2
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai Sports 3
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:-1,DUBAI SPORTS 4
+http://selevision9890-i.akamaihd.net/hls/live/219326/98909/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://photosarab.com/wp-content/uploads/2016/11/sharjah-sport-off.png", Sharjah Sports HD
+http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1, SPORT1 (lit)
+http://193.8.246.110:8880/play/10045
+
+#EXTINF:-1,ALL SPORTS TV [BR]
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+
+
+#EXTINF:-1,ArenaSport5
+http://93.87.85.71/PLTV/88888888/224/3221226665/04.m3u8?accountinfo=ZeAV8U9WVhMrjDgysCOSkWa3SEm0jTynU03wrqt2VrH6iDj2gaqeLRUUcQQk1m1HV%2FOodSRuoQbm4%2FV4q9BJpFd9c9uG7pV6YEvCbjf8aOEWmHEXJgX2It2fsvy71sHJl6mtJ2huIrNIRDXQ6jZFOD2pealq0Oc33T93gAHeVv5tdpZjgWkl7Gd4IUs%2FxBc1%2Curn%2C,END&GuardEncType=2
+
+#EXTINF:-1,XSPORT
+http://83.142.232.246:1935/live/efir/playlist.m3u8
+
+#EXTINF:-1,fUTEBOL1 [Liga Nos]
+http://82.200.127.58:8080/udp/239.54.6.153:1224
+
+ 
+
+
+
+
+
+
+#EXTINF:-1,Jsports 3
+http://ws01.sg911.net/sat/jp011/playlist.m3u8
+#EXTINF:-1,Jsports 2
+http://ws01.sg911.net/sat/jp021/playlist.m3u8
+#EXTINF:-1,Fox sports
+http://ws01.sg911.net/sat/jp031/playlist.m3u8
+#EXTINF:-1,Tutle two
+http://ws01.sg911.net/sat/jp041/playlist.m3u8
+#EXTINF:-1,FOX體育
+http://ws01.sg911.net/sat/jp051/playlist.m3u8
+#EXTINF:-1,jsports1
+http://ws01.sg911.net/sat/jp061/playlist.m3u8
+#EXTINF:-1, BS
+http://ws01.sg911.net/sat/jp071/playlist.m3u8
+#EXTINF:-1,GREEN
+http://ws01.sg911.net/sat/jp081/playlist.m3u8
+#EXTINF:-1, 棒球
+http://ws01.sg911.net/sat/jp101/playlist.m3u8
+
+
+
+#EXTINF:-1,Luna Sport
+http://vs2.streamcaster.net:1935/test_live/lunasport/playlist.m3u8
+#EXTINF:-1, VTC3  
+http://123.30.185.126/hls/vtc3.m3u8
+#EXTINF:-1, OMA SPORT
+http://38.96.148.30:1935/live/omantv2/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.haoqu.net/uploadfile/2014/0107/20140107082248835.jpg",BTV Sports
+http://btv6.vtime.cntv.cloudcdn.net/cache/314_/seg0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.haoqu.net/uploadfile/2014/0718/20140718061617261.jpg",Guangdong sports
+http://125.88.92.166:30001/PLTV/88888956/224/3221227703/1.m3u8
+
+#EXTINF:-1 tvg-logo="http://a2.att.hudong.com/25/25/20300001024098139640257191556.jpg",GDTV SPORTS
+http://eshare.live.otvcloud.com/otv/nyz/live/channel32/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/hires/ff/fox_sports_1_cl.png",FOX SPORTS 1
+http://61.222.191.25/live/ch12/playlist.m3u8
+
+
+
+#EXTINF:-1, HK Sports201HD
+http://120.52.73.7/61.10.2.137/live_conmobile/_definst_/4-2a021def-1479807195-1479807495-9e6dabffed40667db0f20c19ecf45106-8d412fe0f261630_67a-03/hd201_h.live/chunklist_w386011701.m3u8?uid=8169adc297a66a924239d20609ba947f
+#EXTINF:1,HK Sports202HD
+http://120.52.73.7/61.10.2.137/live_conmobile/_definst_/4-2a021def-1479808836-1479809136-9ba719f8a20a5c2db06f427f3d4544ce-8d41301e1a4911a_5ec-03/hd202_h.live/chunklist_w303611369.m3u8?uid=8169adc297a66a924239d20609ba947f
+#EXTINF:1,HK Sports203HD
+http://120.52.73.7/61.10.2.137/live_conmobile/_definst_/4-2a021def-1479809025-1479809325-968fed7f8a09180c0d54059d8afd8438-8d41302526d0e86_80c-03/hd203_h.live/chunklist_w13875024.m3u8?uid=8169adc297a66a924239d20609ba947f
+
+
+#EXTINF:-1,NewTV Sports HD
+http://183.207.249.7/PLTV/3/224/3221225543/index.m3u8
+
 
 
 #EXTINF:-1 group-title=MOVIE CHANNELS,tvg-logo="http://gulf-up.com/do.php?img=271408",STAR Movies HD
