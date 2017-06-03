@@ -324,10 +324,10 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsyx_1300&tag=live&ext=m3u8&si
 #EXTINF:-1,letv E-sports
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzjj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
-#EXTINF:-1 group-title="longlong",Rugby
+#EXTINF:-1,Rugby
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_glq_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
-#EXTINF:-1 group-title="longlong",Racing
+#EXTINF:-1,Racing
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_F1_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 #EXTINF:0 , SuperSport 1 
