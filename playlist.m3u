@@ -13,7 +13,7 @@ http://abclive.abcnews.com/i/abc_live08@318690/index_1200_av-p.m3u8?sd=10&b=400,
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.hollywoodreporter.com/sites/default/files/2013/01/bbc_news.png",BBC 
-http://109.226.92.253:4022/udp/232.0.2.42:1235
+http://220.228.38.16/live/fet001/chunklist.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/BBC_Persian_logo.svg/640px-BBC_Persian_logo.svg.png",BBC PERSIAN
 http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/index_800_av-b.m3u8
@@ -22,7 +22,7 @@ http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/index_800_av-b.m3u8
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://litmotors.com/wp-content/uploads/2014/01/BLOOMBERG-tv-LOGO.png",Bloomberg
-http://217.66.99.235:1234/udp/225.1.1.135:4001
+http://220.228.38.16/live/fet007/chunklist.m3u
 
 #EXTINF:-1 tvg-logo="http://www.coxmediagroup.com/rw/Pub/Web/Corp/Special%20Contents/Properties/Images/JAX%20CBS47%20ACTION%20NEWS.png",CBS 47
 http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
@@ -72,7 +72,6 @@ http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="http://jcpa-lecape.org/wp-content/uploads/2014/08/france24.jpg",France24 Francise
 http://f24hls-i.akamaihd.net/hls/live/221192-b/F24_FR_LO_HLS/master_900.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://victorygroup.com/wp-content/uploads/FOX-NEWS-864x445.png", FOX NEWS
 http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
 
@@ -108,6 +107,9 @@ http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index2500.m3u8
 
 #EXTINF:-1 tvg-logo="http://alziadiq8.com/wp-content/uploads/2014/11/2010-02-13-1RussiaTodaylogo.jpg",RT Arabic
 http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index1600.m3u8
+
+#EXTINF:-1,SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Class_CNBC.svg/952px-Class_CNBC.svg.png", Class-Cnbc
 http://liveclass.edgesuite.net/i/classcnbc_1@199799/master.m3u8
@@ -439,6 +441,71 @@ http://120.52.73.7/61.10.2.137/live_conmobile/_definst_/4-2a021def-1479809025-14
 
 #EXTINF:-1,NewTV Sports HD
 http://183.207.249.7/PLTV/3/224/3221225543/index.m3u8
+
+
+
+
+#EXTINF:-1, UK:BT Sports 1 
+http://185.142.239.164:3135/BT/1/index.m3u8 
+#EXTINF:-1, UK:BT Sports 2 
+http://185.142.239.164:3135/BT/2/index.m3u8 
+#EXTINF:-1, BT Sports 3 
+http://185.142.239.164:3135/BT/3/index.m3u8 
+#EXTINF:-1, UK:BT Espn 
+http://185.142.239.164:3135/BT/Espn/index.m3u8 
+#EXTINF:-1, UK:Sky Sports 1 
+http://185.142.239.164:3135/1/Sports/index.m3u8 
+#EXTINF:-1, UK:Sky Sports 2 
+http://185.142.239.164:3135/2/Sports/index.m3u8 
+#EXTINF:-1, UK:Sky Sports 3 
+http://185.142.239.164:3135/3/Sports/index.m3u8 
+#EXTINF:-1, UK:Sky Sports 4 
+http://185.142.239.164:3135/4/Sports/index.m3u8 
+#EXTINF:-1, UK:Sky Sports 5 
+http://185.142.239.164:3135/5/Sports/index.m3u8 
+#EXTINF:-1, UK:Sky Sports F1 
+http://185.142.239.164:3135/F1/Sports/index.m3u8 
+#EXTINF:-1, UK:Sky Sports news 
+http://185.142.239.164:3135/News.Sports/index.m3u8 
+#EXTINF:-1, EURO SPORT 1 
+http://185.142.239.164:3135/Euro/1/index.m3u8 
+#EXTINF:-1, EURO SPORT 2 HD 
+http://185.142.239.164:3135/Euro/2/index.m3u8 
+#EXTINF:-1, USA:FOX Sports 1(FS1) 
+http://185.142.239.164:3135/1/FOX/index.m3u8 
+#EXTINF:-1, USA:FOX Sports 2(FS2) 
+http://185.142.239.164:3135/2/FOX/index.m3u8 
+#EXTINF:-1, Setanta Sports 
+http://185.142.239.164:3135/Setanta/Sports/index.m3u8 
+#EXTINF:-1, Premiere Sports 
+http://185.142.239.164:3135/Premiere/Sports/index.m3u8 
+#EXTINF:-1, Boxing & Wrestling 
+http://185.142.239.164:3135/BT/2/index.m3u 
+#EXTINF:-1, Ten Sports 1 
+http://185.142.239.164:3135/Ten/1/index.m3u8 
+#EXTINF:-1, Ten Sports 2 
+http://185.142.239.164:3135/Ten/2/index.m3u8 
+#EXTINF:-1, Ten Sports 3 
+http://185.142.239.164:3135/Ten/3/index.m3u8 
+#EXTINF:-1, NFL Network 
+http://185.142.239.164:3135/NFL/Network/index.m3u8 
+#EXTINF:-1, ESPN 1 
+http://185.142.239.164:3135/Espn/1/index.m3u8 
+#EXTINF:-1, ESPN 2 
+http://185.142.239.164:3135/Espn/2/index.m3u8 
+#EXTINF:-1, PTV Sports 
+http://185.142.239.164:3135/Ptv/Sports/index.m3u8 
+#EXTINF:-1, Super 1 
+http://185.142.239.164:3135/Super/1/index.m3u8 
+#EXTINF:-1, Super 2 
+http://185.142.239.164:3135/Super/2/index.m3u8 
+#EXTINF:-1, Super 3 
+http://185.142.239.164:3135/Super/3/index.m3u8 
+#EXTINF:-1, Super 4 
+http://185.142.239.164:3135/Super/4/index.m3u8
+
+
+
 
 
 
@@ -1664,6 +1731,261 @@ http://183.88.212.205:8010/play/a00l
 http://183.88.212.205:8010/play/a01c
 #EXTINF:-1,MYANMAR MOVIES
 http://183.88.212.205:8010/play/a01h
+
+
+
+
+
+
+
+#EXTINF:-1,SKYNET SPORTS-4 
+http://183.88.212.205:8010/play/a00a 
+#EXTINF:-1,NAT GEO MUSIC 
+http://183.88.212.205:8010/play/a01q 
+#EXTINF:-1,DISCOVERY KIDS 
+http://183.88.212.205:8010/play/a036 
+#EXTINF:-1,FOX SPORTS 2 
+http://183.88.212.205:8010/play/a02n 
+#EXTINF:-1,FOX SPORTS 1 
+http://183.88.212.205:8010/play/a02m 
+#EXTINF:-1,HISTORY HD 
+http://183.88.212.205:8010/play/a00y 
+#EXTINF:-1,FOX NEWS 
+http://183.88.212.205:8010/play/a00f 
+#EXTINF:-1,DWTV 
+http://183.88.212.205:8010/play/a02g 
+#EXTINF:-1,SKYNET SPORTS-1 
+http://183.88.212.205:8010/play/a02j 
+#EXTINF:-1,CI 
+http://183.88.212.205:8010/play/a00j 
+#EXTINF:-1,SKYNET SPORTS-6 
+http://183.88.212.205:8010/play/a00c 
+#EXTINF:-1,EDUCATION CHANNEL 
+http://183.88.212.205:8010/play/a03p 
+#EXTINF:-1,AGRICULTURE/FOREST 
+http://183.88.212.205:8010/play/a03q 
+#EXTINF:-1,ZEE TV 
+http://183.88.212.205:8010/play/a01z 
+#EXTINF:-1,ANIMAL PLANET 
+http://183.88.212.205:8010/play/a030 
+#EXTINF:-1,ARIRANG 
+http://183.88.212.205:8010/play/a026 
+#EXTINF:-1,HBO 
+http://183.88.212.205:8010/play/a00m 
+#EXTINF:-1,DISCOVERY HD WORLD 
+http://183.88.212.205:8010/play/a00t 
+#EXTINF:-1,MITV 
+http://183.88.212.205:8010/play/a016 
+#EXTINF:-1,TINE-YIN-THAR 
+http://183.88.212.205:8010/play/a03s 
+#EXTINF:-1,SKY NEWS 
+http://183.88.212.205:8010/play/a00e 
+#EXTINF:-1,EURO SPORTS NEWS 
+http://183.88.212.205:8010/play/a00g 
+#EXTINF:-1,OUTDOOR CHANNEL 
+http://183.88.212.205:8010/play/a03d 
+#EXTINF:-1,GOLF 
+http://183.88.212.205:8010/play/a02q 
+#EXTINF:-1,MTV LIVE HD 
+http://183.88.212.205:8010/play/a00s 
+#EXTINF:-1,FOX FAMILY MOVIES 
+http://183.88.212.205:8010/play/a01m 
+#EXTINF:-1,HLUTTAW 
+http://183.88.212.205:8010/play/a037 
+#EXTINF:-1,DIVA UNIVERSAL 
+http://183.88.212.205:8010/play/a03n 
+#EXTINF:-1,EDGE SPORTS 
+http://183.88.212.205:8010/play/a03i 
+#EXTINF:-1,UNIVERSAL SD 
+http://183.88.212.205:8010/play/a03m 
+#EXTINF:-1,BBC WORLD NEWS 
+http://183.88.212.205:8010/play/a03g 
+#EXTINF:-1,FX 
+http://183.88.212.205:8010/play/a023 
+#EXTINF:-1,FOX SPORTS NEWS 
+http://183.88.212.205:8010/play/a022 
+#EXTINF:-1,NGC 
+http://183.88.212.205:8010/play/a02x 
+#EXTINF:-1,STAR WORLD 
+http://183.88.212.205:8010/play/a021 
+#EXTINF:-1,MOTORVISION 
+http://183.88.212.205:8010/play/a03j 
+#EXTINF:-1,M 
+http://183.88.212.205:8010/play/a024 
+#EXTINF:-1,FOX CRIME 
+http://183.88.212.205:8010/play/a020 
+#EXTINF:-1,LIFETIME 
+http://183.88.212.205:8010/play/a03l 
+#EXTINF:-1,CHANNEL ONE 
+http://183.88.212.205:8010/play/a019 
+#EXTINF:-1,DMAX 
+http://183.88.212.205:8010/play/a035 
+#EXTINF:-1,DISNEY JUNIOR ASIA 
+http://183.88.212.205:8010/play/a02u 
+#EXTINF:-1,FRANCE 24 
+http://183.88.212.205:8010/play/a02h 
+#EXTINF:-1,STATE&DIVISION HLUTTAW 
+http://183.88.212.205:8010/play/a03h 
+#EXTINF:-1,HEALTH 
+http://183.88.212.205:8010/play/a03r 
+#EXTINF:-1,CCTV 4 
+http://183.88.212.205:8010/play/a02a 
+#EXTINF:-1,FOX MOVIES PREMIUM 
+http://183.88.212.205:8010/play/a01l 
+#EXTINF:-1,WORLD MOVIES 
+http://183.88.212.205:8010/play/a01k 
+#EXTINF:-1,MYANMAR ARTS 
+http://183.88.212.205:8010/play/a01i 
+#EXTINF:-1,KBS WORLD 
+http://183.88.212.205:8010/play/a025 
+#EXTINF:-1,E! 
+http://183.88.212.205:8010/play/a03o 
+#EXTINF:-1,CHANNEL 9 
+http://183.88.212.205:8010/play/a01a 
+#EXTINF:-1,WORLD DRAMA 
+http://183.88.212.205:8010/play/a01x 
+#EXTINF:-1,COMEDY CENTRAL 
+http://183.88.212.205:8010/play/a03b 
+#EXTINF:-1,CNN 
+http://183.88.212.205:8010/play/a00l 
+#EXTINF:-1,UP TO DATE 
+http://183.88.212.205:8010/play/a03a 
+#EXTINF:-1,CH-V 
+http://183.88.212.205:8010/play/a01p 
+#EXTINF:-1,MRTV ENTERTAINTMENT 
+http://183.88.212.205:8010/play/a015 
+#EXTINF:-1,GLOBALNET 
+http://183.88.212.205:8010/play/a039 
+#EXTINF:-1,CARTOON NETWORK 
+http://183.88.212.205:8010/play/a01b 
+#EXTINF:-1,NICKELODEON 
+http://183.88.212.205:8010/play/a01f 
+#EXTINF:-1,INTERNATIONAL DRAMA 
+http://183.88.212.205:8010/play/a01y 
+#EXTINF:-1,ITV CHOICE 
+http://183.88.212.205:8010/play/a038 
+#EXTINF:-1,SKYNET MUSIC 
+http://183.88.212.205:8010/play/a01o 
+#EXTINF:-1,RED BY HBO 
+http://183.88.212.205:8010/play/a03c 
+#EXTINF:-1,DISCOVERY SCIENCE 
+http://183.88.212.205:8010/play/a034 
+#EXTINF:-1,FASHION ONE 
+http://183.88.212.205:8010/play/a01v 
+#EXTINF:-1,MRTV 
+http://183.88.212.205:8010/play/a013 
+#EXTINF:-1,SKYNET SPORTS-5 
+http://183.88.212.205:8010/play/a00b 
+#EXTINF:-1,FOX SPORTS 3 
+http://183.88.212.205:8010/play/a02o 
+#EXTINF:-1,MTV SEA 
+http://183.88.212.205:8010/play/a01t 
+#EXTINF:-1,DISCOVERY 
+http://183.88.212.205:8010/play/a031 
+#EXTINF:-1,PHOENIX INFO NEWS 
+http://183.88.212.205:8010/play/a02i 
+#EXTINF:-1,NGC WILD 
+http://183.88.212.205:8010/play/a02y 
+#EXTINF:-1,H2 
+http://183.88.212.205:8010/play/a03k 
+#EXTINF:-1,NAT GEO PEOPLE 
+http://183.88.212.205:8010/play/a02z 
+#EXTINF:-1,BBC CBEEBIES 
+http://183.88.212.205:8010/play/a03f 
+#EXTINF:-1,DISNEY  
+http://183.88.212.205:8010/play/a00x 
+#EXTINF:-1,DISNEY CHANNEL ASIA 
+http://183.88.212.205:8010/play/a02t 
+#EXTINF:-1,NHK WORLD PREMIUM 
+http://183.88.212.205:8010/play/a027 
+#EXTINF:-1,MONEY CHANNEL 
+http://183.88.212.205:8010/play/a02s 
+#EXTINF:-1,CINEMAX 
+http://183.88.212.205:8010/play/a00n 
+#EXTINF:-1,NICKJR 
+http://183.88.212.205:8010/play/a01c
+#EXTINF:-1,SKYNET LIVE CHANNEL 
+http://183.88.212.205:8010/play/a02r 
+#EXTINF:-1,ASN 
+http://183.88.212.205:8010/play/a02p 
+#EXTINF:-1,EVE 
+http://183.88.212.205:8010/play/a033 
+#EXTINF:-1,SKYNET SPORTS HD 
+http://183.88.212.205:8010/play/a00r 
+#EXTINF:-1,SKYNET MOVIES HD 
+http://183.88.212.205:8010/play/a00v 
+#EXTINF:-1,MNTV 
+http://183.88.212.205:8010/play/a017 
+#EXTINF:-1,SKYNET CARTOON 
+http://183.88.212.205:8010/play/a01d 
+#EXTINF:-1,BUDDHA 
+http://183.88.212.205:8010/play/a012 
+#EXTINF:-1,FIGHT SPORTS HD 
+http://183.88.212.205:8010/play/a00z 
+#EXTINF:-1,BABY TV 
+http://183.88.212.205:8010/play/a01e 
+#EXTINF:-1,CCTV NEWS 
+http://183.88.212.205:8010/play/a029 
+#EXTINF:-1,ZEE CINEMA ME 
+http://183.88.212.205:8010/play/a01n 
+#EXTINF:-1,SKYNET SPORTS-3 
+http://183.88.212.205:8010/play/a02l 
+#EXTINF:-1,SKYNET KNOWLEDGE 
+http://183.88.212.205:8010/play/a02w 
+#EXTINF:-1,CNAI 
+http://183.88.212.205:8010/play/a02f 
+#EXTINF:-1,EURO SPORTS 
+http://183.88.212.205:8010/play/a00d 
+#EXTINF:-1,STAR CHINESE MOVIES 
+http://183.88.212.205:8010/play/a02e 
+#EXTINF:-1,NHK WORLD TV 
+http://183.88.212.205:8010/play/a028 
+#EXTINF:-1,FYI, 
+http://183.88.212.205:8010/play/a00k 
+#EXTINF:-1,BLOOMBERG 
+http://183.88.212.205:8010/play/a02d 
+#EXTINF:-1,ANIMAX 
+http://183.88.212.205:8010/play/a00h 
+#EXTINF:-1,DISCOVERY TLC 
+http://183.88.212.205:8010/play/a032 
+#EXTINF:-1,HOME CHANNEL 
+http://183.88.212.205:8010/play/a03t 
+#EXTINF:-1,AXN 
+http://183.88.212.205:8010/play/a00i 
+#EXTINF:-1,MWD 
+http://183.88.212.205:8010/play/a014 
+#EXTINF:-1,HADAYA 
+http://183.88.212.205:8010/play/a01g 
+#EXTINF:-1,ASIAN MOVIES 
+http://183.88.212.205:8010/play/a01j 
+#EXTINF:-1,BBC EARTH 
+http://183.88.212.205:8010/play/a03e 
+#EXTINF:-1,ZING 
+http://183.88.212.205:8010/play/a01r 
+#EXTINF:-1,MTV CHINA 
+http://183.88.212.205:8010/play/a01s 
+#EXTINF:-1,SKYNET SPORTS-2 
+http://183.88.212.205:8010/play/a02k 
+#EXTINF:-1,SKYNET-HD-PAY PER VIEW 
+http://183.88.212.205:8010/play/a00w 
+#EXTINF:-1,SHOPPING CHANNEL 
+http://183.88.212.205:8010/play/a00p 
+#EXTINF:-1,SKYNET TEEN 
+http://183.88.212.205:8010/play/a01u 
+#EXTINF:-1,HBO HD 
+http://183.88.212.205:8010/play/a00u 
+#EXTINF:-1,CCTV 9 
+http://183.88.212.205:8010/play/a02b 
+#EXTINF:-1,CNBC 
+http://183.88.212.205:8010/play/a02c 
+#EXTINF:-1,SUN TV 
+http://183.88.212.205:8010/play/a00o 
+#EXTINF:-1,FOX ACTION MOVIES HD 
+http://183.88.212.205:8010/play/a010 
+#EXTINF:-1,M-BIZ 
+http://183.88.212.205:8010/play/a018
+
+
 
 
 
