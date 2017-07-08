@@ -6,7 +6,10 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.hollywoodreporter.com/sites/default/files/2013/01/bbc_news.png",BBC[UK]
-http://kb1.ottclub.info:443/kitty/c677.stream/playlist.m3u8
+http://220.228.38.16/live/fet001/chunklist.m3u
+
+#EXTINF:-1,Bloomberg
+http://220.228.38.16/live/fet007/chunklist.m3u
 
 #EXTINF:-1 tvg-logo="https://www.trakomatic.com/img/logo/cna_bar.png",Channel News Asia
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
@@ -59,6 +62,9 @@ https://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/200px-RT_America_Logo.png",RT America
 http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
+
+#EXTINF:-1,SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/4/4f/TRT_World_logosu.png/800px-TRT_World_logosu.png",TRT WORLD ENG
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
@@ -463,6 +469,15 @@ http://162.212.178.131:1935/Livemouridetv/mouridetv/playlist.m3u8
 
 #EXTINF:-1,ZBC Zimbabwe
 http://41.221.144.210/live/russia/playlist.m3u8
+
+#EXTINF:-1,Ashanti 24 (African Movies)
+http://s30.streamerportal.com:1935/live/ashanti24tv/playlist.m3u8
+
+#EXTINF:-1,STV (African Movies)
+http://s30.streamerportal.com:1935/live/sourcetv/playlist.m3u8
+
+#EXTINF:-1,ABC TV (Ghana)
+http://s30.streamerportal.com:1935/live/abctv/playlist.m3u8
 
 
 
