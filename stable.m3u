@@ -509,145 +509,77 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 
 
-#EXTINF:-1 group-title=UK CHANNELS,tvg-logo="http://go.sky.com/SVOD/SKYKIDS/IMAGES/Nick%20Jr/P/Peppa%20Pig%20S1/L_Peppa_S1.jpg",Sky News – 4706 
-http://37.152.128.66:6535/play/a015 
-#EXTINF:-1,Sky News 
-http://37.152.128.66:6535/play/a005 
-#EXTINF:-1,Pick+1 
-http://37.152.128.66:6535/play/a00s 
-#EXTINF:-1,Sky News – 4568 
-http://37.152.128.66:6535/play/a00w 
-#EXTINF:-1,Sky News – 4567 
-http://37.152.128.66:6535/play/a00v 
-#EXTINF:-1,Pick 
-http://37.152.128.66:6535/play/a007 
-#EXTINF:-1,Community 
-http://37.152.128.66:6535/play/a009 
-#EXTINF:-1,SONY SAB 
-http://37.152.128.66:6533/play/a00i 
-#EXTINF:-1,Al Arabiya 
-http://37.152.128.66:6533/play/a017 
-#EXTINF:-1,Glory TV 
-http://37.152.128.66:6533/play/a016 
-#EXTINF:-1,Horse & Country 
-http://37.152.128.66:6533/play/a00c 
-#EXTINF:-1,TV Warehouse 
-http://37.152.128.66:6533/play/a013 
-#EXTINF:-1,Best Direct 
-http://37.152.128.66:6533/play/a014 
-#EXTINF:-1,AAJ TAK 
-http://37.152.128.66:6533/play/a00z 
-#EXTINF:-1,ABP News 
-http://37.152.128.66:6533/play/a018 
-#EXTINF:-1,Retail TV 
-http://37.152.128.66:6533/play/a01b 
-#EXTINF:-1,RT 
-http://37.152.128.66:6533/play/a00y 
-#EXTINF:-1,GEO TV 
-http://37.152.128.66:6533/play/a015 
-#EXTINF:-1,Sony Channel 
-http://37.152.128.66:6533/play/a00f 
-#EXTINF:-1,SONY MIX 
-http://37.152.128.66:6533/play/a00g 
-#EXTINF:-1,Travel Channel 
-http://37.152.128.66:6533/play/a00q 
-#EXTINF:-1,JML Direct 
-http://37.152.128.66:6533/play/a01c 
-#EXTINF:-1,Tristar 
-http://37.152.128.66:6533/play/a011 
-#EXTINF:-1,IQRA BANGLA 
-http://37.152.128.66:6532/play/a00o 
-#EXTINF:-1,IQRA TV 
-http://37.152.128.66:6532/play/a00u 
-#EXTINF:-1,London Live 
-http://37.152.128.66:6532/play/a00c 
-#EXTINF:-1,B4U Music 
-http://37.152.128.66:6532/play/a00a 
-#EXTINF:-1,STV2 
-http://37.152.128.66:6532/play/a00v 
-#EXTINF:-1,CNBC 
-http://37.152.128.66:6532/play/a003 
-#EXTINF:-1,Madani Chnl 
-http://37.152.128.66:6532/play/a00p 
-#EXTINF:-1,Vox Africa 
-http://37.152.128.66:6532/play/a00q 
-#EXTINF:-1,PTV Global 
-http://37.152.128.66:6532/play/a00l 
-#EXTINF:-1,TVC News 
-http://37.152.128.66:6532/play/a00w 
-#EXTINF:-1,Hidayat TV 
-http://37.152.128.66:6532/play/a00n 
-#EXTINF:-1,B4U Movies 
-http://37.152.128.66:6532/play/a00g 
-#EXTINF:-1,Channel i 
-http://37.152.128.66:6532/play/a00s 
-#EXTINF:-1,Venus TV 
-http://37.152.128.66:6532/play/a00m 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title=UK3 CHANNELS,tvg-logo=http://www.throup.org.uk/images/doctor_who/bbc_one.png",BOOMERANG
-http://50.7.69.42:8899/GB/UK/BOOMERANG/index.m3u8
-#EXTINF: -1,VH1 
-http://50.7.69.42:8899/GB/UK/VH1/index.m3u8 
-#EXTINF: -1,QUEST 
-http://50.7.69.42:8899/GB/UK/QUEST/index.m3u8 
-#EXTINF: -1,HISTORY 
-http://50.7.69.42:8899/GB/UK/HISTORY/index.m3u8 
-#EXTINF: -1,DMAX 
-http://50.7.69.42:8899/GB/UK/DMAX/index.m3u8 
-#EXTINF: -1,BOXNATION 
-http://50.7.69.42:8899/GB/UK/BOXNATION/index.m3u8 
-#EXTINF: -1,GOLD 
-http://50.7.69.42:8899/GB/UK/GOLD/index.m3u8 
-#EXTINF: -1,DRAMA 
-http://50.7.69.42:8899/GB/UK/DRAMA/index.m3u8
-#EXTINF: -1,FOX NEWS
-http://50.7.69.42:8899/GB/UK/FOX_NEWS/index.m3u8
-
-
-#EXTINF:-1,Brit Asia TV 
-http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8
-
-
-
-#EXTINF:-1 group-title=UK3 CHANNELS,tvg-logo=http://www.throup.org.uk/images/doctor_who/bbc_one.png",BBC One Lon
-http://80.25.87.6:9981/stream/channelid/1936535934
-#EXTINF:-1,BBC Two Eng
-http://80.25.87.6:9981/stream/channelid/43367668
-#EXTINF:-1,Channel 4
-http://80.25.87.6:9981/stream/channelid/1350631950
-#EXTINF:-1,CITV
-http://80.25.87.6:9981/stream/channelid/407885248
-#EXTINF:-1,Film4
-http://80.25.87.6:9981/stream/channelid/1190871675
+#EXTINF:-1 group-title=UK CHANNELS,tvg-logo="https://www.ebay.com/p/3x5-British-Union-Jack-United-Kingdom-UK-Great-Britain-Flag-3x5-House-Banner/3003659851?iid=252422074081", flag
+http://46.249.60.210:15099/play/a0
+#EXTINF:-1,5STAR
+http://46.249.60.210:15099/play/a01q
 #EXTINF:-1,Film4 +1
-http://80.25.87.6:9981/stream/channelid/1946254025
+http://46.249.60.210:15099/play/a005
+#EXTINF:-1,Channel 5
+http://46.249.60.210:15099/play/a01n
+#EXTINF:-1,e4
+http://46.249.60.210:15099/play/a00h
 #EXTINF:-1,ITV
-http://80.25.87.6:9981/stream/channelid/196970287
-#EXTINF:-1,ITV +1
-http://80.25.87.6:9981/stream/channelid/2133516227
+http://46.249.60.210:15099/play/a00j
+#EXTINF:-1,ITVi Stream 44
+http://46.249.60.210:15099/play/a00n
+#EXTINF:-1,c4 l
+http://46.249.60.210:15099/play/a008
+#EXTINF:-1,4Music
+http://46.249.60.210:15099/play/a007
 #EXTINF:-1,ITV2
-http://80.25.87.6:9981/stream/channelid/1199711227
-#EXTINF:-1,ITV4
-http://80.25.87.6:9981/stream/channelid/1864888803
+http://46.249.60.210:15099/play/a00o
 #EXTINF:-1,ITV4+1
-http://80.25.87.6:9981/stream/channelid/1279886416
-#EXTINF:-1,ITVBe
-http://80.25.87.6:9981/stream/channelid/359890709
+http://46.249.60.210:15099/play/a00r
+#EXTINF:-1,E4+1
+http://46.249.60.210:15099/play/a00a
+#EXTINF:-1,Channel 4
+http://46.249.60.210:15099/play/a002
 #EXTINF:-1,More4 +1
-http://80.25.87.6:9981/stream/channelid/292897667
-#EXTINF:-1,Pick
-http://80.25.87.6:9981/stream/channelid/1237001161
-#EXTINF:-1,Pick+1
-http://80.25.87.6:9981/stream/channelid/1500252112
-#EXTINF:-1,Sky News
-http://80.25.87.6:9981/stream/channelid/1867717695
+http://46.249.60.210:15099/play/a006
+#EXTINF:-1,5 USA
+http://46.249.60.210:15099/play/a01o
+#EXTINF:-1,Channel 5+1
+http://46.249.60.210:15099/play/a01t
+#EXTINF:-1,More4
+http://46.249.60.210:15099/play/a00f
+#EXTINF:-1,ITV2+1
+http://46.249.60.210:15099/play/a01j
+#EXTINF:-1,BBC One Lon
+http://46.249.60.210:15099/play/a00w
+#EXTINF:-1,Channel 4 +1
+http://46.249.60.210:15099/play/a00c
+#EXTINF:-1,ITV Border
+http://46.249.60.210:15099/play/a01d
+#EXTINF:-1,ETV1
+http://46.249.60.210:15099/play/a017
+#EXTINF:-1,Spike
+http://46.249.60.210:15099/play/a01u
+#EXTINF:-1,JUS Punjabi
+http://46.249.60.210:15099/play/a00y
+#EXTINF:-1,Film4
+http://46.249.60.210:15099/play/a004
+#EXTINF:-1,ITV4
+http://46.249.60.210:15099/play/a00p
+#EXTINF:-1,&TV
+http://46.249.60.210:15099/play/a00k
+#EXTINF:-1,5 USA +1
+http://46.249.60.210:15099/play/a01p
+#EXTINF:-1,ITV +1
+http://46.249.60.210:15099/play/a00l
+#EXTINF:-1,BBC Two Eng
+http://46.249.60.210:15099/play/a00x
+#EXTINF:-1,ITVBe
+http://46.249.60.210:15099/play/a00u
+#EXTINF:-1,5STAR +1
+http://46.249.60.210:15099/play/a01s
+#EXTINF:-1,My5
+http://46.249.60.210:15099/play/a01r
+#EXTINF:-1,BBC RB1
+http://46.249.60.210:15099/play/a013
+#EXTINF:-1,ITVBe+1
+http://46.249.60.210:15099/play/a01c
+
+
 
 
