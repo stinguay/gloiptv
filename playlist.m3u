@@ -504,7 +504,14 @@ http://185.142.239.164:3135/Super/3/index.m3u8
 #EXTINF:-1, Super 4 
 http://185.142.239.164:3135/Super/4/index.m3u8
 
-
+#EXTINF:-1  tvg-logo="" ,BT Sport 1 HD
+http://livetv.khaozap.com/bt_sport_1_hd_360p.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="" ,BT Sport 2 HD
+http://livetv.khaozap.com/bt_sport_2_hd_360p.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="" ,BT Sport 3 HD
+http://livetv.khaozap.com/bt_sport_3_hd_360p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,BT Sport ESPN
+http://livetv.khaozap.com/bt_sport_espn_360p.stream/playlist.m3u8
 
 
 
@@ -764,6 +771,15 @@ http://www.djing.com/tv/i-05.m3u8
 http://cdn.djing.com/tv/d-05.m3u8
 #EXTINF:0,Djing Underground HD
 http://cdn.djing.com/tv/u-05.m3u8
+
+#EXTINF:-1,MTV Hits
+#EXTVLCOPT:network-caching=2000
+http://95.82.241.148:81//udp/239.255.2.214:1234
+#EXTINF:-1,MTV Dance 
+#EXTVLCOPT:network-caching=2000
+http://185.162.141.69:9014/mtvdance
+#EXTINF:-1,MTV DANCE
+http://inetcom.tv/get_channel.php?id=70.m3u8
 
 
 
@@ -1989,100 +2005,76 @@ http://183.88.212.205:8010/play/a018
 
 
 
-#EXTINF:-1 group-title=UK-RU CHANNELS,tvg-logo="http://go.sky.com/SVOD/SKYKIDS/IMAGES/Nick%20Jr/P/Peppa%20Pig%20S1/L_Peppa_S1.jpg",bbc one
+#EXTINF:-1 group-title=UK-RU CHANNELS,tvg-logo="https://www.ebay.com/p/3x5-British-Union-Jack-United-Kingdom-UK-Great-Britain-Flag-3x5-House-Banner/3003659851?iid=252422074081", brflag
 http://185.62.86.6:8081/hls/bbcone.m3u8
-
-#EXTINF:-1,pick 
-http://79.172.241.74:8081/hls/pick.m3u8 
-#EXTINF:-1,quest 
-http://79.172.241.74:8081/hls/quest.m3u8 
-#EXTINF:-1,challenge 
-http://79.172.241.74:8081/hls/challenge.m3u8 
-#EXTINF:-1,ITV4 
-http://79.172.241.74:8081/hls/itv4.m3u8 
-#EXTINF:-1,cbs action 
-http://79.172.241.74:8081/hls/cbsaction.m3u8 
-#EXTINF:-1,drama 
-http://79.172.241.74:8081/hls/drama.m3u8
-
-#EXTINF:-1,bbc two
-http://185.62.86.6:8081/hls/bbctwo.m3u8
-#EXTINF:-1,bbc three
-http://185.62.86.6:8081/hls/bbcthree.m3u8 
-#EXTINF:-1,bbc four 
-http://185.62.86.6:8081/hls/bbcfour.m3u8 
-#EXTINF:-1,itv 
-http://185.62.86.6:8081/hls/itv.m3u8 
-#EXTINF:-1,channel 4 
-http://185.62.86.6:8081/hls/channel4.m3u8 
-#EXTINF:-1,channel 5 
-http://185.62.86.6:8081/hls/channel5.m3u8 
-#EXTINF:-1,itv 2 
-http://185.62.86.6:8081/hls/itv2.m3u8 
-#EXTINF:-1,itv 3 
-http://185.62.86.6:8081/hls/itv3.m3u8 
-#EXTINF:-1,pick 
-http://185.62.86.6:8081/hls/pick.m3u8 
-#EXTINF:-1,dave 
-http://185.62.86.6:8081/hls/dave.m3u8 
-#EXTINF:-1,more 4 
-http://185.62.86.6:8081/hls/more4.m3u8 
-#EXTINF:-1,film 4 
-http://185.62.86.6:8081/hls/film4.m3u8 
-#EXTINF:-1,really 
-http://185.62.86.6:8081/hls/really.m3u8 
-#EXTINF:-1,yesterday 
-http://185.62.86.6:8081/hls/yesterday.m3u8 
-#EXTINF:-1,drama 
-http://185.62.86.6:8081/hls/drama.m3u8 
-#EXTINF:-1,itv 4 
-http://185.62.86.6:8081/hls/itv4.m3u8 
-#EXTINF:-1,5usa 
-http://185.62.86.6:8081/hls/5usa.m3u8 
-#EXTINF:-1,home 
-http://185.62.86.6:8081/hls/home.m3u8 
-#EXTINF:-1,itv be 
-http://185.62.86.6:8081/hls/itvbe.m3u8 
-#EXTINF:-1,e4 
-http://185.62.86.6:8081/hls/e4.m3u8 
-#EXTINF:-1,5star 
-http://185.62.86.6:8081/hls/5star.m3u8 
-#EXTINF:-1,spike uk 
-http://185.62.86.6:8081/hls/spike.m3u8 
-#EXTINF:-1,sony 
-http://185.62.86.6:8081/hls/sonymoviechannel.m3u8 
-#EXTINF:-1,quest 
-http://185.62.86.6:8081/hls/quest.m3u8 
-#EXTINF:-1,food network 
-http://185.62.86.6:8081/hls/foodnetwork.m3u8 
-#EXTINF:-1,challenge 
-http://185.62.86.6:8081/hls/challenge.m3u8 
-#EXTINF:-1,4seven 
-http://185.62.86.6:8081/hls/4seven.m3u8 
-#EXTINF:-1,movie4men 
-http://185.62.86.6:8081/hls/movies4men.m3u8 
-#EXTINF:-1,cbsaction 
-http://185.62.86.6:8081/hls/cbsaction.m3u8 
-#EXTINF:-1,cbsreality 
-http://185.62.86.6:8081/hls/cbsreality.m3u8 
-#EXTINF:-1,horrorchannel 
-http://185.62.86.6:8081/hls/horrorchannel.m3u8 
-#EXTINF:-1,yourtv 
-http://185.62.86.6:8081/hls/yourtv.m3u8 
-#EXTINF:-1,blaze 
-http://185.62.86.6:8081/hls/blaze.m3u8 
-#EXTINF:-1,4music 
-http://185.62.86.6:8081/hls/4music.m3u8 
-#EXTINF:-1,travelchannel 
-http://185.62.86.6:8081/hls/travelchannel.m3u8 
-#EXTINF:-1,cbsdrama 
-http://185.62.86.6:8081/hls/cbsdrama.m3u8 
-#EXTINF:-1,trytv 
-http://185.62.86.6:8081/hls/trutv.m3u8 
-#EXTINF:-1,my5 
-http://185.62.86.6:8081/hls/my5.m3u8
-
-
+#EXTINF:-1,5STAR
+http://46.249.60.210:15099/play/a01q
+#EXTINF:-1,Film4 +1
+http://46.249.60.210:15099/play/a005
+#EXTINF:-1,Channel 5
+http://46.249.60.210:15099/play/a01n
+#EXTINF:-1,e4
+http://46.249.60.210:15099/play/a00h
+#EXTINF:-1,ITV
+http://46.249.60.210:15099/play/a00j
+#EXTINF:-1,ITVi Stream 44
+http://46.249.60.210:15099/play/a00n
+#EXTINF:-1,c4 l
+http://46.249.60.210:15099/play/a008
+#EXTINF:-1,4Music
+http://46.249.60.210:15099/play/a007
+#EXTINF:-1,ITV2
+http://46.249.60.210:15099/play/a00o
+#EXTINF:-1,ITV4+1
+http://46.249.60.210:15099/play/a00r
+#EXTINF:-1,E4+1
+http://46.249.60.210:15099/play/a00a
+#EXTINF:-1,Channel 4
+http://46.249.60.210:15099/play/a002
+#EXTINF:-1,More4 +1
+http://46.249.60.210:15099/play/a006
+#EXTINF:-1,5 USA
+http://46.249.60.210:15099/play/a01o
+#EXTINF:-1,Channel 5+1
+http://46.249.60.210:15099/play/a01t
+#EXTINF:-1,More4
+http://46.249.60.210:15099/play/a00f
+#EXTINF:-1,ITV2+1
+http://46.249.60.210:15099/play/a01j
+#EXTINF:-1,BBC One Lon
+http://46.249.60.210:15099/play/a00w
+#EXTINF:-1,Channel 4 +1
+http://46.249.60.210:15099/play/a00c
+#EXTINF:-1,ITV Border
+http://46.249.60.210:15099/play/a01d
+#EXTINF:-1,ETV1
+http://46.249.60.210:15099/play/a017
+#EXTINF:-1,Spike
+http://46.249.60.210:15099/play/a01u
+#EXTINF:-1,JUS Punjabi
+http://46.249.60.210:15099/play/a00y
+#EXTINF:-1,Film4
+http://46.249.60.210:15099/play/a004
+#EXTINF:-1,ITV4
+http://46.249.60.210:15099/play/a00p
+#EXTINF:-1,&TV
+http://46.249.60.210:15099/play/a00k
+#EXTINF:-1,5 USA +1
+http://46.249.60.210:15099/play/a01p
+#EXTINF:-1,ITV +1
+http://46.249.60.210:15099/play/a00l
+#EXTINF:-1,BBC Two Eng
+http://46.249.60.210:15099/play/a00x
+#EXTINF:-1,ITVBe
+http://46.249.60.210:15099/play/a00u
+#EXTINF:-1,5STAR +1
+http://46.249.60.210:15099/play/a01s
+#EXTINF:-1,My5
+http://46.249.60.210:15099/play/a01r
+#EXTINF:-1,BBC RB1
+http://46.249.60.210:15099/play/a013
+#EXTINF:-1,ITVBe+1
+http://46.249.60.210:15099/play/a01c
 
 
 
