@@ -583,3 +583,22 @@ http://46.249.60.210:15099/play/a01c
 
 
 
+#EXTINF:0,Disc.Science
+http://185.22.78.72:9001/play/a00k
+#EXTINF:0,Home & Health
+http://185.22.78.72:9001/play/a00m
+#EXTINF:3600,ID
+http://185.22.78.72:9001/play/a00p
+#EXTINF:0,Disc.History
+http://185.22.78.72:9001/play/a00l
+#EXTINF:0,Discovery
+http://185.22.78.72:9001/play/a00h
+#EXTINF:0,TLC
+http://185.22.78.72:9001/play/a00j
+#EXTINF:0,Animal Planet
+http://185.22.78.72:9001/play/a00i
+#EXTINF:0,Disc.Turbo
+http://185.22.78.72:9001/play/a00n
+
+
+
