@@ -51,6 +51,9 @@ http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8
 #EXTINF:-1 tvg-logo="http://mediaweb.actionnewsjax.com/photo/2017/01/01/FOX30%20SOLO_20170102001005265_6945616_ver1.0_640_360.jpg",FOX 30 NEWS
 http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
 
+#EXTINF:0, MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="http://aitogether.org/wp-content/uploads/2016/05/newsmax-tv-logo-480x360.jpg", Newsmax TV
 http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
 
@@ -63,7 +66,7 @@ https://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/200px-RT_America_Logo.png",RT America
 http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
 
-#EXTINF:-1,SKY NEWS
+#EXTINF:-1 tvg-logo="http://img01.thedrum.com/s3fs-public/drum_basic_article/90586/main_images/sky%20news.jpg",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/4/4f/TRT_World_logosu.png/800px-TRT_World_logosu.png",TRT WORLD ENG
@@ -168,16 +171,6 @@ http://list9.isonline.me:8000/live/testapp/testapp/421.m3u8
 #EXTINF:-1,SPORT TV 1 HD
 http://list9.isonline.me:8000/live/testapp/testapp/420.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 1
-http://185.142.239.164:3135/1/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 2
-http://185.142.239.164:3135/2/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 3
-http://185.142.239.164:3135/3/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 4
-http://185.142.239.164:3135/4/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 5
-http://185.142.239.164:3135/5/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
 
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
@@ -209,7 +202,7 @@ http://185.73.239.38:25461/live/thflix/Aa444444/88.m3u8
 http://185.73.239.38:25461/live/thflix/Aa444444/89.m3u8
 #EXTINF:0,NBA
 http://185.73.239.38:25461/live/thflix/Aa444444/91.m3u8
-#EXTINF:0,SkyNews
+#EXTINF:0,Skysports News
 http://185.73.239.38:25461/live/thflix/Aa444444/92.m3u8
 #EXTINF:0,SkySport Action
 http://185.73.239.38:25461/live/thflix/Aa444444/94.m3u8
@@ -247,11 +240,24 @@ http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 #EXTINF:-1,Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0,MTV Dance
-http://176.106.66.156:8086/udp/239.71.92.46:1234
-
-#EXTINF:-1,MTV CHINA
-Http://222.191.24.7:6610/2/2/ch00000090990000001154/index.m3u8?ispcode=3
+#EXTINF:0,MTV DANCE
+http://185.22.78.73:3331/play/a010
+#EXTINF:0,MTV ROCKS
+http://185.22.78.73:3331/play/a00t
+#EXTINF:0,MTV Rocks
+http://94.251.66.82:81/udp/239.54.7.3:1224
+#EXTINF:0,MTV MUSIC
+http://185.22.78.73:3331/play/a00z
+#EXTINF:0,MTV CLASSIC
+http://185.22.78.73:3331/play/a00w
+#EXTINF:0,MTV BASE
+http://185.22.78.73:3331/play/a00v
+#EXTINF:0,MTV HITS
+http://185.22.78.73:3331/play/a00u
+#EXTINF:-1,MTV Hits
+http://95.82.241.148:81//udp/239.255.2.214:1234
+#EXTINF:-1,MTV Hits 
+http://185.53.163.216:33107 
 
 #EXTINF:-1,Radionorba Tv
 http://85.17.80.132:80/radionorbatv/norbatv_source.stream/playlist.m3u8
@@ -408,7 +414,7 @@ rtmp://cdn.ghanatvon.com/live/ playpath=TV3GHe=1469093165&st=6xRyRRtJKsDLqbS-y7k
 
 
 #EXTINF:-1 tvg-logo="http://arts1091.unsw.wikispaces.net/file/view/gtv.jpeg/356302158/gtv.jpeg",GTV
-http://149.202.221.100:8081/live/gtv/playlist.m3u8
+http://list9.isonline.me:8000/live/testapp/testapp/313.ts
 
 #EXTINF:-1 tvg-logo="http://arts1091.unsw.wikispaces.net/file/view/gtv.jpeg/356302158/gtv.jpeg",GTV Backup
 rtmp://cdn.ghanatvon.com/liveGTV/ playpath=GTVe=1472638420&st=IxsUqu0ghJdJhW1wC4dz7yD_wOzNLCDL1E_GbwlEFfjJig swfUrl=http://tv.filmover.com/jwp6k/jwplayer.flash.swf pageUrl=http://www.ghanatvon.com/gtv-live-ghana.html
@@ -590,6 +596,56 @@ http://185.22.78.72:9001/play/a00j
 http://185.22.78.72:9001/play/a00i
 #EXTINF:0,Disc.Turbo
 http://185.22.78.72:9001/play/a00n
+#EXTINF:0,Disc.History 
+http://185.22.78.72:9001/play/a00l 
+#EXTINF:0,Home & Health 
+http://185.22.78.72:9001/play/a00m 
+#EXTINF:0,Disc.Science 
+http://185.22.78.72:9001/play/a00k 
+#EXTINF:0,Animal Planet 
+http://185.22.78.72:9001/play/a00i 
+#EXTINF:0,Disc.Turbo 
+http://185.22.78.72:9001/play/a00n 
+#EXTINF:0,BoxNation 
+http://185.22.78.72:9002/play/a032 
+#EXTINF:0,BT Sport Extra 4 
+http://185.22.78.72:9002/play/a02r 
+#EXTINF:0,BT Sport//ESPN 
+http://185.22.78.72:9002/play/a02x 
+#EXTINF:0,BT Sport Extra 6 
+http://185.22.78.72:9002/play/a02t 
+#EXTINF:0,BT Sport Extra 3 
+http://185.22.78.72:9002/play/a02q 
+#EXTINF:0,BT Sport Extra 2 
+http://185.22.78.72:9002/play/a02p
+#EXTINF:0,BT Sport Extra 5 
+http://185.22.78.72:9002/play/a02s 
+#EXTINF:0,Motorsport TV 
+http://185.22.78.72:9002/play/a02v 
+#EXTINF:0,BT Sport 2 
+http://185.22.78.72:9002/play/a02y 
+#EXTINF:0,STV 
+http://185.22.78.72:9003/play/a02s 
+#EXTINF:0,talkSPORT 
+http://185.22.78.72:9003/play/a02q 
+#EXTINF:0,UTV 
+http://185.22.78.72:9003/play/a02t 
+#EXTINF:0,ITV 
+http://185.22.78.72:9003/play/a02r 
+#EXTINF:0,ITV3 
+http://185.22.78.72:9003/play/a02u 
+#EXTINF:7200,Movies 24 
+http://185.22.78.72:9004/play/a03b 
+#EXTINF:0,Syfy 
+http://185.22.78.72:9004/play/a039 
+#EXTINF:0,Universal 
+http://185.22.78.72:9004/play/a037 
+#EXTINF:0,E! 
+http://185.22.78.72:9004/play/a03a 
+#EXTINF:0,S4C HD 
+http://185.22.78.72:9004/play/a038 
+#EXTINF:0,Bike 
+http://185.22.78.72:9004/play/a03c
 
 
 
@@ -598,8 +654,7 @@ http://185.22.78.72:9001/play/a00n
 
 
 
-
-#EXTINF:-1,AXN White HD
+#EXTINF:-1 group-title=USA CHANNELS,tvg-logo="http://www.akifturan.com/wp-content/uploads/2015/04/trt-1-hd.png",AXN White HD
 http://list9.isonline.me:8000/live/testapp/testapp/356.ts
 #EXTINF:-1,AXN HD
 http://list9.isonline.me:8000/live/testapp/testapp/354.ts
