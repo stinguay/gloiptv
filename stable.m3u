@@ -157,6 +157,17 @@ http://sevillafc_live-lh.akamaihd.net/i/radio_0@354144/index_0700_av-b.m3u8?sd=1
 #EXTINF:-1 tvg-logo="http://www.swstarone.com/wp-content/uploads/2016/11/Chelsea-TV.png",Chelsea
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 
+#EXTINF:-1,Sport TV 5 HD
+http://list9.isonline.me:8000/live/testapp/testapp/424.ts
+#EXTINF:-1,Sport TV 4 HD
+http://list9.isonline.me:8000/live/testapp/testapp/423.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://list9.isonline.me:8000/live/testapp/testapp/422.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://list9.isonline.me:8000/live/testapp/testapp/421.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://list9.isonline.me:8000/live/testapp/testapp/420.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 1
 http://185.142.239.164:3135/1/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 2
@@ -185,6 +196,49 @@ http://bl.movcast.tv:1935/icoolkora/mbc-pro2_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 3 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro3_360p/playlist.m3u8
 
+
+
+
+#EXTINF:0,TSN1
+http://185.73.239.38:25461/live/thflix/Aa444444/82.m3u8
+#EXTINF:0,Disney XD
+http://185.73.239.38:25461/live/thflix/Aa444444/132.m3u8
+#EXTINF:0,FoxSport 3
+http://185.73.239.38:25461/live/thflix/Aa444444/131.m3u8
+#EXTINF:0,BTSport1
+http://185.73.239.38:25461/live/thflix/Aa444444/87.m3u8
+#EXTINF:0,ESPN1
+http://185.73.239.38:25461/live/thflix/Aa444444/89.m3u8
+#EXTINF:0,ESPN2
+http://185.73.239.38:25461/live/thflix/Aa444444/90.m3u8
+#EXTINF:0,NBA
+http://185.73.239.38:25461/live/thflix/Aa444444/91.m3u8
+#EXTINF:0,SkySport1
+http://185.73.239.38:25461/live/thflix/Aa444444/92.m3u8
+#EXTINF:0,SkySport3
+http://185.73.239.38:25461/live/thflix/Aa444444/94.m3u8
+#EXTINF:0,SkySport4
+http://185.73.239.38:25461/live/thflix/Aa444444/95.m3u8
+#EXTINF:0,SkySport5
+http://185.73.239.38:25461/live/thflix/Aa444444/96.m3u8
+#EXTINF:0,TSN2
+http://185.73.239.38:25461/live/thflix/Aa444444/83.m3u8
+#EXTINF:0,TSN3
+http://185.73.239.38:25461/live/thflix/Aa444444/84.m3u8
+#EXTINF:0,ad Sports 1
+http://185.73.239.38:25461/live/thflix/Aa444444/121.m3u8
+#EXTINF:0,ad Sports 2
+http://185.73.239.38:25461/live/thflix/Aa444444/122.m3u8
+#EXTINF:0,FoxSport 2
+http://185.73.239.38:25461/live/thflix/Aa444444/130.m3u8
+#EXTINF:0,FoxSport HD
+http://185.73.239.38:25461/live/thflix/Aa444444/129.m3u8
+#EXTINF:0,TSN4
+http://185.73.239.38:25461/live/thflix/Aa444444/127.m3u8
+#EXTINF:0,TSN5
+http://185.73.239.38:25461/live/thflix/Aa444444/128.m3u8
+#EXTINF:0,BTSport2
+http://185.73.239.38:25461/live/thflix/Aa444444/88.m3u8
 
 
 #EXTINF:-1 group-title=MUSIC CHANNELS,tvg-logo="http://gulf-up.com/do.php?img=271",The Edge
@@ -481,6 +535,21 @@ http://s30.streamerportal.com:1935/live/abctv/playlist.m3u8
 
 
 
+
+#EXTINF:-1,vox africa
+http://list9.isonline.me:8000/live/testapp/testapp/581.ts
+#EXTINF:-1,GTV
+http://list9.isonline.me:8000/live/testapp/testapp/313.ts
+#EXTINF:-1,Nollywood FR
+http://list9.isonline.me:8000/live/testapp/testapp/286.ts
+#EXTINF:-1,Africa24
+http://list9.isonline.me:8000/live/testapp/testapp/267.ts
+#EXTINF:-1,ADOM
+http://list9.isonline.me:8000/live/testapp/testapp/262.ts
+
+
+
+
 #EXTINF:-1 group-title=TURKEY CHANNELS,tvg-logo="http://www.akifturan.com/wp-content/uploads/2015/04/trt-1-hd.png",TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1,TRT AVAZ
@@ -510,79 +579,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 
 #EXTINF:-1 group-title=UK CHANNELS,tvg-logo="https://www.ebay.com/p/3x5-British-Union-Jack-United-Kingdom-UK-Great-Britain-Flag-3x5-House-Banner/3003659851?iid=252422074081", flag
-http://46.249.60.210:15099/play/a0
-#EXTINF:-1,5STAR
-http://46.249.60.210:15099/play/a01q
-#EXTINF:-1,Film4 +1
-http://46.249.60.210:15099/play/a005
-#EXTINF:-1,Channel 5
-http://46.249.60.210:15099/play/a01n
-#EXTINF:-1,e4
-http://46.249.60.210:15099/play/a00h
-#EXTINF:-1,ITV
-http://46.249.60.210:15099/play/a00j
-#EXTINF:-1,ITVi Stream 44
-http://46.249.60.210:15099/play/a00n
-#EXTINF:-1,c4 l
-http://46.249.60.210:15099/play/a008
-#EXTINF:-1,4Music
-http://46.249.60.210:15099/play/a007
-#EXTINF:-1,ITV2
-http://46.249.60.210:15099/play/a00o
-#EXTINF:-1,ITV4+1
-http://46.249.60.210:15099/play/a00r
-#EXTINF:-1,E4+1
-http://46.249.60.210:15099/play/a00a
-#EXTINF:-1,Channel 4
-http://46.249.60.210:15099/play/a002
-#EXTINF:-1,More4 +1
-http://46.249.60.210:15099/play/a006
-#EXTINF:-1,5 USA
-http://46.249.60.210:15099/play/a01o
-#EXTINF:-1,Channel 5+1
-http://46.249.60.210:15099/play/a01t
-#EXTINF:-1,More4
-http://46.249.60.210:15099/play/a00f
-#EXTINF:-1,ITV2+1
-http://46.249.60.210:15099/play/a01j
-#EXTINF:-1,BBC One Lon
-http://46.249.60.210:15099/play/a00w
-#EXTINF:-1,Channel 4 +1
-http://46.249.60.210:15099/play/a00c
-#EXTINF:-1,ITV Border
-http://46.249.60.210:15099/play/a01d
-#EXTINF:-1,ETV1
-http://46.249.60.210:15099/play/a017
-#EXTINF:-1,Spike
-http://46.249.60.210:15099/play/a01u
-#EXTINF:-1,JUS Punjabi
-http://46.249.60.210:15099/play/a00y
-#EXTINF:-1,Film4
-http://46.249.60.210:15099/play/a004
-#EXTINF:-1,ITV4
-http://46.249.60.210:15099/play/a00p
-#EXTINF:-1,&TV
-http://46.249.60.210:15099/play/a00k
-#EXTINF:-1,5 USA +1
-http://46.249.60.210:15099/play/a01p
-#EXTINF:-1,ITV +1
-http://46.249.60.210:15099/play/a00l
-#EXTINF:-1,BBC Two Eng
-http://46.249.60.210:15099/play/a00x
-#EXTINF:-1,ITVBe
-http://46.249.60.210:15099/play/a00u
-#EXTINF:-1,5STAR +1
-http://46.249.60.210:15099/play/a01s
-#EXTINF:-1,My5
-http://46.249.60.210:15099/play/a01r
-#EXTINF:-1,BBC RB1
-http://46.249.60.210:15099/play/a013
-#EXTINF:-1,ITVBe+1
-http://46.249.60.210:15099/play/a01c
-
-
-
-
+http://185.22.78.72:9001/play/a
 #EXTINF:0,Disc.Science
 http://185.22.78.72:9001/play/a00k
 #EXTINF:0,Home & Health
@@ -599,6 +596,136 @@ http://185.22.78.72:9001/play/a00j
 http://185.22.78.72:9001/play/a00i
 #EXTINF:0,Disc.Turbo
 http://185.22.78.72:9001/play/a00n
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,AXN White HD
+http://list9.isonline.me:8000/live/testapp/testapp/356.ts
+#EXTINF:-1,AXN HD
+http://list9.isonline.me:8000/live/testapp/testapp/354.ts
+#EXTINF:-1,AXN Black HD
+http://list9.isonline.me:8000/live/testapp/testapp/355.ts
+#EXTINF:-1,AMC HD
+http://list9.isonline.me:8000/live/testapp/testapp/353.ts
+#EXTINF:-1,Afro Music
+http://list9.isonline.me:8000/live/testapp/testapp/352.ts
+#EXTINF:-1,A&E
+http://list9.isonline.me:8000/live/testapp/testapp/351.ts
+#EXTINF:-1,A Bola TV
+http://list9.isonline.me:8000/live/testapp/testapp/349.ts
+#EXTINF:-1,24 Kitchen HD
+http://list9.isonline.me:8000/live/testapp/testapp/350.ts
+#EXTINF:-1,HBO
+http://list9.isonline.me:8000/live/testapp/testapp/280.ts
+#EXTINF:-1,TNT US
+http://list9.isonline.me:8000/live/testapp/testapp/674.ts
+#EXTINF:-1,wwe
+http://list9.isonline.me:8000/live/testapp/testapp/703.ts
+#EXTINF:-1,THE WEATHER CHANNEL
+http://list9.isonline.me:8000/live/testapp/testapp/706.ts
+#EXTINF:-1,TENNIS CHANNEL
+http://list9.isonline.me:8000/live/testapp/testapp/699.ts
+#EXTINF:-1,SYFY US
+http://list9.isonline.me:8000/live/testapp/testapp/672.ts
+#EXTINF:-1,NHL
+http://list9.isonline.me:8000/live/testapp/testapp/698.ts
+#EXTINF:-1,NBC
+http://list9.isonline.me:8000/live/testapp/testapp/697.ts
+#EXTINF:-1,nasa tv
+http://list9.isonline.me:8000/live/testapp/testapp/704.ts
+#EXTINF:-1,LIFETIME US
+http://list9.isonline.me:8000/live/testapp/testapp/696.ts
+#EXTINF:-1,animal planet us
+http://list9.isonline.me:8000/live/testapp/testapp/702.ts
+#EXTINF:-1,FX US
+http://list9.isonline.me:8000/live/testapp/testapp/695.ts
+#EXTINF:-1,FOX NEWS
+http://list9.isonline.me:8000/live/testapp/testapp/693.ts
+#EXTINF:-1,FOX 5
+http://list9.isonline.me:8000/live/testapp/testapp/694.ts
+#EXTINF:-1,CW11
+http://list9.isonline.me:8000/live/testapp/testapp/692.ts
+#EXTINF:-1,CW
+http://list9.isonline.me:8000/live/testapp/testapp/670.ts
+#EXTINF:-1,cooking channel us
+http://list9.isonline.me:8000/live/testapp/testapp/701.ts
+#EXTINF:-1,CNN US
+http://list9.isonline.me:8000/live/testapp/testapp/688.ts
+#EXTINF:-1,CBS
+http://list9.isonline.me:8000/live/testapp/testapp/691.ts
+#EXTINF:-1,bloomberg us
+http://list9.isonline.me:8000/live/testapp/testapp/705.ts
+#EXTINF:-1,ABC
+http://list9.isonline.me:8000/live/testapp/testapp/690.ts
+#EXTINF:-1,A&E US
+http://list9.isonline.me:8000/live/testapp/testapp/689.ts
+#EXTINF:-1,RT AMERICA
+http://list9.isonline.me:8000/live/testapp/testapp/675.ts
+#EXTINF:-1,PBS
+http://list9.isonline.me:8000/live/testapp/testapp/676.ts
+#EXTINF:-1,HISTORY US
+http://list9.isonline.me:8000/live/testapp/testapp/679.ts
+#EXTINF:-1,CNBC
+http://list9.isonline.me:8000/live/testapp/testapp/680.ts
+#EXTINF:-1,CBS2
+http://list9.isonline.me:8000/live/testapp/testapp/668.ts
+#EXTINF:-1,ABC NEWS
+http://list9.isonline.me:8000/live/testapp/testapp/502.ts
+#EXTINF:-1,BEIN SPORT USA
+http://list9.isonline.me:8000/live/testapp/testapp/467.ts
+#EXTINF:-1,BRAVO CA
+http://list9.isonline.me:8000/live/testapp/testapp/469.ts
+#EXTINF:-1,USA NETWORK
+http://list9.isonline.me:8000/live/testapp/testapp/449.ts
+#EXTINF:-1,HBO SIGNATURE.
+http://list9.isonline.me:8000/live/testapp/testapp/279.ts
+#EXTINF:-1,HG TV
+http://list9.isonline.me:8000/live/testapp/testapp/273.ts
+#EXTINF:-1,AMC
+http://list9.isonline.me:8000/live/testapp/testapp/274.ts
+#EXTINF:-1,HBO ZONE
+http://list9.isonline.me:8000/live/testapp/testapp/275.ts
+#EXTINF:-1,Travel Channel CA
+http://list9.isonline.me:8000/live/testapp/testapp/448.ts
+#EXTINF:-1,HBO COMEDY
+http://list9.isonline.me:8000/live/testapp/testapp/281.ts
+#EXTINF:-1,SHOWTIME
+http://list9.isonline.me:8000/live/testapp/testapp/282.ts
+#EXTINF:-1,E CA
+http://list9.isonline.me:8000/live/testapp/testapp/452.ts
+#EXTINF:-1,NBA USA
+http://list9.isonline.me:8000/live/testapp/testapp/277.ts
+#EXTINF:-1,AFN ATLANTIC
+http://list9.isonline.me:8000/live/testapp/testapp/461.ts
+#EXTINF:-1,SHOWTIME EXTREM
+http://list9.isonline.me:8000/live/testapp/testapp/450.ts
+#EXTINF:-1,AFN Movie
+http://list9.isonline.me:8000/live/testapp/testapp/465.ts
+#EXTINF:-1,AFN NEWS
+http://list9.isonline.me:8000/live/testapp/testapp/466.ts
+#EXTINF:-1,VH1
+http://list9.isonline.me:8000/live/testapp/testapp/445.ts
+#EXTINF:-1,E! Entertainment
+http://list9.isonline.me:8000/live/testapp/testapp/377.ts
+#EXTINF:-1,FOX Movies
+http://list9.isonline.me:8000/live/testapp/testapp/386.ts
+#EXTINF:-1,FOX Life HD
+http://list9.isonline.me:8000/live/testapp/testapp/385.ts
+#EXTINF:-1,FOX HD
+http://list9.isonline.me:8000/live/testapp/testapp/384.ts
+#EXTINF:-1,FOX Crime HD
+http://list9.isonline.me:8000/live/testapp/testapp/383.ts
+#EXTINF:-1,NATGEO HD
+http://list9.isonline.me:8000/live/testapp/testapp/403.ts
+#EXTINF:-1,Nat Geo Wild
+http://list9.isonline.me:8000/live/testapp/testapp/402.ts
+
 
 
 
