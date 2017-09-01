@@ -158,15 +158,15 @@ http://sevillafc_live-lh.akamaihd.net/i/radio_0@354144/index_0700_av-b.m3u8?sd=1
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 
 #EXTINF:-1,Sport TV 5 HD
-http://list9.isonline.me:8000/live/testapp/testapp/424.ts
+http://list9.isonline.me:8000/live/testapp/testapp/424.m3u8
 #EXTINF:-1,Sport TV 4 HD
-http://list9.isonline.me:8000/live/testapp/testapp/423.ts
+http://list9.isonline.me:8000/live/testapp/testapp/423.m3u8
 #EXTINF:-1,SPORT TV 3 HD
-http://list9.isonline.me:8000/live/testapp/testapp/422.ts
+http://list9.isonline.me:8000/live/testapp/testapp/422.m3u8
 #EXTINF:-1,SPORT TV 2 HD
-http://list9.isonline.me:8000/live/testapp/testapp/421.ts
+http://list9.isonline.me:8000/live/testapp/testapp/421.m3u8
 #EXTINF:-1,SPORT TV 1 HD
-http://list9.isonline.me:8000/live/testapp/testapp/420.ts
+http://list9.isonline.me:8000/live/testapp/testapp/420.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 1
 http://185.142.239.164:3135/1/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
@@ -199,28 +199,24 @@ http://bl.movcast.tv:1935/icoolkora/mbc-pro3_360p/playlist.m3u8
 
 
 
-#EXTINF:0,TSN1
-http://185.73.239.38:25461/live/thflix/Aa444444/82.m3u8
-#EXTINF:0,Disney XD
-http://185.73.239.38:25461/live/thflix/Aa444444/132.m3u8
-#EXTINF:0,FoxSport 3
-http://185.73.239.38:25461/live/thflix/Aa444444/131.m3u8
+
+
 #EXTINF:0,BTSport1
 http://185.73.239.38:25461/live/thflix/Aa444444/87.m3u8
+#EXTINF:0,BTSport2
+http://185.73.239.38:25461/live/thflix/Aa444444/88.m3u8
 #EXTINF:0,ESPN1
 http://185.73.239.38:25461/live/thflix/Aa444444/89.m3u8
-#EXTINF:0,ESPN2
-http://185.73.239.38:25461/live/thflix/Aa444444/90.m3u8
 #EXTINF:0,NBA
 http://185.73.239.38:25461/live/thflix/Aa444444/91.m3u8
-#EXTINF:0,SkySport1
+#EXTINF:0,SkyNews
 http://185.73.239.38:25461/live/thflix/Aa444444/92.m3u8
-#EXTINF:0,SkySport3
+#EXTINF:0,SkySport Action
 http://185.73.239.38:25461/live/thflix/Aa444444/94.m3u8
-#EXTINF:0,SkySport4
-http://185.73.239.38:25461/live/thflix/Aa444444/95.m3u8
-#EXTINF:0,SkySport5
+#EXTINF:0,SkySport premier league
 http://185.73.239.38:25461/live/thflix/Aa444444/96.m3u8
+#EXTINF:0,TSN1
+http://185.73.239.38:25461/live/thflix/Aa444444/82.m3u8
 #EXTINF:0,TSN2
 http://185.73.239.38:25461/live/thflix/Aa444444/83.m3u8
 #EXTINF:0,TSN3
@@ -231,14 +227,12 @@ http://185.73.239.38:25461/live/thflix/Aa444444/121.m3u8
 http://185.73.239.38:25461/live/thflix/Aa444444/122.m3u8
 #EXTINF:0,FoxSport 2
 http://185.73.239.38:25461/live/thflix/Aa444444/130.m3u8
+#EXTINF:0,FoxSport 3
+http://185.73.239.38:25461/live/thflix/Aa444444/131.m3u8
 #EXTINF:0,FoxSport HD
 http://185.73.239.38:25461/live/thflix/Aa444444/129.m3u8
-#EXTINF:0,TSN4
-http://185.73.239.38:25461/live/thflix/Aa444444/127.m3u8
-#EXTINF:0,TSN5
-http://185.73.239.38:25461/live/thflix/Aa444444/128.m3u8
-#EXTINF:0,BTSport2
-http://185.73.239.38:25461/live/thflix/Aa444444/88.m3u8
+
+
 
 
 #EXTINF:-1 group-title=MUSIC CHANNELS,tvg-logo="http://gulf-up.com/do.php?img=271",The Edge
@@ -724,7 +718,7 @@ http://list9.isonline.me:8000/live/testapp/testapp/383.ts
 #EXTINF:-1,NATGEO HD
 http://list9.isonline.me:8000/live/testapp/testapp/403.ts
 #EXTINF:-1,Nat Geo Wild
-http://list9.isonline.me:8000/live/testapp/testapp/402.ts
+http://list9.isonline.me:8000/live/testapp/testapp/402.m3u8
 
 
 
