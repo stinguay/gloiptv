@@ -482,6 +482,27 @@ http://185.142.239.164:3135/Super/4/index.m3u8
 
 
 
+#EXTINF:-1,BEIN-SPORT.HD.1
+http://xtream.hopto.me:9000/live/9/9/4420.ts
+#EXTINF:-1,BEIN-SPORT.HD.2
+http://xtream.hopto.me:9000/live/9/9/4421.ts
+#EXTINF:-1,BEIN-SPORT.HD.3
+http://xtream.hopto.me:9000/live/9/9/4422.ts
+#EXTINF:-1,BEIN-SPORT.HD.4
+http://xtream.hopto.me:9000/live/9/9/4423.ts
+#EXTINF:-1,BEIN-SPORT.HD.5
+http://xtream.hopto.me:9000/live/9/9/4424.ts
+#EXTINF:-1,BEIN-SPORT.HD.6
+http://xtream.hopto.me:9000/live/9/9/4425.ts
+#EXTINF:-1,BEIN-SPORT.HD.7
+http://xtream.hopto.me:9000/live/9/9/4426.ts
+#EXTINF:-1,BEIN-SPORT.HD.8
+http://xtream.hopto.me:9000/live/9/9/4427.ts
+#EXTINF:-1,BEIN-SPORT.HD.9
+http://xtream.hopto.me:9000/live/9/9/4428.ts
+#EXTINF:-1,BEIN-SPORT.HD.10
+http://xtream.hopto.me:9000/live/9/9/4429.ts
+
 
 
 #EXTINF:-1 group-title=MOVIE CHANNELS,tvg-logo="http://gulf-up.com/do.php?img=271408",STAR Movies HD
